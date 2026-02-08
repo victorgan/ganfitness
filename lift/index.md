@@ -12,6 +12,8 @@ The **Base Program** prescribes a complete routine. The **Comprehensive Exercise
 - [Lower A](#lower-a) (Squat Focus)
 - [Upper B](#upper-b) (Vertical Push/Pull)
 - [Lower B](#lower-b) (Hinge Focus)
+- [Conditioning A](#conditioning-a) (Steady State)
+- [Conditioning B](#conditioning-b) (Intervals/Circuits)
 
 ## [2. Comprehensive Exercise Guide](#comprehensive-exercise-guide)
 
@@ -46,13 +48,15 @@ The **Base Program** prescribes a complete routine. The **Comprehensive Exercise
 
 # Base Program
 
-A 4-day upper/lower split. Do exactly this. Every set, rep, and rest time is specified — don't improvise until you've run this for at least 12 weeks. Sessions take 50–65 minutes. Exercise selection matters, but not as much as consistency, progressive overload, and eating enough protein (0.7–1 g per pound of bodyweight daily).
+A 4-day upper/lower split plus 2 conditioning days. Do exactly this. Every set, rep, and rest time is specified — don't improvise until you've run this for at least 12 weeks. Lifting sessions take 55–70 minutes (including power primers); conditioning sessions take 20–30 minutes. Exercise selection matters, but not as much as consistency, progressive overload, and eating enough protein (0.7–1 g per pound of bodyweight daily).
 
-**Schedule:** Monday Upper A, Tuesday Lower A, Thursday Upper B, Friday Lower B. Wednesday and weekends are rest days. Don't rearrange — upper and lower days alternate to give each half of the body 48+ hours of recovery.
+**Schedule:** Monday Upper A, Tuesday Lower A, Wednesday Conditioning A, Thursday Upper B, Friday Lower B, Saturday Conditioning B. Sunday is a full rest day. Don't rearrange — upper and lower days alternate to give each half of the body 48+ hours of recovery.
 
 **Rest Days:** Light activity is fine — walking, easy cycling, stretching. Don't train the same muscle groups on rest days.
 
-**Warm-up:** 5 minutes of light cardio (bike, row, or brisk walk), then 2–3 warm-up sets of the first exercise ramping from an empty bar to working weight. Skip static stretching before lifting — it reduces power output. Dynamic warm-ups (leg swings, arm circles, bodyweight squats) are fine after the cardio.
+**Warm-up:** 5 minutes of light cardio (bike, row, or brisk walk), then the power primer listed for that day, then 2–3 warm-up sets of the first exercise ramping from an empty bar to working weight. Skip static stretching before lifting — it reduces power output. Dynamic warm-ups (leg swings, arm circles, bodyweight squats) are fine after the cardio.
+
+**Power Primers:** Every lifting session starts with an explosive movement after the general warm-up. Use submaximal effort — the goal is speed and coordination, not fatigue. Never go near failure. Rest fully between sets.
 
 **Progression:** Use double progression. When you hit the top of the rep range on all working sets, add weight next session (5 lb for barbell compounds, 5 lb total for dumbbells, one plate on machines). Drop back to the bottom of the rep range and build up again. If you stall for two consecutive sessions, deload that exercise by 10% and rebuild. Every 5th week, take a deload week: same exercises and reps, but reduce all weights by 40–50%.
 
@@ -68,12 +72,13 @@ Horizontal push/pull focus. Bench press is the priority.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
+| P | [Medicine Ball Chest Pass](#medicine-ball-chest-pass) (power primer) | 3 x 5 | 60 sec |
 | 1 | [Flat Barbell Bench Press](#flat-barbell-bench-press) | 4 x 5–7 | 3 min |
 | 2 | [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) | 4 x 8–10 | 2 min |
 | 3 | [Cable Lateral Raises](#cable-lateral-raises) | 3 x 12–15 | 90 sec |
 | 4 | [Overhead Tricep Extensions](#overhead-tricep-extensions) | 3 x 10–12 | 90 sec |
 | 5 | [Face Pulls](#face-pulls) | 3 x 15–20 | 60 sec |
-| 6 | [Weighted Cable Crunches](#weighted-cable-crunches) | 2 x 12–15 | 60 sec |
+| 6 | [Turkish Get-Ups](#turkish-get-ups) | 2 x 3 each side | 90 sec |
 
 ## Lower A
 
@@ -81,9 +86,10 @@ Squat focus. Back squat is the priority.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
+| P | [Box Jumps](#box-jumps) (power primer) | 3 x 3 | 90 sec |
 | 1 | [Barbell Back Squat](#barbell-back-squat) | 4 x 5–7 | 3 min |
 | 2 | [Bulgarian Split Squats](#bulgarian-split-squats) | 3 x 8–10 each | 2 min |
-| 3 | [Barbell Hip Thrusts](#barbell-hip-thrusts) | 3 x 10–12 | 2 min |
+| 3 | [Walking Lunges](#walking-lunges) | 3 x 8 each | 2 min |
 | 4 | [Standing Calf Raises](#standing-calf-raises) | 3 x 12–15 | 90 sec |
 | 5 | [Hanging Leg Raises](#hanging-leg-raises) | 3 x 10–15 | 90 sec |
 
@@ -93,6 +99,7 @@ Vertical push/pull focus. Military press is the priority.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
+| P | [Medicine Ball Slam](#medicine-ball-slam) (power primer) | 3 x 5 | 60 sec |
 | 1 | [Military Press](#military-press) | 4 x 5–7 | 3 min |
 | 2 | [Weighted Pull-Ups](#weighted-pull-ups) | 4 x 5–8 | 3 min |
 | 3 | [Incline Dumbbell Press](#incline-dumbbell-press) | 3 x 8–10 | 2 min |
@@ -102,15 +109,39 @@ Vertical push/pull focus. Military press is the priority.
 
 ## Lower B
 
-Hinge focus. Deadlift is the priority. Leg extensions are here for quad frequency (quads otherwise only get trained on Lower A).
+Hinge focus. Deadlift is the priority. Single-leg RDLs add balance and unilateral posterior chain work.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
+| P | [Broad Jumps](#broad-jumps) (power primer) | 3 x 3 | 90 sec |
 | 1 | [Deadlift](#deadlift) | 4 x 3–5 | 3–4 min |
 | 2 | [Nordic Hamstring Curls](#nordic-hamstring-curls) (or assisted negatives) | 3 x 5–8 | 2 min |
-| 3 | [Leg Extensions](#leg-extensions) | 3 x 10–12 | 90 sec |
+| 3 | [Single-Leg Romanian Deadlift](#single-leg-romanian-deadlift) | 3 x 8 each | 2 min |
 | 4 | [Seated Calf Raises](#seated-calf-raises) | 3 x 15–20 | 90 sec |
 | 5 | [Suitcase Carries](#suitcase-carries) | 3 x 30 sec each side | 90 sec |
+
+## Conditioning A
+
+Wednesday. 20–30 minutes of sustained moderate effort. Pick one and stick with it for at least 4 weeks before rotating.
+
+- Rowing (damper 4–6, maintain consistent split)
+- Cycling (moderate resistance, steady pace)
+- Swimming (continuous laps, any stroke)
+- Running (easy conversational pace)
+
+Heart rate target: 130–150 bpm. You should be able to speak in short sentences but not hold a full conversation.
+
+## Conditioning B
+
+Saturday. 20–30 minutes of interval or circuit work. Complete the circuit, rest, repeat. Scale loads to maintain quality movement through all rounds.
+
+**Example circuit** (5 rounds, 90 sec rest between rounds):
+1. Sled Push — 30 sec
+2. Farmer's Walk — 30 sec
+3. Kettlebell Swings — 15 reps
+4. Rest — 90 sec
+
+Substitute any combination of carries, sled work, rowing sprints, bike sprints, or kettlebell work. The goal is elevated heart rate with full-body movement, not grinding to failure.
 
 When you've run this program for 12+ weeks — you're stalling on multiple exercises after deloads, or your goals shift toward targeted hypertrophy — see the [Comprehensive Exercise Guide](#comprehensive-exercise-guide) below to build your own program.
 
@@ -203,10 +234,11 @@ Back squat first (highest [loadability](#loadability) and [fatigue cost](#fatigu
 Conventional deadlift opens as the heaviest posterior chain movement — see [anthropometry](#anthropometry) for choosing between conventional and [RDL](#romanian-deadlift). Nordics follow for eccentric hamstring injury prevention. Seated leg curls close by covering knee flexion, which the deadlift doesn't train — ensuring [muscle architecture](#muscle-architecture) coverage across both joints the hamstrings cross. [RDL](#romanian-deadlift) removed: the deadlift already covers the hip extension pattern, and Nordics plus seated leg curls handle knee flexion.
 
 **Glutes** ([Gluteus Maximus](#gluteus-maximus), [Gluteus Medius](#gluteus-medius))
-1. [Barbell Hip Thrusts](#barbell-hip-thrusts) (primary compound)
-2. [Cable Hip Abductions](#cable-hip-abductions) (medius isolation)
+1. [Walking Lunges](#walking-lunges) (dynamic unilateral compound)
+2. [Single-Leg Romanian Deadlift](#single-leg-romanian-deadlift) (unilateral hinge / balance)
+3. [Cable Hip Abductions](#cable-hip-abductions) (medius isolation)
 
-Hip thrusts for peak glute loading at full extension; cable hip abductions isolate the [gluteus medius](#gluteus-medius) for hip stability and ACL injury prevention. Glute max stretch comes from deep squats and deadlifts programmed under Quads and Hamstrings above. [Walking lunges](#walking-lunges) and [single-leg RDLs](#single-leg-romanian-deadlift) removed: Bulgarian split squats (under quads) already provide unilateral glute stimulus, and adding more creates [redundancy](#redundancy-and-overlap).
+Walking lunges for dynamic locomotion and single-leg strength with glute and quad loading; single-leg RDLs for unilateral hip hinge patterning and balance that transfers to athletic movement. Cable hip abductions isolate the [gluteus medius](#gluteus-medius) for hip stability and ACL injury prevention. [Barbell hip thrusts](#barbell-hip-thrusts) removed: walking lunges and single-leg RDLs provide superior athletic transfer and balance training while still loading the glutes heavily; glute max peak contraction work is less important than movement quality for general fitness goals.
 
 **Calves** ([Gastrocnemius](#gastrocnemius), [Soleus](#soleus))
 1. [Standing Calf Raises](#standing-calf-raises) (gastrocnemius)
@@ -238,9 +270,10 @@ Hanging leg raises for longest [range of motion](#full-range-of-motion) and spin
 Suitcase carries for anti-lateral-flexion under heavy load; cable woodchoppers for rotational power in the transverse [movement plane](#movement-plane-coverage) that most exercises miss. [Side planks](#side-planks) removed: suitcase carries train anti-lateral-flexion more effectively under progressive loading.
 
 **Deep Core** ([Transversus Abdominis](#transversus-abdominis), [Quadratus Lumborum](#quadratus-lumborum))
-1. [Stomach Vacuums](#stomach-vacuums) (TVA isolation)
+1. [Turkish Get-Ups](#turkish-get-ups) (full-body coordination / functional movement)
+2. [Stomach Vacuums](#stomach-vacuums) (TVA isolation)
 
-The only exercise that directly isolates the transversus abdominis. [Planks](#planks) removed: the TVA and deep stabilizers are already trained by ab wheel rollouts, suitcase carries, and every heavy compound. [Quadratus lumborum](#quadratus-lumborum) is covered by suitcase carries above.
+Turkish get-ups for full-body coordination, shoulder stability, and the floor-to-standing movement pattern; stomach vacuums for direct transversus abdominis isolation. [Planks](#planks) removed: the TVA and deep stabilizers are already trained by ab wheel rollouts, suitcase carries, Turkish get-ups, and every heavy compound. [Quadratus lumborum](#quadratus-lumborum) is covered by suitcase carries above.
 
 Each exercise linked above has a full description, cues, and comparisons in the reference sections below.
 
@@ -313,6 +346,18 @@ Push a rope attachment down on a high cable, spreading the ends apart at the bot
 #### Overhead Tricep Extensions
 
 Hold a dumbbell or cable overhead and lower it behind your head by bending at the elbows, then extend back up. Places the long head of the triceps in a deep [stretch under load](#stretch-under-load), which is the most effective position for growing the largest triceps head. The cable version offers a better [resistance profile](#resistance-profile) than dumbbells with lower [joint stress](#joint-stress) on the elbows. Choose this over [Skullcrushers](#skullcrushers) for a smoother stretch on the long head with less elbow strain; choose Skullcrushers for heavier free-weight loading.
+
+### Explosive Push
+
+Explosive movements are technique-driven and best learned with a coach. Only foundational movements are listed.
+
+#### Medicine Ball Chest Pass
+
+Stand facing a wall holding a medicine ball at chest height, then explosively push the ball forward into the wall and catch the rebound. Develops upper body pushing power and rate of force development through the chest, shoulders, and triceps. Minimal [skill and technique requirements](#skill-and-technique-requirements) compared to barbell explosive lifts; low [fatigue cost](#fatigue-cost) and [joint stress](#joint-stress) make it ideal as a power primer before pressing. Choose this over [Flat Barbell Bench Press](#flat-barbell-bench-press) when training pushing speed and power output; choose Bench Press for maximum strength and hypertrophy.
+
+#### Medicine Ball Slam
+
+Stand holding a medicine ball overhead, brace the core, and slam the ball into the ground as hard as possible, catching or picking it up for the next rep. Develops full-body power through the lats, core, and hip flexors in a vertical pulling-and-slamming pattern. Very low [fatigue cost](#fatigue-cost) and minimal [skill and technique requirements](#skill-and-technique-requirements); the concentric-only nature means almost no muscle damage. Use a dead-bounce (sand-filled) ball for slams to the floor. Choose this over [Weighted Pull-Ups](#weighted-pull-ups) when overhead power and core explosiveness are the priority; choose Pull-Ups for maximum lat strength and hypertrophy.
 
 ## Pull Exercises
 
@@ -502,6 +547,10 @@ Explosive movements are technique-driven and best learned with a coach. Only fou
 
 Stand facing a plyo box, dip into a quarter squat, and explode upward to land on the box with both feet, then step down (don't jump down — stepping reduces eccentric joint stress). Develops lower body power, rate of force development, and the stretch-shortening cycle in the quads, glutes, and calves. Minimal [equipment availability](#equipment-availability) requirements and low [fatigue cost](#fatigue-cost) when stepping down; the concentric-dominant [contraction type](#contraction-type-emphasis) builds explosiveness with minimal muscle damage. Choose this over [Barbell Back Squat](#barbell-back-squat) when power output and athleticism are the priority; choose Back Squat when maximum strength and hypertrophy are the goal.
 
+#### Broad Jumps
+
+Stand with feet hip-width apart, dip into a quarter squat, swing the arms forward, and explode horizontally as far as possible, landing softly on both feet. Develops horizontal power production through the quads, glutes, and calves — the same force vector used in sprinting and change-of-direction movements. Minimal [equipment availability](#equipment-availability) requirements (just floor space) and low [fatigue cost](#fatigue-cost); the horizontal emphasis complements the vertical power trained by [Box Jumps](#box-jumps). Choose this over [Box Jumps](#box-jumps) when horizontal power and sprint transfer are the priority; choose Box Jumps for vertical explosiveness.
+
 ## Core Exercises
 
 ### Abs
@@ -545,6 +594,10 @@ Stand, sit, or kneel, exhale all air from your lungs, then pull your navel in to
 #### Planks
 
 Hold a push-up position on your forearms with your body in a straight line from head to heels. The foundational anti-extension exercise that builds endurance in the rectus abdominis, obliques, and deep core. No [equipment availability](#equipment-availability) requirements and low [joint stress](#joint-stress); add weight on your back to improve [loadability](#loadability) beyond bodyweight. Choose this over [Ab Wheel Rollouts](#ab-wheel-rollouts) for baseline core endurance and accessibility; choose Ab Wheel for higher-intensity anti-extension work.
+
+#### Turkish Get-Ups
+
+Lie on your back holding a kettlebell or dumbbell pressed overhead in one hand, then stand up through a specific sequence — roll to elbow, post to hand, bridge hips, sweep leg to kneeling, stand — while keeping the weight locked out overhead the entire time. Reverse the sequence to return to the floor. Trains shoulder stability, hip mobility, core bracing, and the floor-to-standing movement pattern that is one of the strongest predictors of functional independence with aging. High [skill and technique requirements](#skill-and-technique-requirements) — learn the sequence unloaded first; moderate [loadability](#loadability) with slow progression. Choose this over [Planks](#planks) when full-body coordination, shoulder stability, and functional movement are the priority; choose Planks for simpler anti-extension endurance.
 
 # Muscle Anatomy
 
@@ -900,4 +953,5 @@ Beginners benefit most from simple, compound, bilateral exercises with low skill
 Exercise selection differs by goal. **Strength-focused** trainees prioritize heavy compounds with competition specificity; accessories are selected to support the primary lifts. **Hypertrophy-focused** trainees prioritize stretch under load, mind-muscle connection, and stimulus-to-fatigue ratio; the best exercise is whichever produces the most growth for that individual. **Athletic performance** trainees prioritize movement pattern transfer, velocity, and multi-planar work. **General fitness** trainees benefit from a balanced selection across movement patterns and planes, favoring exercises with good long-term joint health profiles.
 
 # Change Log
+- 2026-02-08: Add athletic/conditioning layer: power primers (med ball chest pass, med ball slam, box jumps, broad jumps), two conditioning days (steady state + intervals), Turkish get-ups. Swap hip thrusts → walking lunges, leg extensions → single-leg RDLs, cable crunches → Turkish get-ups. Add exercise reference entries for new movements.
 - 2026-02-07: Start
