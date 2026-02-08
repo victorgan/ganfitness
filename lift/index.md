@@ -60,7 +60,7 @@ A 4-day upper/lower split. Do exactly this. Every set, rep, and rest time is spe
 
 ## Upper A
 
-Horizontal push/pull focus. Bench press is the priority — do it first and fresh.
+Horizontal push/pull focus. Bench press is the priority.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
@@ -72,7 +72,7 @@ Horizontal push/pull focus. Bench press is the priority — do it first and fres
 
 ## Lower A
 
-Squat focus. Back squat is the priority — do it first and fresh.
+Squat focus. Back squat is the priority.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
@@ -84,7 +84,7 @@ Squat focus. Back squat is the priority — do it first and fresh.
 
 ## Upper B
 
-Vertical push/pull focus. Military press is the priority — do it first and fresh.
+Vertical push/pull focus. Military press is the priority.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
@@ -96,7 +96,7 @@ Vertical push/pull focus. Military press is the priority — do it first and fre
 
 ## Lower B
 
-Hinge focus. Deadlift is the priority — do it first and fresh.
+Hinge focus. Deadlift is the priority.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
