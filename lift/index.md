@@ -41,7 +41,6 @@ The **Base Program** prescribes a complete routine. The **Comprehensive Exercise
 - [Practical Factors](#practical-factors)
 - [Programming Context](#programming-context)
 - [Individual Factors](#individual-factors)
-- [Quick Reference: Exercise Selection Checklist](#quick-reference-exercise-selection-checklist)
 
 [6. Change Log](#change-log)
 
@@ -758,6 +757,32 @@ A deep, rectangular muscle on each side of the lumbar spine, connecting the lowe
 
 There is no universally best exercise. The best exercise for a given muscle depends on the stimulus it provides, how it fits into a program, and the individual performing it. The factors below serve as evaluation criteria for choosing and swapping exercises.
 
+| Category | Factor | Key Question |
+| :--- | :--- | :--- |
+| [Stimulus Quality](#stimulus-quality) | [Stretch Under Load](#stretch-under-load) | Does this exercise challenge the muscle in its lengthened position? |
+| [Stimulus Quality](#stimulus-quality) | [Full Range of Motion](#full-range-of-motion) | Am I moving through the complete joint range? |
+| [Stimulus Quality](#stimulus-quality) | [Resistance Profile](#resistance-profile) | Does the resistance tool match the muscle's strength curve? |
+| [Stimulus Quality](#stimulus-quality) | [Contraction Type](#contraction-type-emphasis) | Does this exercise allow a controlled eccentric and stretched pause? |
+| [Stimulus Quality](#stimulus-quality) | [Mind-Muscle Connection](#mind-muscle-connection) | Can I feel the target muscle working throughout the set? |
+| [Stimulus Quality](#stimulus-quality) | [Muscle Architecture](#muscle-architecture) | Does this exercise suit the fiber orientation and multi-function nature of the target muscle? |
+| [Exercise Structure](#exercise-structure) | [Compound vs. Isolation](#compound-vs-isolation) | Is this the right tool for the job: overload or targeted stimulus? |
+| [Exercise Structure](#exercise-structure) | [Bilateral vs. Unilateral](#bilateral-vs-unilateral) | Am I addressing imbalances and training both patterns across the week? |
+| [Exercise Structure](#exercise-structure) | [Movement Plane](#movement-plane-coverage) | Am I covering sagittal, frontal, and transverse planes across the week? |
+| [Practical Factors](#practical-factors) | [Loadability](#loadability) | Can I progressively overload this exercise in small increments? |
+| [Practical Factors](#practical-factors) | [Stability Demands](#stability-demands) | Is the stability level appropriate for my goal with this exercise? |
+| [Practical Factors](#practical-factors) | [Joint Stress](#joint-stress) | Does this exercise stress joints disproportionately relative to muscle stimulus? |
+| [Practical Factors](#practical-factors) | [Fatigue Cost](#fatigue-cost) | Is the stimulus-to-fatigue ratio acceptable for this exercise's role in the program? |
+| [Practical Factors](#practical-factors) | [Setup and Convenience](#setup-time-and-convenience) | Is the setup complexity justified by the stimulus? |
+| [Practical Factors](#practical-factors) | [Skill Requirements](#skill-and-technique-requirements) | Do I have the technique to load this exercise meaningfully? |
+| [Programming Context](#programming-context) | [Novelty and Variation](#exercise-novelty-and-variation) | Am I rotating accessories while keeping primary lifts consistent? |
+| [Programming Context](#programming-context) | [Redundancy and Overlap](#redundancy-and-overlap) | Does this exercise fill a unique role or duplicate another? |
+| [Programming Context](#programming-context) | [Recovery Compatibility](#recovery-compatibility) | Does this exercise fit within the weekly recovery budget? |
+| [Individual Factors](#individual-factors) | [Anthropometry](#anthropometry) | Does this exercise suit my body proportions? |
+| [Individual Factors](#individual-factors) | [Injury History](#injury-history) | Can I perform this exercise pain-free? |
+| [Individual Factors](#individual-factors) | [Equipment Availability](#equipment-availability) | Do I have the equipment to perform this exercise consistently? |
+| [Individual Factors](#individual-factors) | [Training Experience](#training-experience) | Is this exercise appropriate for my experience level? |
+| [Individual Factors](#individual-factors) | [Training Goals](#training-goals) | Does this exercise align with my primary training objective? |
+
 ## Stimulus Quality
 
 These factors determine how effectively an exercise drives muscle growth in the target tissue.
@@ -871,34 +896,6 @@ Beginners benefit most from simple, compound, bilateral exercises with low skill
 ### Training Goals
 
 Exercise selection differs by goal. **Strength-focused** trainees prioritize heavy compounds with competition specificity; accessories are selected to support the primary lifts. **Hypertrophy-focused** trainees prioritize stretch under load, mind-muscle connection, and stimulus-to-fatigue ratio; the best exercise is whichever produces the most growth for that individual. **Athletic performance** trainees prioritize movement pattern transfer, velocity, and multi-planar work. **General fitness** trainees benefit from a balanced selection across movement patterns and planes, favoring exercises with good long-term joint health profiles.
-
-## Quick Reference: Exercise Selection Checklist
-
-| Category | Factor | Key Question |
-| :--- | :--- | :--- |
-| Stimulus Quality | Stretch Under Load | Does this exercise challenge the muscle in its lengthened position? |
-| Stimulus Quality | Full Range of Motion | Am I moving through the complete joint range? |
-| Stimulus Quality | Resistance Profile | Does the resistance tool match the muscle's strength curve? |
-| Stimulus Quality | Contraction Type | Does this exercise allow a controlled eccentric and stretched pause? |
-| Stimulus Quality | Mind-Muscle Connection | Can I feel the target muscle working throughout the set? |
-| Stimulus Quality | Muscle Architecture | Does this exercise suit the fiber orientation and multi-function nature of the target muscle? |
-| Exercise Structure | Compound vs. Isolation | Is this the right tool for the job: overload or targeted stimulus? |
-| Exercise Structure | Bilateral vs. Unilateral | Am I addressing imbalances and training both patterns across the week? |
-| Exercise Structure | Movement Plane | Am I covering sagittal, frontal, and transverse planes across the week? |
-| Practical | Loadability | Can I progressively overload this exercise in small increments? |
-| Practical | Stability Demands | Is the stability level appropriate for my goal with this exercise? |
-| Practical | Joint Stress | Does this exercise stress joints disproportionately relative to muscle stimulus? |
-| Practical | Fatigue Cost | Is the stimulus-to-fatigue ratio acceptable for this exercise's role in the program? |
-| Practical | Setup and Convenience | Is the setup complexity justified by the stimulus? |
-| Practical | Skill Requirements | Do I have the technique to load this exercise meaningfully? |
-| Programming | Novelty and Variation | Am I rotating accessories while keeping primary lifts consistent? |
-| Programming | Redundancy and Overlap | Does this exercise fill a unique role or duplicate another? |
-| Programming | Recovery Compatibility | Does this exercise fit within the weekly recovery budget? |
-| Individual | Anthropometry | Does this exercise suit my body proportions? |
-| Individual | Injury History | Can I perform this exercise pain-free? |
-| Individual | Equipment Availability | Do I have the equipment to perform this exercise consistently? |
-| Individual | Training Experience | Is this exercise appropriate for my experience level? |
-| Individual | Training Goals | Does this exercise align with my primary training objective? |
 
 # Change Log
 - 2026-02-07: Start
