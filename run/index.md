@@ -53,7 +53,7 @@ Pace zones are derived from the 1:39 half marathon (7:33/mi race pace) using sta
 | Threshold | 7:15–7:25/mi | Lactate threshold |
 | VO2max | 6:15–6:25/mi | Aerobic ceiling (5K effort) |
 | Speed | 5:45–5:55/mi | Economy, neuromuscular (mile effort) |
-| Repetition | 5:30–5:40/mi | Pure speed (800m effort) |
+
 
 ## Easy Days
 
@@ -159,7 +159,7 @@ After a 1-mile warm-up, alternate between surges of 1–5 minutes at threshold-t
 
 ### Steady Long Run
 
-Run 12–16 miles at easy pace (8:45–9:15/mi), starting conservatively and holding even effort throughout. The steady long run builds [aerobic](#aerobic-system) endurance, fat oxidation efficiency, [glycogen depletion–driven mitochondrial signaling](#mitochondria), and [musculoskeletal](#musculoskeletal) durability — the time on feet is the stimulus, not the pace. At 160 lbs, each mile generates roughly 1,500 foot strikes at 2.5x body weight, so the cumulative load of a 14-mile run is approximately 5.3 million pounds of total force. Use softer surfaces (trails, grass, packed dirt) when available to reduce impact stress. Cap at 16 miles — beyond that, the [fatigue cost](#fatigue-cost) and [injury risk](#injury-risk) at this body weight outweigh the marginal aerobic benefit. The steady long run is the default and should make up most long runs throughout the year. Choose this over [progressive long runs](#progressive-long-run) or [segmented long runs](#long-run-with-threshold-segments) during base building or when cumulative fatigue is high; choose the quality long run variants during build and peak phases.
+Run 12–16 miles at easy pace (8:45–9:15/mi), starting conservatively and holding even effort throughout. The steady long run builds [aerobic](#aerobic-system) endurance, fat oxidation efficiency, glycogen-driven [mitochondrial](#mitochondria) signaling, and [musculoskeletal](#musculoskeletal) durability — the time on feet is the stimulus, not the pace. At 160 lbs, each mile generates roughly 1,500 foot strikes at 2.5x body weight, so the cumulative load of a 14-mile run is approximately 5.3 million pounds of total force. Use softer surfaces (trails, grass, packed dirt) when available to reduce impact stress. Cap at 16 miles — beyond that, the [fatigue cost](#fatigue-cost) and [injury risk](#injury-risk) at this body weight outweigh the marginal aerobic benefit. The steady long run is the default and should make up most long runs throughout the year. Choose this over [progressive long runs](#progressive-long-run) or [segmented long runs](#long-run-with-threshold-segments) during base building or when cumulative fatigue is high; choose the quality long run variants during build and peak phases.
 
 ### Progressive Long Run
 
@@ -344,7 +344,7 @@ The probability of a workout causing acute or overuse injury. Risk increases wit
 
 ### Weather and Conditions
 
-Heat and humidity are the most performance-limiting environmental factors. Heat raises core temperature, increases cardiac drift, reduces blood available to muscles (diverted to skin for cooling), and dramatically increases perceived effort. Paces should be adjusted: add 15–30 seconds per mile for every 10 degrees above 60 degrees F. Humidity compounds the effect by reducing evaporative cooling. Cold weather is less problematic physiologically but increases warm-up time and can stiffen muscles and tendons. Altitude reduces oxygen partial pressure and degrades performance immediately (2–3% per 1,000 feet above 5,000 feet) but triggers [EPO production](#blood) and hemoglobin mass increases after 2–3 weeks of exposure. For a 160 lb runner, heat management is more challenging because the larger body produces more metabolic heat while having a lower surface-area-to-mass ratio for cooling.
+Heat and humidity are the most performance-limiting environmental factors. Heat raises core temperature, increases cardiac drift, reduces blood available to muscles (diverted to skin for cooling), and dramatically increases perceived effort. Paces should be adjusted: add 15–30 seconds per mile for every 10 degrees above 60 degrees F. Humidity compounds the effect by reducing evaporative cooling. Cold weather is less problematic physiologically but increases warm-up time and can stiffen muscles and tendons. Altitude reduces oxygen partial pressure and degrades performance immediately (2–3% per 1,000 feet above 5,000 feet) but triggers EPO (erythropoietin) production and [hemoglobin mass](#blood) increases after 2–3 weeks of exposure. For a 160 lb runner, heat management is more challenging because the larger body produces more metabolic heat while having a lower surface-area-to-mass ratio for cooling.
 
 ### Equipment and Location
 
