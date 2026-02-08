@@ -17,14 +17,14 @@ The **Base Program** prescribes a complete routine. The **Comprehensive Exercise
 
 - [Push](#push) (Chest, Shoulders, Triceps)
 - [Pull](#pull) (Back, Biceps, Forearms)
-- [Legs](#legs) (Quads, Hamstrings, Glutes, Calves)
+- [Legs](#legs) (Quads, Hamstrings, Glutes, Calves, Adductors)
 - [Core](#core) (Abs, Obliques, Deep Core)
 
 ## [3. Weightlifting Exercises](#weightlifting-exercises)
 
 - [Push Exercises](#push-exercises) (Chest, Shoulder, Triceps)
-- [Pull Exercises](#pull-exercises) (Back, Biceps, Forearms, Explosive)
-- [Leg Exercises](#leg-exercises) (Quads, Hamstrings, Glutes, Calves, Explosive)
+- [Pull Exercises](#pull-exercises) (Back, Traps, Biceps, Forearms, Explosive)
+- [Leg Exercises](#leg-exercises) (Quads, Hamstrings, Glutes, Calves, Adductors, Explosive)
 - [Core Exercises](#core-exercises) (Abs, Obliques, Deep Core)
 
 ## [4. Muscle Anatomy](#muscle-anatomy)
