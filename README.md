@@ -46,27 +46,27 @@ Exercises are organized into a push/pull/legs/core split and listed in recommend
 The push split covers the chest, shoulders, and triceps. Chest movements are programmed first because the pectoralis major is the largest muscle group in this split and benefits most from being trained fresh. Shoulder pressing follows because it overlaps with chest pressing (anterior deltoid, triceps) but adds overhead strength. Lateral deltoid isolation comes next because compounds alone are insufficient for shoulder width. Triceps are last because they receive heavy indirect work from all pressing and only need targeted volume for the long head. Rotator cuff work closes the session as prehab with light loads.
 
 **Chest** ([Pectoralis Major](#pectoralis-major))
-1. [Flat Barbell Bench Press](#flat-barbell-bench-press)
-2. [Incline Dumbbell Press](#incline-dumbbell-press)
-3. [Cable Crossovers](#cable-crossovers)
+1. [Flat Barbell Bench Press](#flat-barbell-bench-press) (primary compound)
+2. [Incline Dumbbell Press](#incline-dumbbell-press) (upper chest compound)
+3. [Cable Crossovers](#cable-crossovers) (stretch isolation)
 
 Flat bench opens because it is the most [loadable](#loadability) chest movement and benefits from maximal freshness. Incline dumbbell press follows to shift emphasis to the upper (clavicular) fibers that flat pressing underserves, while the dumbbell format fixes left-right imbalances — this addresses [redundancy and overlap](#redundancy-and-overlap) by targeting a different portion of the muscle with a different implement. Cable crossovers close with a [stretch under load](#stretch-under-load) stimulus that pressing movements cannot provide, using constant tension through the full range for a superior [resistance profile](#resistance-profile). Together the three exercises cover all three pec fiber regions (sternal, clavicular, costal) across three resistance tools (barbell, dumbbell, cable), with the sequence moving from highest to lowest [fatigue cost](#fatigue-cost).
 
 **Shoulders** ([Anterior Deltoid](#anterior-deltoid), [Lateral Deltoid](#lateral-deltoid), [Posterior Deltoid](#posterior-deltoid))
-1. [Military Press](#military-press)
-2. [Cable Lateral Raises](#cable-lateral-raises)
-3. [Face Pulls](#face-pulls)
+1. [Military Press](#military-press) (primary compound)
+2. [Cable Lateral Raises](#cable-lateral-raises) (lateral delt isolation)
+3. [Face Pulls](#face-pulls) (rear delt + prehab)
 
 Military press is the only overhead compound needed because the anterior deltoid already receives significant work from bench pressing — adding a second overhead press would create [redundancy](#redundancy-and-overlap) without proportional benefit. Cable lateral raises follow because the [lateral deltoid](#lateral-deltoid) receives inadequate stimulus from any compound press and requires dedicated isolation with a [resistance profile](#resistance-profile) that provides constant tension. Face pulls close the shoulder block by training the [posterior deltoid](#posterior-deltoid) and external rotators simultaneously — this counterbalances the internal rotation from all pressing work and serves as [injury prevention](#injury-history). The seated dumbbell overhead press is removed from the primary list: it overlaps heavily with military press, and the lateral raise plus face pull combination covers the lateral and posterior heads more efficiently.
 
 **Triceps** ([Triceps Brachii](#triceps-brachii))
-1. [Overhead Tricep Extensions](#overhead-tricep-extensions)
-2. [Tricep Rope Pushdowns](#tricep-rope-pushdowns)
+1. [Overhead Tricep Extensions](#overhead-tricep-extensions) (long head stretch)
+2. [Tricep Rope Pushdowns](#tricep-rope-pushdowns) (volume accumulator)
 
 After heavy pressing, the triceps need targeted work for the long head — the only head that crosses the shoulder joint and is therefore only fully stretched in the overhead position. Overhead extensions provide this [stretch under load](#stretch-under-load). Pushdowns follow as a low-[fatigue-cost](#fatigue-cost) volume accumulator for the lateral and medial heads. Close-grip bench press and skullcrushers are removed from the primary list: close-grip bench overlaps too heavily with flat bench (same movement pattern, same [joint stress](#joint-stress) on shoulders and elbows), and skullcrushers duplicate the long-head stretch of overhead extensions with higher elbow [joint stress](#joint-stress). Two exercises suffice because the triceps receive substantial indirect volume from bench press and military press.
 
 **Rotator Cuff** ([Supraspinatus](#supraspinatus), [Infraspinatus](#infraspinatus))
-1. [Cable External Rotations](#cable-external-rotations)
+1. [Cable External Rotations](#cable-external-rotations) (prehab)
 
 A single dedicated rotator cuff exercise is sufficient because face pulls already train external rotation alongside the posterior deltoid. Cable external rotations isolate the infraspinatus and teres minor with a smooth [resistance profile](#resistance-profile) and minimal [joint stress](#joint-stress). Use light loads and higher reps. This closes the push session as low-intensity prehab.
 
@@ -75,33 +75,33 @@ A single dedicated rotator cuff exercise is sufficient because face pulls alread
 The pull split covers the back, traps, biceps, and forearms. Vertical pulling (lats) is programmed first because it is the most demanding upper-back movement and requires grip freshness. Horizontal pulling (mid-back) follows because it trains the rhomboids, mid-traps, and rear delts that vertical pulling underserves. Erector and trap work comes next as accessory posterior chain volume. Biceps and forearms close the session because they receive heavy indirect work from all pulling and fatigue during pulling does not limit these later exercises.
 
 **Lats** ([Latissimus Dorsi](#latissimus-dorsi))
-1. [Weighted Pull-Ups](#weighted-pull-ups)
-2. [Straight-Arm Pulldowns](#straight-arm-pulldowns)
+1. [Weighted Pull-Ups](#weighted-pull-ups) (primary compound)
+2. [Straight-Arm Pulldowns](#straight-arm-pulldowns) (isolation)
 
 Weighted pull-ups open as the heaviest vertical pull with excellent [stretch under load](#stretch-under-load) at the dead hang and the best [loadability](#loadability) of any lat exercise. Straight-arm pulldowns follow to isolate the lats by removing bicep involvement entirely, providing a different [resistance profile](#resistance-profile) (constant cable tension) and better [mind-muscle connection](#mind-muscle-connection). Wide-grip lat pulldowns are removed: they duplicate the pull-up's vertical pulling pattern with less loading potential. Two exercises covering two distinct movement patterns (compound vertical pull, isolation pulldown) are more efficient than three exercises in the same pattern, addressing [redundancy and overlap](#redundancy-and-overlap).
 
 **Mid-Back** ([Rhomboids](#rhomboids), [Trapezius](#trapezius))
-1. [Barbell Rows](#barbell-rows)
-2. [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows)
+1. [Barbell Rows](#barbell-rows) (primary compound)
+2. [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) (volume accumulator)
 
 Barbell rows provide the heaviest horizontal pull with excellent [loadability](#loadability), training the rhomboids, mid-traps, rear delts, and lats through scapular retraction. Chest-supported T-bar rows follow because they hit the same muscles with dramatically lower [fatigue cost](#fatigue-cost) — the chest support eliminates lower back fatigue, allowing you to focus purely on [mind-muscle connection](#mind-muscle-connection) and accumulate volume. Seated cable rows are removed to reduce [redundancy](#redundancy-and-overlap): three horizontal pulls is excessive, and the chest-supported row already fills the "low-fatigue row" slot. The two-row combination also provides a [stability demands](#stability-demands) contrast: one free-standing (barbell rows train the erectors isometrically) and one supported (chest-supported removes that demand).
 
 **Erectors & Traps** ([Erector Spinae](#erector-spinae), [Trapezius](#trapezius))
-1. [Weighted Hyperextensions](#weighted-hyperextensions)
-2. [Farmer's Walks](#farmers-walks)
+1. [Weighted Hyperextensions](#weighted-hyperextensions) (erector isolation)
+2. [Farmer's Walks](#farmers-walks) (loaded carry finisher)
 
 Weighted hyperextensions build the erectors with minimal spinal compression and the best [stimulus-to-fatigue ratio](#fatigue-cost) of any erector exercise — critical on a pull day where barbell rows have already taxed the lower back. Farmer's walks follow as a multi-function finisher: they train the upper traps, grip, [core](#transversus-abdominis) stability, and [erectors](#erector-spinae) simultaneously under time and tension, covering the traps without needing dedicated shrug exercises. Barbell shrugs and Kelso shrugs are removed: farmer's walks train all three trap regions while also building grip and core, making dedicated shrug work redundant unless trap development is a specific priority. Good mornings are removed because the erectors are already trained by barbell rows (isometric) and hyperextensions (concentric), and good mornings add [joint stress](#joint-stress) to a lower back that has already worked.
 
 **Biceps** ([Biceps Brachii](#biceps-brachii), [Brachialis](#brachialis))
-1. [Barbell Curls](#barbell-curls)
-2. [Incline Dumbbell Curls](#incline-dumbbell-curls)
-3. [Hammer Curls](#hammer-curls)
+1. [Barbell Curls](#barbell-curls) (primary lift)
+2. [Incline Dumbbell Curls](#incline-dumbbell-curls) (long head stretch)
+3. [Hammer Curls](#hammer-curls) (brachialis isolation)
 
 Barbell curls open the bicep block as the most [loadable](#loadability) curl variation for overall mass. Incline dumbbell curls follow to provide [stretch under load](#stretch-under-load) for the long head, which is the key driver of the bicep peak — this is the most important [muscle architecture](#muscle-architecture) consideration for biceps since the long head is only fully stretched when the shoulder is extended. Hammer curls close by shifting emphasis to the [brachialis](#brachialis) and [brachioradialis](#brachioradialis) through a neutral grip, ensuring full forearm coverage. Weighted chin-ups are removed from the bicep block because they duplicate the pull-up movement pattern already programmed under lats, and the [fatigue cost](#fatigue-cost) of another heavy compound at this point in the session would be excessive.
 
 **Forearms** ([Brachioradialis](#brachioradialis), [Wrist Flexors](#wrist-flexors))
-1. [Reverse Barbell Curls](#reverse-barbell-curls)
-2. [Plate Pinches](#plate-pinches)
+1. [Reverse Barbell Curls](#reverse-barbell-curls) (brachioradialis isolation)
+2. [Plate Pinches](#plate-pinches) (grip strength)
 
 Reverse barbell curls train the brachioradialis and wrist extensors — muscle groups that receive less indirect work from supinated pulling — and complement the hammer curls above by covering the pronated grip. Plate pinches build thumb and finger strength that gripping exercises miss. Barbell wrist curls are removed: the wrist flexors receive substantial indirect training from every gripping exercise in the pull session (rows, pull-ups, farmer's walks, curls), and dedicated wrist curl [joint stress](#joint-stress) is rarely worth the risk for most trainees.
 
@@ -110,34 +110,34 @@ Reverse barbell curls train the brachioradialis and wrist extensors — muscle g
 The leg split covers the quadriceps, hamstrings, glutes, calves, and adductors. Quad-dominant squatting is programmed first because it is the most systemically demanding movement and requires full neurological freshness. Hip hinge work (hamstrings/glutes) follows because it complements rather than competes with squatting — the primary movers differ despite both being lower-body compounds. Single-leg and isolation work comes next to address imbalances and target specific muscles. Calves and adductors close the session because they are single-joint movements with low fatigue cost.
 
 **Quadriceps** ([Quadriceps](#quadriceps))
-1. [Barbell Back Squat](#barbell-back-squat)
-2. [Bulgarian Split Squats](#bulgarian-split-squats)
-3. [Leg Extensions](#leg-extensions)
+1. [Barbell Back Squat](#barbell-back-squat) (primary compound)
+2. [Bulgarian Split Squats](#bulgarian-split-squats) (unilateral compound)
+3. [Leg Extensions](#leg-extensions) (volume accumulator)
 
 The back squat opens as the most [loadable](#loadability) lower body exercise, training the quads, glutes, and posterior chain under the heaviest absolute loads — it earns the first slot because [skill and technique requirements](#skill-and-technique-requirements) and [fatigue cost](#fatigue-cost) are both highest here. Bulgarian split squats follow as the [unilateral](#bilateral-vs-unilateral) complement, addressing left-right imbalances with high [stability demands](#stability-demands) that build functional single-leg strength while providing a lower [fatigue cost](#fatigue-cost) per unit of quad stimulus. Leg extensions close by isolating the quads — particularly the VMO for patellar tracking — without spinal loading, making them an efficient volume accumulator. The front squat is removed: it provides excellent quad bias but overlaps heavily with the back squat (both are bilateral barbell squats with high fatigue cost), and including both creates [redundancy](#redundancy-and-overlap) without sufficient benefit. The unilateral split squat fills the complementary role more effectively.
 
 **Hamstrings** ([Hamstring Muscles](#hamstring-muscles))
-1. [Romanian Deadlift](#romanian-deadlift)
-2. [Nordic Hamstring Curls](#nordic-hamstring-curls)
-3. [Seated Leg Curls](#seated-leg-curls)
+1. [Romanian Deadlift](#romanian-deadlift) (primary compound)
+2. [Nordic Hamstring Curls](#nordic-hamstring-curls) (eccentric / injury prevention)
+3. [Seated Leg Curls](#seated-leg-curls) (knee flexion isolation)
 
 The Romanian deadlift opens the hamstring block because it provides the best [stretch under load](#stretch-under-load) of any hip hinge, targeting the hip-extension function of the hamstrings with controlled eccentric loading. Nordic hamstring curls follow as the gold standard eccentric exercise for hamstring injury prevention — the hamstrings are the most commonly strained muscle in field sports, and eccentric training reduces this risk significantly. Seated leg curls close by isolating the knee-flexion function, which the RDL does not train, ensuring complete [muscle architecture](#muscle-architecture) coverage across both joints the hamstrings cross. The conventional deadlift and trap bar deadlift are removed from this section: the deadlift's primary role is posterior chain strength, and its [fatigue cost](#fatigue-cost) is too high to justify alongside back squats and RDLs in the same split. The trap bar deadlift overlaps with both the deadlift and the back squat. Both remain available in the Weightlifting Exercises section for strength-focused programs.
 
 **Glutes** ([Gluteus Maximus](#gluteus-maximus), [Gluteus Medius](#gluteus-medius))
-1. [Barbell Hip Thrusts](#barbell-hip-thrusts)
-2. [Cable Hip Abductions](#cable-hip-abductions)
+1. [Barbell Hip Thrusts](#barbell-hip-thrusts) (primary compound)
+2. [Cable Hip Abductions](#cable-hip-abductions) (medius isolation)
 
 Hip thrusts provide the best [resistance profile](#resistance-profile) for the glutes — peak tension at full hip extension where the gluteus maximus is strongest — with excellent [loadability](#loadability) and [mind-muscle connection](#mind-muscle-connection). Cable hip abductions follow to isolate the [gluteus medius](#gluteus-medius), which is critical for hip stability, cutting, lateral movement, and ACL injury prevention but receives inadequate stimulus from bilateral compound movements. Walking lunges and single-leg RDLs are removed from the glute block because the Bulgarian split squats (programmed under quads) and the RDLs (under hamstrings) already provide substantial glute stimulus with unilateral loading. Adding more glute exercises would create [redundancy](#redundancy-and-overlap) and excessive session volume. [Recovery compatibility](#recovery-compatibility) is the governing constraint here — the glutes are already trained by squats, RDLs, and hip thrusts.
 
 **Calves** ([Gastrocnemius](#gastrocnemius), [Soleus](#soleus))
-1. [Standing Calf Raises](#standing-calf-raises)
-2. [Seated Calf Raises](#seated-calf-raises)
+1. [Standing Calf Raises](#standing-calf-raises) (gastrocnemius)
+2. [Seated Calf Raises](#seated-calf-raises) (soleus)
 
 The gastrocnemius and soleus require different knee positions for maximal activation — this is a non-negotiable [muscle architecture](#muscle-architecture) requirement. Standing calf raises target the gastrocnemius (straight knee), seated calf raises target the soleus (bent knee). Both should emphasize a deep stretch at the bottom, where most of the hypertrophy stimulus comes from ([stretch under load](#stretch-under-load)). Donkey calf raises are removed because they duplicate the standing variation's function (straight-knee gastrocnemius work) with lower [equipment availability](#equipment-availability). Two exercises covering two distinct muscles is the minimum effective selection.
 
 **Adductors** ([Adductor Muscles](#adductor-muscles))
-1. [Copenhagen Plank](#copenhagen-plank)
-2. [Adductor Machine](#adductor-machine)
+1. [Copenhagen Plank](#copenhagen-plank) (injury prevention)
+2. [Adductor Machine](#adductor-machine) (isolation)
 
 The Copenhagen plank provides bodyweight adductor strengthening with simultaneous core stability work and is the most evidence-based exercise for adductor [injury prevention](#injury-history). The adductor machine follows for direct isolation with fine [loadability](#loadability) increments and low [fatigue cost](#fatigue-cost). Sumo squats are removed because the back squat with a moderate-to-wide stance already loads the adductors as a secondary mover, and a dedicated sumo squat creates [redundancy](#redundancy-and-overlap) with the primary squat movement.
 
@@ -146,20 +146,20 @@ The Copenhagen plank provides bodyweight adductor strengthening with simultaneou
 The core split covers the rectus abdominis, obliques, and deep stabilizers. Anti-movement exercises (anti-extension, anti-rotation, anti-lateral-flexion) are prioritized over concentric exercises (crunches, sit-ups) because anti-movement patterns better reflect how the core functions during athletics and heavy lifting. Loaded exercises are programmed first to leverage progressive overload, followed by bodyweight stability work.
 
 **Abs** ([Rectus Abdominis](#rectus-abdominis))
-1. [Hanging Leg Raises](#hanging-leg-raises)
-2. [Ab Wheel Rollouts](#ab-wheel-rollouts)
-3. [Weighted Cable Crunches](#weighted-cable-crunches)
+1. [Hanging Leg Raises](#hanging-leg-raises) (primary lift)
+2. [Ab Wheel Rollouts](#ab-wheel-rollouts) (anti-extension)
+3. [Weighted Cable Crunches](#weighted-cable-crunches) (loaded volume)
 
 Hanging leg raises open because they train the abs through the longest [range of motion](#full-range-of-motion) while decompressing the spine — a unique benefit after heavy squatting and deadlifting on leg days. Ab wheel rollouts follow as the most demanding anti-extension exercise, training the rectus abdominis, [transversus abdominis](#transversus-abdominis), and [obliques](#external-obliques) simultaneously under high [stretch under load](#stretch-under-load). Weighted cable crunches close as the most [loadable](#loadability) ab exercise for progressive overload. Dead bugs are removed from the primary list — they are a regression of the anti-extension pattern that ab wheel rollouts cover more effectively for trainees beyond the beginner level ([training experience](#training-experience)).
 
 **Obliques** ([External Obliques](#external-obliques), [Internal Obliques](#internal-obliques))
-1. [Suitcase Carries](#suitcase-carries)
-2. [Cable Woodchoppers](#cable-woodchoppers)
+1. [Suitcase Carries](#suitcase-carries) (anti-lateral-flexion)
+2. [Cable Woodchoppers](#cable-woodchoppers) (rotational power)
 
 Suitcase carries open with anti-lateral-flexion under heavy dynamic load, training the obliques, [quadratus lumborum](#quadratus-lumborum), and [transversus abdominis](#transversus-abdominis) in the way the core actually functions during athletics — resisting unwanted movement rather than producing it. Cable woodchoppers follow to train rotational power through the full oblique range with a smooth cable [resistance profile](#resistance-profile), covering the [movement plane](#movement-plane-coverage) (transverse) that most other exercises miss. Side planks are removed because suitcase carries train anti-lateral-flexion more effectively under heavier, progressive loading.
 
 **Deep Core** ([Transversus Abdominis](#transversus-abdominis), [Quadratus Lumborum](#quadratus-lumborum))
-1. [Stomach Vacuums](#stomach-vacuums)
+1. [Stomach Vacuums](#stomach-vacuums) (TVA isolation)
 
 Stomach vacuums are the only exercise that directly isolates the transversus abdominis, the deepest abdominal muscle responsible for intra-abdominal pressure and spinal stabilization. Planks are removed because the transversus abdominis and deep stabilizers are already trained by ab wheel rollouts (anti-extension), suitcase carries (anti-lateral-flexion), and every heavy compound lift in the program. A single isolation exercise for the TVA is sufficient when indirect training volume from the rest of the program is accounted for. The [quadratus lumborum](#quadratus-lumborum) is already covered by suitcase carries above.
 
