@@ -41,6 +41,8 @@ Updated February 2026
 
 Exercises are organized into a push/pull/legs/core split and listed in recommended training order within each muscle group. Compounds come before isolation, highest-skill and highest-fatigue exercises come first while you are freshest, and every major muscle group includes a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities.
 
+For rep ranges: primary compounds (labeled "primary compound") work best in the 3–6 rep range with heavy loads and progressive overload. Moderate compounds and main accessories (labeled "upper chest compound," "unilateral compound," etc.) work best in the 6–12 rep range. Isolation and volume accumulators (labeled "stretch isolation," "volume accumulator," etc.) work best in the 10–20 rep range with focus on mind-muscle connection. Two to four working sets per exercise is sufficient for most people. This document covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
+
 ## Push
 
 The push split covers the chest, shoulders, and triceps. Chest movements are programmed first because the pectoralis major is the largest muscle group in this split and benefits most from being trained fresh. Shoulder pressing follows because it overlaps with chest pressing (anterior deltoid, triceps) but adds overhead strength. Lateral deltoid isolation comes next because compounds alone are insufficient for shoulder width. Triceps are last because they receive heavy indirect work from all pressing and only need targeted volume for the long head. Rotator cuff work closes the session as prehab with light loads.
@@ -84,7 +86,7 @@ Weighted pull-ups open as the heaviest vertical pull with excellent [stretch und
 1. [Barbell Rows](#barbell-rows) (primary compound)
 2. [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) (volume accumulator)
 
-Barbell rows provide the heaviest horizontal pull with excellent [loadability](#loadability), training the rhomboids, mid-traps, rear delts, and lats through scapular retraction. Chest-supported T-bar rows follow because they hit the same muscles with dramatically lower [fatigue cost](#fatigue-cost) — the chest support eliminates lower back fatigue, allowing you to focus purely on [mind-muscle connection](#mind-muscle-connection) and accumulate volume. Seated cable rows are removed to reduce [redundancy](#redundancy-and-overlap): three horizontal pulls is excessive, and the chest-supported row already fills the "low-fatigue row" slot. The two-row combination also provides a [stability demands](#stability-demands) contrast: one free-standing (barbell rows train the erectors isometrically) and one supported (chest-supported removes that demand).
+Both are upper-back rows — elbows flared, pulling toward the chest — which emphasize the rhomboids, mid-traps, and rear delts through scapular retraction. This is distinct from lat rows (close grip, elbows tucked, pulling to the waist) like [Seated Cable Rows](#seated-cable-rows), which emphasize shoulder extension and lat width. Barbell rows provide the heaviest loading with excellent [loadability](#loadability). Chest-supported T-bar rows follow because they hit the same upper-back muscles with dramatically lower [fatigue cost](#fatigue-cost) — the chest support eliminates lower back fatigue, allowing you to focus purely on [mind-muscle connection](#mind-muscle-connection) and accumulate volume. The two-row combination provides a [stability demands](#stability-demands) contrast: one free-standing (barbell rows train the erectors isometrically) and one supported (chest-supported removes that demand).
 
 **Erectors & Traps** ([Erector Spinae](#erector-spinae), [Trapezius](#trapezius))
 1. [Weighted Hyperextensions](#weighted-hyperextensions) (erector isolation)
@@ -107,7 +109,7 @@ Reverse barbell curls train the brachioradialis and wrist extensors — muscle g
 
 ## Legs
 
-The leg split covers the quadriceps, hamstrings, glutes, calves, and adductors. Quad-dominant squatting is programmed first because it is the most systemically demanding movement and requires full neurological freshness. Hip hinge work (hamstrings/glutes) follows because it complements rather than competes with squatting — the primary movers differ despite both being lower-body compounds. Single-leg and isolation work comes next to address imbalances and target specific muscles. Calves and adductors close the session because they are single-joint movements with low fatigue cost. An alternative pairing is [Front Squat](#front-squat) + [Deadlift](#deadlift) instead of [Back Squat](#barbell-back-squat) + [RDL](#romanian-deadlift) — this has less overlap (the front squat is nearly pure quad, the deadlift is nearly pure posterior chain) but higher combined [fatigue cost](#fatigue-cost) and spinal loading, which leaves less room for the isolation and single-leg work that follows. The back squat + RDL pairing is preferred here because it is more sustainable alongside a full session of Nordics, leg curls, hip thrusts, and split squats.
+The leg split covers the quadriceps, hamstrings, glutes, calves, and adductors. Quad-dominant squatting is programmed first because it is the most systemically demanding movement and requires full neurological freshness. Hip hinge work (hamstrings/glutes) follows because it complements rather than competes with squatting — the primary movers differ despite both being lower-body compounds. Single-leg and isolation work comes next to address imbalances and target specific muscles. Calves and adductors close the session because they are single-joint movements with low fatigue cost. An alternative pairing is [Front Squat](#barbell-front-squat) + [Deadlift](#deadlift) instead of [Back Squat](#barbell-back-squat) + [RDL](#romanian-deadlift) — this has less overlap (the front squat is nearly pure quad, the deadlift is nearly pure posterior chain) but higher combined [fatigue cost](#fatigue-cost) and spinal loading, which leaves less room for the isolation and single-leg work that follows. The back squat + RDL pairing is preferred here because it is more sustainable alongside a full session of Nordics, leg curls, hip thrusts, and split squats.
 
 **Quadriceps** ([Quadriceps](#quadriceps))
 1. [Barbell Back Squat](#barbell-back-squat) (primary compound)
@@ -251,11 +253,11 @@ Hinge at the hips with a flat back and row a barbell to your upper abdomen with 
 
 #### Chest-Supported T-Bar Rows
 
-Lie face-down on an incline pad and row a T-bar or dumbbells to your chest. The chest support eliminates lower back fatigue, targeting the mid-back with dramatically lower [fatigue cost](#fatigue-cost) and [stability demands](#stability-demands) than free-standing rows. Excellent [mind-muscle connection](#mind-muscle-connection) and a good option for those with lower back [injury history](#injury-history). Choose this over [Barbell Rows](#barbell-rows) when back fatigue management is important; choose Barbell Rows for maximum loading and overall back thickness.
+Lie face-down on an incline pad and row a T-bar or dumbbells to your chest with elbows flared wide. An upper-back row: the chest support eliminates lower back fatigue while the wide elbow path targets the rhomboids, mid-traps, and rear deltoids with dramatically lower [fatigue cost](#fatigue-cost) and [stability demands](#stability-demands) than free-standing rows. Excellent [mind-muscle connection](#mind-muscle-connection) for the upper back and a good option for those with lower back [injury history](#injury-history). Choose this over [Barbell Rows](#barbell-rows) when back fatigue management is important; choose Barbell Rows for maximum loading.
 
 #### Seated Cable Rows
 
-Sit at a cable row station with feet braced, pull the handle to your lower chest, and squeeze your shoulder blades together. Targets the mid-back with constant tension from the cable for a superior [resistance profile](#resistance-profile). Low [stability demands](#stability-demands) and [fatigue cost](#fatigue-cost) allow high-rep [mind-muscle connection](#mind-muscle-connection) work. Choose this over [Barbell Rows](#barbell-rows) for high-rep volume accumulation with minimal fatigue; choose Barbell Rows for maximum loading.
+Sit at a cable row station with feet braced and pull a close-grip handle to your waist with elbows tucked tight to your sides. A lat row: the close grip and tucked elbows emphasize shoulder extension, targeting the lats as a horizontal pull — using a wide grip and flaring the elbows shifts emphasis to the upper back instead. Low [stability demands](#stability-demands) and [fatigue cost](#fatigue-cost) with a superior cable [resistance profile](#resistance-profile) for high-rep [mind-muscle connection](#mind-muscle-connection) work. Choose this over [Barbell Rows](#barbell-rows) when lat-focused horizontal pulling and volume accumulation are the priority; choose Barbell Rows for upper-back thickness.
 
 #### Good Mornings
 
@@ -337,7 +339,7 @@ Stand in a split stance with your rear foot elevated on a bench and lower your h
 
 Sit in a leg extension machine and extend your knees to straighten the legs. Isolates the quadriceps — particularly the rectus femoris and vastus medialis (teardrop) — without any spinal loading. Minimal [stability demands](#stability-demands) and [fatigue cost](#fatigue-cost) with good [mind-muscle connection](#mind-muscle-connection); control the eccentric to manage [joint stress](#joint-stress) on the knees. Choose this over [Barbell Front Squat](#barbell-front-squat) when pure quad isolation and volume accumulation are needed; choose Front Squat for compound quad loading.
 
-### Hamstrings
+### Posterior Chain
 
 #### Deadlift
 
@@ -346,6 +348,8 @@ Stand over a barbell, hinge at the hips with a flat back, grip the bar, and stan
 #### Trap Bar Deadlift
 
 Stand inside a trap bar (hex bar), grip the handles at your sides, and stand up by driving through the floor. The centered load and neutral grip significantly reduce [joint stress](#joint-stress) on the lower back while still loading the posterior chain heavily. A strong option for those with [injury history](#injury-history) involving the lower back; requires [equipment availability](#equipment-availability) of a trap bar. Choose this over [Deadlift](#deadlift) when lower back stress management is the priority; choose conventional Deadlift for maximum posterior chain emphasis.
+
+### Hamstrings
 
 #### Romanian Deadlift
 
@@ -479,7 +483,7 @@ A saw-toothed muscle that wraps around the side of the ribcage from ribs 1-8 to 
 
 #### Latissimus Dorsi
 
-The widest muscle in the body, spanning from the lower spine, iliac crest, and lower ribs to the upper arm. Responsible for shoulder extension, adduction, and internal rotation. Gives the back its V-taper width. Often called "the lats." [Weighted Pull-Ups](#weighted-pull-ups) are the best overall lat builder with excellent [stretch under load](#stretch-under-load) at the dead hang and high [loadability](#loadability). [Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns) offer similar stimulus with lower [fatigue cost](#fatigue-cost) and better [mind-muscle connection](#mind-muscle-connection), making them better for volume work. [Straight-Arm Pulldowns](#straight-arm-pulldowns) isolate the lats by removing bicep involvement, providing a superior [resistance profile](#resistance-profile) for feeling the muscle work. For most people, a combination of a vertical pull (pull-ups or pulldowns) and an isolation (straight-arm pulldowns) covers lat development well.
+The widest muscle in the body, spanning from the lower spine, iliac crest, and lower ribs to the upper arm. Responsible for shoulder extension, adduction, and internal rotation. Gives the back its V-taper width. Often called "the lats." [Weighted Pull-Ups](#weighted-pull-ups) are the best overall lat builder with excellent [stretch under load](#stretch-under-load) at the dead hang and high [loadability](#loadability). [Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns) offer similar stimulus with lower [fatigue cost](#fatigue-cost) and better [mind-muscle connection](#mind-muscle-connection), making them better for volume work. [Straight-Arm Pulldowns](#straight-arm-pulldowns) isolate the lats by removing bicep involvement, providing a superior [resistance profile](#resistance-profile) for feeling the muscle work. Close-grip, elbows-in rows like [Seated Cable Rows](#seated-cable-rows) also train the lats effectively as horizontal pulls — the tucked-elbow path emphasizes shoulder extension, which is the lat's primary function, unlike wide-grip upper-back rows that shift emphasis to the rhomboids and mid-traps. For most people, a combination of a vertical pull (pull-ups or pulldowns) and either a lat row or an isolation (straight-arm pulldowns) covers lat development well.
 
 #### Trapezius
 
@@ -487,7 +491,7 @@ A large diamond-shaped muscle spanning from the base of the skull to the mid-bac
 
 #### Rhomboids
 
-Two muscles (major and minor) lying deep to the trapezius between the spine and the scapula. Retract and downwardly rotate the scapula. Important for posture and scapular stability. Activated during rowing movements when you squeeze the shoulder blades together at the end of the rep. [Barbell Rows](#barbell-rows) load them heavily but with high [fatigue cost](#fatigue-cost). [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) isolate them with better [mind-muscle connection](#mind-muscle-connection) and lower [fatigue cost](#fatigue-cost) by removing the lower back. [Seated Cable Rows](#seated-cable-rows) provide constant tension through a smooth [resistance profile](#resistance-profile). Choose based on how much systemic fatigue you can afford in the session.
+Two muscles (major and minor) lying deep to the trapezius between the spine and the scapula. Retract and downwardly rotate the scapula. Important for posture and scapular stability. Best targeted by upper-back rows — wide grip, elbows flared — where the movement path drives scapular retraction. [Barbell Rows](#barbell-rows) with elbows out load them heavily but with high [fatigue cost](#fatigue-cost). [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) isolate them with better [mind-muscle connection](#mind-muscle-connection) and lower [fatigue cost](#fatigue-cost) by removing the lower back. Close-grip, elbows-in lat rows like [Seated Cable Rows](#seated-cable-rows) involve less scapular retraction and shift emphasis toward the lats instead. Choose based on how much systemic fatigue you can afford in the session.
 
 #### Erector Spinae
 
