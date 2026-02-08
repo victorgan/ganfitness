@@ -29,8 +29,11 @@ Updated February 2026
 ## [Factors for Exercise Selection](#factors-for-exercise-selection)
 
 - [Stimulus Quality](#stimulus-quality)
+- [Exercise Structure](#exercise-structure)
 - [Practical Factors](#practical-factors)
+- [Programming Context](#programming-context)
 - [Individual Factors](#individual-factors)
+- [Quick Reference: Exercise Selection Checklist](#quick-reference-exercise-selection-checklist)
 
 [Change Log](#change-log)
 
@@ -646,55 +649,147 @@ Small, deep muscles spanning 2-4 vertebrae along the entire length of the spine.
 
 # Factors for Exercise Selection
 
+There is no universally best exercise. The best exercise for a given muscle depends on the stimulus it provides, how it fits into a program, and the individual performing it. The factors below serve as evaluation criteria for choosing and swapping exercises.
+
 ## Stimulus Quality
+
+These factors determine how effectively an exercise drives muscle growth in the target tissue.
 
 ### Stretch Under Load
 
-Exercises that place a muscle under tension while it is in a lengthened position produce greater hypertrophy. Incline dumbbell curls stretch the biceps long head at the bottom, Romanian deadlifts stretch the hamstrings, and cable flyes stretch the chest. Prefer exercises that challenge the muscle most in the stretched position over those that are hardest at the shortened position.
+Exercises that place a muscle under tension while it is in a lengthened position produce greater hypertrophy through stretch-mediated growth pathways. If two exercises are otherwise equal, prefer the one that is hardest in the stretched position. Stretch-biased choices by muscle group: [incline dumbbell curls](#incline-dumbbell-curls) for [biceps](#biceps-brachii), [cable crossovers](#cable-crossovers) or [dumbbell flyes](#dumbbell-flyes) for [chest](#pectoralis-major), [Romanian deadlifts](#romanian-deadlift) for [hamstrings](#hamstrings), [overhead tricep extensions](#overhead-tricep-extensions) for [triceps](#triceps-brachii), [straight-arm pulldowns](#straight-arm-pulldowns) for [lats](#latissimus-dorsi), and [leg extensions](#leg-extensions) at full depth for [quads](#quadriceps).
 
 ### Full Range of Motion
 
-Moving through the complete range a joint allows recruits more muscle fibers and builds strength across the entire length-tension curve. Partial reps have their place for overload, but the default should be full ROM. Deep squats outperform half squats for quad and glute growth.
+Moving through the complete range a joint allows recruits more muscle fibers and builds strength across the entire length-tension curve. Lengthened partials (the bottom half of a rep) are superior to shortened partials (the top half) for hypertrophy, so when range must be limited, keep the stretched portion. Full ROM should be the default. Limiting ROM is appropriate when pain prevents it, when deliberately overloading a specific range (board press, pin squat), or when anatomical variation makes full depth counterproductive. Deep squats outperform half squats for [quad](#quadriceps) and [glute](#gluteus-maximus) growth; deficit [Romanian deadlifts](#romanian-deadlift) increase [hamstring](#hamstrings) stretch beyond the standard version.
 
 ### Resistance Profile
 
-The resistance curve of an exercise should match the strength curve of the muscle. Cables provide constant tension, free weights are hardest at specific joint angles, and machines can be cam-shaped to match the muscle's output. Choose the tool that keeps the target muscle challenged through the full rep.
+Different tools create different resistance curves, and the curve should match the muscle's strength curve for optimal stimulus. **Free weights** are hardest at the point of worst mechanical advantage, typically the stretched position, which often aligns well with hypertrophy goals. **Cables** provide constant tension throughout the range and allow angle adjustments to shift where peak tension falls. **Machines** can be cam-shaped to match any strength curve; some are designed for peak tension at the stretched position. **Bands** create ascending resistance, hardest at the shortened position, which is generally the opposite of what hypertrophy training requires but useful for accommodating resistance in strength work. For most hypertrophy goals, favor tools that load the stretched position hardest.
+
+### Contraction Type Emphasis
+
+Every rep has a concentric (lifting), eccentric (lowering), and potential isometric (pausing) phase. Eccentric contractions produce the most mechanical tension per motor unit and are strongly associated with muscle remodeling. A controlled eccentric of two to three seconds and a deliberate pause at the stretched position increase hypertrophy stimulus per rep. Exercises where the eccentric is absent or uncontrolled, such as Olympic lift variations or kettlebell swings, are valuable for power and conditioning but provide less hypertrophy stimulus per rep. For growth-focused work, choose exercises that allow you to control the lowering phase and pause in the stretch.
 
 ### Mind-Muscle Connection
 
-If you cannot feel the target muscle working during an exercise, it is likely not the best choice for you. Isolation exercises and cables tend to produce better mind-muscle connection than heavy compounds. This matters more for hypertrophy than for strength.
+The ability to feel the target muscle working during a set, technically called **internal attentional focus**, improves hypertrophy of the target muscle. External focus (thinking about moving the weight) improves force output and is better for heavy compound strength work. Use internal focus on isolation and lighter accessory work, external focus on heavy compounds. If you cannot feel the target muscle working after cueing adjustments (slowing the tempo, lightening the load, changing grip), the exercise may have poor biomechanical fit for your anatomy. Try a different variation of the same movement pattern before abandoning it entirely.
+
+### Muscle Architecture
+
+Muscles with different fiber orientations respond differently to exercise selection. **Pennate** muscles ([quadriceps](#quadriceps), [calves](#gastrocnemius), [deltoids](#lateral-deltoid)) have short fibers arranged at an angle, producing high force, and tend to respond well to heavier loads. **Fusiform** muscles ([biceps](#biceps-brachii), [hamstrings](#hamstrings)) have long parallel fibers, producing high velocity, and tend to respond well to stretch-biased exercises and full ROM. Multi-headed or multi-functional muscles require multiple exercises for full development. The [hamstrings](#hamstrings) flex the knee ([seated leg curls](#seated-leg-curls)) and extend the hip ([Romanian deadlift](#romanian-deadlift)); both patterns are needed. The [triceps](#triceps-brachii) long head crosses the shoulder ([overhead tricep extensions](#overhead-tricep-extensions)) while the lateral and medial heads do not ([tricep rope pushdowns](#tricep-rope-pushdowns)); both exercise types contribute to complete development.
+
+## Exercise Structure
+
+These factors describe the structural characteristics of an exercise and how they affect its role in a program.
+
+### Compound vs. Isolation
+
+**Compound** exercises (multi-joint) allow heavier loads, train multiple muscles simultaneously, and are more time-efficient. Examples: [flat barbell bench press](#flat-barbell-bench-press), [barbell front squat](#barbell-front-squat), [barbell rows](#barbell-rows), [military press](#military-press). **Isolation** exercises (single-joint) allow precise targeting of individual muscles, produce less systemic fatigue, and make it easier to establish a mind-muscle connection. Examples: [cable lateral raises](#cable-lateral-raises), [seated leg curls](#seated-leg-curls), [cable crossovers](#cable-crossovers). Build the program around compounds for primary movements, then use isolation exercises to fill gaps in muscle stimulus. A common split is roughly two-thirds compound volume and one-third isolation volume.
+
+### Bilateral vs. Unilateral
+
+**Bilateral** exercises ([flat barbell bench press](#flat-barbell-bench-press), [barbell front squat](#barbell-front-squat)) allow the heaviest absolute loads and are more time-efficient. **Unilateral** exercises ([Bulgarian split squats](#bulgarian-split-squats), single-arm [seated cable rows](#seated-cable-rows)) address left-right imbalances, increase stabilizer demand, and often allow greater ROM per side. The bilateral deficit phenomenon means the sum of force produced by each limb individually often exceeds the force produced bilaterally, so unilateral work provides a unique overload stimulus. Include at least one unilateral exercise per major movement pattern (push, pull, squat, hinge) across the training week.
+
+### Movement Plane Coverage
+
+Human movement occurs in three planes: **sagittal** (forward and backward), **frontal** (side to side), and **transverse** (rotational). Most gym exercises are sagittal-dominant: squats, deadlifts, presses, rows, and curls all move primarily forward and backward. This leaves the frontal plane ([cable lateral raises](#cable-lateral-raises), [cable hip abductions](#cable-hip-abductions), lateral lunges) and transverse plane ([cable woodchoppers](#cable-woodchoppers), [face pulls](#face-pulls), [cable external rotations](#cable-external-rotations)) undertrained. Audit exercise selection across the training week to verify all three planes receive some stimulus. Frontal plane work is critical for shoulder health ([lateral deltoid](#lateral-deltoid), [supraspinatus](#supraspinatus)) and hip stability ([gluteus medius](#gluteus-medius)). Transverse plane work is essential for core function and shoulder health.
 
 ## Practical Factors
 
+These factors determine how well an exercise fits into the realities of training logistics, recovery, and long-term sustainability.
+
 ### Loadability
 
-The exercise should allow progressive overload in small increments over time. Barbell exercises are the most loadable (fractional plates exist). Dumbbell exercises jump in 5 lb increments, which can be too large for small muscles. Cable stacks vary by machine.
+The exercise should allow progressive overload in small increments over time. Barbell exercises are the most loadable because fractional plates (0.5 to 1 lb) exist. Dumbbell exercises jump in 5 lb increments, which can be too large for small muscles like the [lateral deltoid](#lateral-deltoid) or [biceps](#biceps-brachii). Cable stacks vary by machine. When weight increments are too coarse, use **double progression**: work within a rep range (e.g., 8-12), add reps until you hit the top of the range, then increase weight and drop back to the bottom. Other progression methods include tempo manipulation, rest-pause sets, and drop sets, all of which allow progressive overload without adding weight.
 
 ### Stability Demands
 
-Unstable exercises (standing single-arm cable work, Bulgarian split squats) limit the load you can use because stabilizers fatigue first. This is beneficial for athleticism and joint health but reduces the stimulus to the target muscle. Use stable exercises (machines, chest-supported rows) when the goal is maximum muscle stimulus, and less stable ones for functional carryover.
+The stability demands of an exercise determine how much load the target muscle can handle versus how much goes to stabilizers. The stability spectrum runs from most stable (machines, chest-supported movements) through moderately stable (seated barbell and dumbbell work) to less stable (standing bilateral) to least stable (standing unilateral, single-arm). Use stable exercises when the goal is maximum muscle stimulus. Use less stable exercises for functional carryover, joint health, and core training. Note that stability demands also affect which muscles are trained: a standing single-arm cable press trains the [core](#transversus-abdominis) and anti-rotation muscles in addition to the [chest](#pectoralis-major). Beginners benefit from stable exercises to learn movement patterns; advanced lifters can use instability strategically.
 
 ### Joint Stress
 
-Some exercises place disproportionate stress on joints relative to the muscle stimulus they provide. Behind-the-neck presses stress the shoulder capsule, deep skull crushers stress the elbows, and leg presses with excessive depth stress the lumbar spine. Prefer exercises that load the muscle hard while keeping joints in comfortable positions.
+Some exercises place disproportionate stress on joints relative to the muscle stimulus they provide. Distinguish between **acute joint stress** (pain during or after the exercise) and **cumulative joint stress** (builds up over weeks of heavy loading). Behind-the-neck presses stress the shoulder capsule, deep [skullcrushers](#skullcrushers) stress the elbows, and heavy [barbell rows](#barbell-rows) with excessive low-back involvement stress the lumbar spine. Joint-friendly alternatives exist for every major movement pattern: neutral-grip dumbbell pressing for shoulders, trap bar deadlift for low back, belt squat for knees and back, [chest-supported T-bar rows](#chest-supported-t-bar-rows) for the low back. Rotate high-joint-stress variations every four to eight weeks or alternate them with lower-stress variations within the same training week.
 
 ### Fatigue Cost
 
-Compound barbell movements (squats, deadlifts, barbell rows) produce high systemic fatigue relative to the muscle stimulus for any single muscle group. This is fine when they are the primary lift of a session but inefficient when added as accessory volume. Use machines and cables for accessory work to accumulate volume without excessive fatigue.
+The **stimulus-to-fatigue ratio** (SFR) describes how much muscle stimulus an exercise provides relative to the systemic and local fatigue it generates. High SFR exercises (machines, cables, chest-supported movements) accumulate volume without excessive fatigue. Low SFR exercises ([deadlifts](#deadlift), [barbell front squats](#barbell-front-squat), heavy [barbell rows](#barbell-rows)) produce high systemic fatigue relative to the stimulus for any single muscle group. Low SFR exercises are still valuable for building overall strength, coordination, and bone density, but they should occupy the primary lift slot, not the volume accumulator slot. For each muscle group, aim for one big lift (can be low SFR) and one to two volume lifts (high SFR) to manage total fatigue across the training week.
+
+### Setup Time and Convenience
+
+Exercises that require extensive setup (assembling a bench, loading many plates, finding specific attachments, needing a spotter) are harder to execute consistently, especially in busy gyms. Setup complexity increases rest periods and total session duration without adding stimulus. For example, [barbell hip thrusts](#barbell-hip-thrusts) require a bench, barbell, plates, and a pad, while [weighted hyperextensions](#weighted-hyperextensions) train similar muscles with minimal setup. For accessory work especially, prefer exercises with minimal setup. Reserve complex setups for primary lifts where the stimulus payoff justifies the time investment.
+
+### Skill and Technique Requirements
+
+Some exercises have a high skill floor: Olympic lifts, [barbell front squats](#barbell-front-squat), [deadlifts](#deadlift), and [military press](#military-press) require weeks or months of practice before the trainee can load them meaningfully. High-skill exercises are valuable but should be introduced early in a training career and progressed patiently. Substituting a high-skill exercise with a simpler alternative (trap bar deadlift instead of conventional, goblet squat instead of barbell front squat) is appropriate when technique limits loading. Machines and cables have the lowest skill requirements and are ideal for beginners or for exercises where you want to focus entirely on muscle stimulus without thinking about technique. Limit high-skill exercises to one or two per session and place them first when freshest.
+
+## Programming Context
+
+These factors relate to how an exercise fits within the broader training program rather than its standalone qualities.
+
+### Exercise Novelty and Variation
+
+Muscles adapt to repeated bouts of the same exercise, and introducing novel stimuli can provide additional growth. However, excessive variation prevents progressive overload tracking and reduces the skill acquisition that makes exercises more effective over time. The balance: keep primary compound exercises consistent for eight to sixteen weeks, rotate accessory and isolation exercises every four to eight weeks. Variation does not require a completely different exercise. Changing grip width, stance, angle, or implement (barbell to dumbbell, flat to incline) counts as meaningful variation.
+
+### Redundancy and Overlap
+
+Each exercise trains multiple muscles to varying degrees. When selecting exercises for a program, map out which muscles each exercise hits to avoid redundancy (too much overlap leading to excessive volume for one muscle) or gaps (a muscle receiving insufficient stimulus). Example of redundancy: [barbell rows](#barbell-rows), [chest-supported T-bar rows](#chest-supported-t-bar-rows), and [seated cable rows](#seated-cable-rows) in the same program all hit similar muscles in similar ways; replace one with a vertical pull like [weighted pull-ups](#weighted-pull-ups) or [wide-grip lat pulldowns](#wide-grip-lat-pulldowns). Example of a gap: a program with only [flat barbell bench press](#flat-barbell-bench-press) and [military press](#military-press) for pushing but no isolation for the [lateral deltoid](#lateral-deltoid), which is barely involved in either compound. Refer to the [Exercise by Muscle](#exercise-by-muscle) tables to audit coverage.
+
+### Recovery Compatibility
+
+An exercise must be compatible with the rest of the training week. Heavy [deadlifts](#deadlift) and heavy [barbell rows](#barbell-rows) in the same week can create more low-back fatigue than the trainee can recover from. Consider which muscles and joints an exercise taxes beyond the target muscle. [Barbell rows](#barbell-rows) tax the [erector spinae](#erector-spinae); [chest-supported T-bar rows](#chest-supported-t-bar-rows) do not. If deadlifts are already in the program, prefer the chest-supported row variation. Group exercises that tax the same recovery resources (low back, shoulder joint, grip) and ensure total weekly stress on those resources is manageable.
 
 ## Individual Factors
 
+These factors vary from person to person and make exercise selection inherently individual.
+
 ### Anthropometry
 
-Limb lengths and torso proportions affect which exercises feel natural and which do not. Long-femur lifters may squat better with a wider stance or prefer front squats. Long-armed lifters often find deadlifts easier but bench press harder. Choose exercises that let you load the target muscle through a pain-free range with your body proportions.
+Limb lengths and torso proportions affect which exercises feel natural and which do not. Long-femur lifters may squat better with a wider stance, prefer [barbell front squats](#barbell-front-squat), or favor belt squats to keep the torso upright. Long-armed lifters often find [deadlifts](#deadlift) easier (shorter relative ROM to lockout) but [flat barbell bench press](#flat-barbell-bench-press) harder (longer ROM and greater shoulder demand). Arm length affects pulling too: long-armed lifters may find [weighted chin-ups](#weighted-chin-ups) easier but may need extra [bicep](#biceps-brachii) isolation due to reduced bicep involvement at longer moment arms. Torso-to-leg length ratio affects deadlift style selection: conventional favors longer torsos, sumo favors longer legs. If an exercise feels awkward after four to six weeks of consistent practice, the issue may be anthropometric rather than technique-related.
 
 ### Injury History
 
-Previous injuries change which exercises are appropriate. A history of shoulder impingement may mean replacing flat barbell bench with a neutral-grip dumbbell press. Chronic low back issues may favor hip thrusts over deadlifts for glute work. There is almost always a pain-free alternative that trains the same muscle.
+Previous injuries change which exercises are appropriate. Common injury-to-substitution pairs: shoulder impingement may mean replacing [flat barbell bench press](#flat-barbell-bench-press) with neutral-grip dumbbell press or floor press, and replacing behind-the-neck pressing with landmine press. Low back pain may mean replacing back squats with belt squat or leg press, and replacing conventional [deadlifts](#deadlift) with trap bar deadlift or [barbell hip thrusts](#barbell-hip-thrusts). Knee pain may mean replacing deep squats with box squats to parallel and focusing on [hamstring](#hamstrings) strengthening. Elbow tendinitis may mean replacing [skullcrushers](#skullcrushers) with [tricep rope pushdowns](#tricep-rope-pushdowns) and using an EZ-bar instead of a straight bar for [barbell curls](#barbell-curls). Pain is an exercise selection signal, not a training avoidance signal. There is almost always a pain-free alternative that trains the same muscle.
 
 ### Equipment Availability
 
-The best exercise is one you can actually do consistently. A home gym with a barbell and rack requires different exercise selection than a fully equipped commercial gym. Cables and machines expand exercise options significantly, but a barbell, dumbbells, and a pull-up bar cover the fundamentals.
+The best exercise is one you can actually do consistently. Equipment scenarios fall into tiers. **Minimal** (bodyweight plus pull-up bar): push-ups, [dips](#dips-chest-emphasis), [weighted pull-ups](#weighted-pull-ups), pistol squats, Nordic curls; progress via tempo, pauses, and weighted vests. **Home gym** (barbell, rack, bench, dumbbells): covers all primary compounds; cable alternatives can be approximated with bands, though bands have an ascending resistance profile (see Resistance Profile above) and are not a perfect substitute. **Commercial gym**: full access to cables, machines, and specialty bars; use everything available to optimize stimulus quality per exercise.
+
+### Training Experience
+
+Beginners benefit most from simple, compound, bilateral exercises with low skill floors. Machine and cable work is underrated for beginners because it allows them to load muscles safely while learning movement patterns. Intermediate trainees should begin introducing unilateral work, isolation exercises, and more exercise variation to address lagging body parts. Advanced trainees often need highly specific exercise selection to continue progressing: exercises that target specific heads of a muscle, specific portions of the ROM, or specific weak points in a competition lift. The number of exercises per muscle group generally scales with experience: beginners need one to two, intermediates need two to three, and advanced lifters may need three to four.
+
+### Training Goals
+
+Exercise selection differs by goal. **Strength-focused** trainees prioritize heavy compounds with competition specificity; accessories are selected to support the primary lifts. **Hypertrophy-focused** trainees prioritize stretch under load, mind-muscle connection, and stimulus-to-fatigue ratio; the best exercise is whichever produces the most growth for that individual. **Athletic performance** trainees prioritize movement pattern transfer, velocity, and multi-planar work. **General fitness** trainees benefit from a balanced selection across movement patterns and planes, favoring exercises with good long-term joint health profiles.
+
+## Quick Reference: Exercise Selection Checklist
+
+| Category | Factor | Key Question |
+| :--- | :--- | :--- |
+| Stimulus Quality | Stretch Under Load | Does this exercise challenge the muscle in its lengthened position? |
+| Stimulus Quality | Full Range of Motion | Am I moving through the complete joint range? |
+| Stimulus Quality | Resistance Profile | Does the resistance tool match the muscle's strength curve? |
+| Stimulus Quality | Contraction Type | Does this exercise allow a controlled eccentric and stretched pause? |
+| Stimulus Quality | Mind-Muscle Connection | Can I feel the target muscle working throughout the set? |
+| Stimulus Quality | Muscle Architecture | Does this exercise suit the fiber orientation and multi-function nature of the target muscle? |
+| Exercise Structure | Compound vs. Isolation | Is this the right tool for the job: overload or targeted stimulus? |
+| Exercise Structure | Bilateral vs. Unilateral | Am I addressing imbalances and training both patterns across the week? |
+| Exercise Structure | Movement Plane | Am I covering sagittal, frontal, and transverse planes across the week? |
+| Practical | Loadability | Can I progressively overload this exercise in small increments? |
+| Practical | Stability Demands | Is the stability level appropriate for my goal with this exercise? |
+| Practical | Joint Stress | Does this exercise stress joints disproportionately relative to muscle stimulus? |
+| Practical | Fatigue Cost | Is the stimulus-to-fatigue ratio acceptable for this exercise's role in the program? |
+| Practical | Setup and Convenience | Is the setup complexity justified by the stimulus? |
+| Practical | Skill Requirements | Do I have the technique to load this exercise meaningfully? |
+| Programming | Novelty and Variation | Am I rotating accessories while keeping primary lifts consistent? |
+| Programming | Redundancy and Overlap | Does this exercise fill a unique role or duplicate another? |
+| Programming | Recovery Compatibility | Does this exercise fit within the weekly recovery budget? |
+| Individual | Anthropometry | Does this exercise suit my body proportions? |
+| Individual | Injury History | Can I perform this exercise pain-free? |
+| Individual | Equipment Availability | Do I have the equipment to perform this exercise consistently? |
+| Individual | Training Experience | Is this exercise appropriate for my experience level? |
+| Individual | Training Goals | Does this exercise align with my primary training objective? |
 
 # Change Log
 - 2026-02-07: Start
