@@ -110,8 +110,9 @@ Updated February 2026
 
 **[Hamstrings](#hamstrings)**
 1. [Deadlift](#deadlift) — The heaviest hip hinge; loads the entire posterior chain maximally.
-2. [Romanian Deadlift](#romanian-deadlift) — Emphasizes the eccentric hamstring stretch that builds length and size.
-3. [Seated Leg Curls](#seated-leg-curls) — Isolates the knee-flexion function of the hamstrings.
+2. [Trap Bar Deadlift](#trap-bar-deadlift) — Centered load and neutral grip reduce back stress while still loading the posterior chain.
+3. [Romanian Deadlift](#romanian-deadlift) — Emphasizes the eccentric hamstring stretch that builds length and size.
+4. [Seated Leg Curls](#seated-leg-curls) — Isolates the knee-flexion function of the hamstrings.
 
 **[Glutes](#gluteus-maximus)**
 1. [Barbell Hip Thrusts](#barbell-hip-thrusts) — Peak tension at full hip extension where the glutes are strongest.
@@ -327,6 +328,10 @@ Sit in a leg extension machine and extend your knees to straighten the legs. Iso
 #### Deadlift
 
 Stand over a barbell, hinge at the hips with a flat back, grip the bar, and stand up by driving through the floor. The king of posterior chain exercises. Loads the hamstrings, glutes, erectors, traps, and grip simultaneously. The heaviest lift most people will perform.
+
+#### Trap Bar Deadlift
+
+Stand inside a trap bar (hex bar), grip the handles at your sides, and stand up by driving through the floor. The neutral grip and centered load reduce lower back stress and allow a more upright torso compared to a conventional deadlift. Shifts emphasis slightly toward the quads while still loading the hamstrings, glutes, and traps. A good alternative for those with lower back issues or limited hip mobility.
 
 #### Romanian Deadlift
 
