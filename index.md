@@ -1,8 +1,11 @@
 <meta name="robots" content="noindex, nofollow">
-<meta name="robots" content="noindex, nofollow">
-
 
 # Pages
 
-- [lift](lift/)
-- [run](run/)
+- [Lifting and Conditioning](lift/)
+- [Running](run/)
+- [Nutrition](nutrition/)
+- [Sleep](sleep/)
+- [Social Life](social/)
+- [Time Management](time/)
+- [Mental Health](mental/)
