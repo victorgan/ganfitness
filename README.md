@@ -5,402 +5,573 @@ Updated February 2026
 
 # Contents
 
-## [Lists](#equipment-lists)
+## [Exercises By Muscle](#exercise-by-muscle)
 
-- [Everyday Carry](#everyday-carry)
-- [Onebag Travel](#onebag-travel)
-- [Trail Running](#trail-running)
-- [Cycling](#cycling)
-- [Camping](#camping)
+## [Weightlifting Exercises](#weightlifting-exercises)
 
-## [Items](#specific-items)
+- [Push Exercises](#push-exercises) (Chest, Shoulder, Triceps)
+- [Pull Exercises](#pull-exercises) (Back, Biceps, Forearms)
+- [Leg Exercises](#leg-exercises) (Quads, Hamstrings, Glutes, Calves)
+- [Core Exercises](#core-exercises) (Abs, Obliques, Deep Core)
 
-- [Bags](#bags)
-- [Tech](#tech)
-- [Clothes](#clothes)
-- [Headwear](#headwear)
-- [Gloves](#gloves)
-- [Shoes](#shoes)
+## [Muscle Anatomy](#muscle-anatomy)
+
+- [Torso](#torso) (Chest, Back, Shoulder)
+- [Arms](#arms) (Upper Arm, Forearm)
+- [Core](#core) (Abs, Obliques, Transverse)
+- [Legs](#legs) (Glutes, Upper Leg, Lower Leg)
 
 [Change Log](#change-log)
 
-# Equipment Lists
-
-## Everyday Carry
-
-Phone and Auth normally.
-
-I'll bring my u lock, which generally means I'm bringing my
-backpack.
-
-### On Body
-
-- Phone: [iPhone 16 Pro](#iphone-16-pro-phone)
-- Watch: [Garmin Forerunner 255s](#garmin-foreunner-255s-watch)
-- Authorization: Keyring with car fob, bike lock key, apartment fob, yubi key, and airtag.
-- Authorization: 3-card magsafe card holder with driver's license, bus pass, and credit card.
-- Authorization: Work badge on fob. I carry this separately from the other cards since the badge readers are sensitive to other cards.
-
-### Packed
-
-- Backpack: [CTactical CT15](#ctactical-ct15-backpack)
-- Tech Pouch: Aer Slim Pouch with an Anker 100W GaN Charger, Anker 10k mAh magnetic power bank, Crucial X10 Pro 4TB SSD, a Garmin Watch cable, wired earbuds and 0.5, 3, and 10 ft USB-C to USB-C cables
-- Clothes Zip Bag: Aer Zip Bag Small with gym clothes
-- Personal Laptop: 13" Macbook Air M2
-- Work Laptop: 13" Macbook Air M3
-- Bike Lock: Kryptonite Evolution U-Lock
-- Earbuds: Soundcore Aerofit Pro
-- Glasses: Lindberg Frameless in a [Linrong Capsule Eyelass Case](#linrong-capsule-eyelass-case)
-- Sunglasses: [Cafe Du Cyclist Gabin Sunglasses](#cafe-du-cyclist-gabin-sunglasses) with case
-- Sunscreen
-
-### Situational
-
-- Black Diamond Sprinter 500 Headlamp
-
-## Onebag Travel
-
-### On Body
-
-- Outerwear: Chore coat or raincoat
-- Pants: [Outlier New Dungarees](#outlier-new-dungarees-pants)
-- Underwear: Saxx Synthetic Boxers
-- Shirt: Wool and Prince Henley
-- Socks: [Darn Tough Socks](#darn-tough-socks)
-- Shoes: [Nike Pegasus 41](#nike-pegasus-41-shoes)
-- Watch: [Garmin Forerunner 255s](#garmin-foreunner-255s-watch)
-- Phone: iPhone 16 Pro with Magsafe Wallet
-
-### In the Ctactical CT15
-
-- Backpack: [CTactical CT15](#ctactical-ct15-backpack)
-- A hygiene pouch with a toothbrush, razor, toothpaste, shave cream, moisturizer, toner, sunscreen, floss, tweezers, nail cutter, cleanser, eye cream.
-- A tech pouch with a Anker 100W GaN Charger, Anker 10k mAh magnetic power bank, a Garmin Watch cable, wired earbuds and 0.5/3 ft USB-C cables, SD card reader, Crucial X10 Pro 4TB SSD.
-- Clothes
-    - gym/sleep shorts, gym shirt, lounge shirt, extra underwear
-    - nice t-shirt and pants
-    - Insulation: [Patagonia Nano Air Ultralight](#patagonia-nano-air-ultralight-pullover)
-- A pencil case for health: face mask, salt sticks, hand sanitizer, spork, vitamins and OTC medications (Advil, Claritin, Imodium, Peptol Bismol, Dramamine)
-- A pencil case for snacks
-- A passport case: passport, visas, home keys, debit card, magsafe card holder, work badge
-- sunglasses, glasses, travel clothesline, ear plugs and Soundcore Aerofit Pro earbuds
-- Personal laptop: 13" Macbook Air M2
-- Work laptop: 13" Macbook Air M3
-- A pair of binoculars 
-- DSLR
-- Tote bag
-
-## Cycling
-
-Pre-ride checklist:
-
-- Downlad the route to the 6X
-- Charge the Fenix 6X, 255s, and Varia
-- Check Epic Ride Weather App
-- Pump tires
-- Fill water bottles
-- Stock food
-
-### On Person
-
-- Helmet
-- Sunglasses
-- Jersey
-- Bibs
-- Socks
-- Cycling Shoes
-- Watch: [Garmin Forerunner 255s](#garmin-foreunner-255s-watch)
-- Gloves
-- In jersey pockets
-    - Sunscreen
-    - Phone: [iPhone 16 Pro](#iphone-16-pro-phone)
-    - Apartment Key Fob
-    - Card holder with driver's license, bus pass, and credit card
-    - Gummies
-    - Headlamp: Black Diamond Sprinter 500 Headlamp
-
-### On Bike
-
-- Garmin Fenix 6X
-- Garmin Varia rear light
-- Two water bottles
-- Tools:
-    - Patch Kit: extra tube, tire levers, co2 inflater with cartridge
-    - Hand pump
-    - Disc brake pad spacer
-    - Multitool
-- Extra food
+# Exercise by Muscle
 
-## Trail Running
+### 1. The Push Complex (Chest, Shoulders, Triceps)
+*Goal: Anterior Pushing Muscles.*
 
-### Prep
+*Rationale: The Chest is the largest muscle group here. Triceps get hit hard during chest/shoulder pressing, so they go last.*
 
-- Check Epic Ride Weather App
+| Priority | Body Part | **1. Primary Compound** (Heavy Load) | **2. Assistance** (Volume) | **3. Isolation** (Pump/Stretch) |
+| :--- | :--- | :--- | :--- | :--- |
+| **#1** | **[[Chest Muscles (Weightlifting)]]** | **[[Flat Barbell Bench Press (Weightlifting)]]** | **[[Incline Dumbbell Press (Weightlifting)]]** | **[[Cable Crossovers (Weightlifting)]]** |
+| **#2** | **[[Shoulder Muscles (Weightlifting)]]** | **[[Military Press (Weightlifting)]]** | **[[Seated Dumbbell Overhead Press (Weightlifting)]]** | **[[Cable Lateral Raises (Weightlifting)]]** |
+| **#3** | **[[Triceps Brachii (Weightlifting)]]** | **[[Close-Grip Bench Press (Weightlifting)]]** | **[[Skullcrushers (Weightlifting)]]** | **[[Tricep Rope Pushdowns (Weightlifting)]]** |
+| **#4** | **[[Rotator Cuff (Weightlifting)]]** | *N/A (Too fragile for heavy load)* | **[[Face Pulls (Weightlifting)]]** | **[[Cable External Rotations (Weightlifting)]]** |
 
-### On Person
+### 2. The Pull Complex (Back, Erectors, Biceps)
+*Goal: Posterior Pulling Muscles.*
 
-- Hat: [Ciele Running Cap](#ciele-running-cap) 
-- Sunglasses: [Cafe Du Cyclist Gabin Sunglasses](#cafe-du-cyclist-gabin-sunglasses)
-- Shirt: [Patagonia Airshed Pro Pullover](#patagonia-airshed-pro-pullover)
-- Pants: [Patagonia Strider Pro Shorts](#patagonia-strider-pro-shorts)
-- Socks: [Darn Tough Quarter Cushioned Ultra-Lightweight Running Socks](#darn-tough-quarter-cushioned-ultra-lightweight-running-socks)
-- Shoes: [Saucony Xodus Ultra 4](#saucony-xodus-ultra-4)
-- Gloves: [Outdoor Research Sun Gloves](#outdoor-research-sun-gloves)
-- Watch: [Garmin Fenix 6X Watch](#garmin-fenix-6x-watch)
+*Rationale: Vertical pulling (Lats) usually requires the most energy. Mid-back is second. Biceps are small and get hit by everything else, so they are third.*
 
-### In Vest
+| Priority | Body Part | **1. Primary Compound** (Heavy Load) | **2. Assistance** (Volume) | **3. Isolation** (Pump/Stretch) |
+| :--- | :--- | :--- | :--- | :--- |
+| **#1** | **[[Latissimus Dorsi (Weightlifting)]]** | **[[Weighted Pull-Ups (Weightlifting)]]** | **[[Wide-Grip Lat Pulldowns (Weightlifting)]]** | **[[Straight-Arm Pulldowns (Weightlifting)]]** |
+| **#2** | **[[Mid-Back (Weightlifting)]]** | **[[Barbell Rows (Weightlifting)]]** | **[[Chest-Supported T-Bar Rows (Weightlifting)]]** | **[[Seated Cable Rows (Weightlifting)]]** |
+| **#3** | **[[Erector Spinae (Weightlifting)]]** | **[[Rack Pulls (Weightlifting)]]** | **[[Good Mornings (Weightlifting)]]** | **[[Weighted Hyperextensions (Weightlifting)]]** |
+| **#4** | **[[Trapezius (Weightlifting)]]** | **[[Farmer's Walks (Weightlifting)]]** | **[[Barbell Shrugs (Weightlifting)]]** | **[[Kelso Shrugs (Weightlifting)]]** |
+| **#5** | **[[Biceps Brachii (Weightlifting)]]** | **[[Weighted Chin-Ups (Weightlifting)]]** | **[[Barbell Curls (Weightlifting)]]** | **[[Incline Dumbbell Curls (Weightlifting)]]** |
+| **#6** | **[[Forearm Muscles (Weightlifting)]]** | **[[Reverse Barbell Curls (Weightlifting)]]** | **[[Barbell Wrist Curls (Weightlifting)]]** | **[[Plate Pinches (Weightlifting)]]** |
 
-- Running Vest: Salomon Sense Pro 6
-- Poles: Black Diamond Carbon Z Trekking Poles with Salmon Custom Quiver
-- Water Filter: Salomon Soft Flask XA Filter
-- Phone: iPhone 16 Pro
-- Sunscreen: Stick Sunscreen
-- Headlamp: Black Diamond Sprinter 500 Headlamp
-- USB-C battery: Anker 10k Slim
-- Insulation: Patagonia Nano Air Ultralight Pullover
-- Toilet Paper
-- First Aid
-- Ziploc Bags
+### 3. The Leg Complex (Quads, Hams, Glutes, Calves)
+*Goal: Lower Body Locomotion & Stability.*
 
-### Consumables
+*Rationale: Squats (Quads) are the most taxing movement in the gym. They must come first. Hamstrings/Hinges are second. Calves and details are last.*
 
-- Water: Water with Gatorade Drink Mix
-- Food: Welches Gummies, one for every 30 mins
-- Electrolyte tablets
+| Priority | Body Part                           | **1. Primary Compound** (Heavy Load)        | **2. Assistance** (Volume)                     | **3. Isolation** (Pump/Stretch)              |
+| :------- | :---------------------------------- | :------------------------------------------ | :--------------------------------------------- | :------------------------------------------- |
+| **#1**   | **[[Quadriceps (Weightlifting)]]**  | **[[Barbell Front Squat (Weightlifting)]]** | **[[Bulgarian Split Squats (Weightlifting)]]** | **[[Leg Extensions (Weightlifting)]]**       |
+| **#2**   | **[[Hamstrings (Weightlifting)]]**  | **[[Deadlift (Weightlifting)]]**            | **[[Romanian Deadlift (Weightlifting)]]**      | **[[Seated Leg Curls (Weightlifting)]]**     |
+| **#3**   | **[[Glutes (Weightlifting)]]**      | **[[Barbell Hip Thrusts (Weightlifting)]]** | **[[Walking Lunges (Weightlifting)]]**         | **[[Cable Hip Abductions (Weightlifting)]]** |
+| **#4**   | **[[Calves (Weightlifting)]]**      | **[[Donkey Calf Raises (Weightlifting)]]**  | **[[Standing Calf Raises (Weightlifting)]]**   | **[[Seated Calf Raises (Weightlifting)]]**   |
+| **#5**   | **[[Inner Thigh (Weightlifting)]]** | **[[Sumo Squats (Weightlifting)]]**         | **[[Copenhagen Plank (Weightlifting)]]**       | **[[Adductor Machine (Weightlifting)]]**     |
 
-### In the Car
+### 4. The Core Complex (Abs & Stability)
+*Goal: Trunk Rigidity and Rotation.*
 
-- Extra clothes
-- Towel
-- Fairlife protein shakes
-- Slippers
-- Extra water
+| Priority | Body Part                                | **1. Weighted Strength** (Loadable)        | **2. Dynamic Rotation** (Function)              | **3. Static Stability** (Endurance) |
+| :------- | :--------------------------------------- | :----------------------------------------- | :---------------------------------------------- | :---------------------------------- |
+| **#1**   | **[[Rectus Abdominis (Weightlifting)]]** | **[[Hanging Leg Raises (Weightlifting)]]** | **[[Weighted Cable Crunches (Weightlifting)]]** | **[[Dead Bugs (Weightlifting)]]**   |
+| **#2**   | **[[Obliques (Weightlifting)]]**         | **[[Suitcase Carries (Weightlifting)]]**   | **[[Cable Woodchoppers (Weightlifting)]]**      | **[[Side Planks (Weightlifting)]]** |
+| **#3**   | **[[Deep Core (Weightlifting)]]**        | **[[Ab Wheel Rollouts (Weightlifting)]]**  | **[[Stomach Vacuums (Weightlifting)]]**         | **[[Planks (Weightlifting)]]**      |
+# Weightlifting Exercises
 
-## Camping
+## Push Exercises
 
-Carried in a 40L pack or the red duffle.
+### Chest
 
-- Tent
-- Sleeping Bag
-- Sleeping pad
-- Pillow
-- Headlamp: Black Diamond Sprinter 500 Headlamp
+#### Flat Barbell Bench Press
 
-# Specific Items
+The primary compound chest movement. Lie on a flat bench, unrack the barbell with a grip slightly wider than shoulder width, lower to mid-chest, and press back up. Targets the entire pectoralis major with emphasis on the sternal (mid) fibers. Keep shoulder blades retracted and feet planted.
 
-## Bags
+#### Incline Dumbbell Press
 
-### CTactical CT15 Backpack
+Set the bench to 30-45 degrees. Press dumbbells from shoulder level to lockout. The incline shifts emphasis to the upper (clavicular) chest fibers. Dumbbells allow a greater range of motion and more natural wrist rotation than a barbell.
 
-**Personal Favorite**. A custom version of CTactical's CT15 V3.0 from a Facebook group buy, nicknamed Kevin/Obsidian. After getting this pack, I stopped searching for new packs because I love it so much.
+#### Cable Crossovers
 
-- The size is great to carry around every day. Anything smaller and an a tote or sling would be more appropriate. I've also used it as my only bag for a 2 week trip with no problems.
-- I like the understated aesthetic. It's shaped like a classic rectangle, similar to GoRuck's GR1, and has no logos.
-- It's made of  Ultra 200tx material, which is technically great (light and waterproof) and is crinkly and feels like it'll wear well like leather or denim.
-- The main compartment opens completely clamshell, which allows for easy packing and unpacking. A TSA agent complimented this once during an inspection.
-- There's a top quick access pocket and two side water bottle holders that zip away when not in use. These are great to access things while on the go. I had a previous version of the bag without these, and they make a world of a difference.
-- The laptop area is padded and has a side zip for dedicated laptop access. This saves weight over a dedicated laptop compartment. Sometimes I forget to close the side zips and the laptop falls out.
+Stand between two cable stations with the pulleys set high. Bring the handles together in a hugging arc in front of your chest. Provides constant tension through the full range of motion and a deep stretch at the bottom. Targets the inner and lower chest fibers.
 
-### Aer Large Packing Cube
+#### Dumbbell Flyes
 
-For a lot of clothing.
+Lie on a flat bench holding dumbbells above your chest with a slight bend in the elbows. Lower the weights in a wide arc until you feel a stretch across the chest, then squeeze back together. Emphasizes the chest stretch under load.
 
-### Aer Zip Large Bag
+#### Dips (Chest Emphasis)
 
-For shoes.
+Lean your torso forward on parallel bars, flare the elbows slightly, and lower until the upper arms are parallel to the ground. The forward lean shifts the work from triceps to the lower chest. Add weight with a belt once bodyweight becomes easy.
 
-### Aer Zip Small Bag 
+### Shoulder
 
-For 3-4 pieces of clothing, or sun gloves/sun hat/running cap.
+#### Military Press
 
-### Black Diamond Skin Maintenance Kit Pouch
-**Personal Favorite**. 6 of them. The pencil case shaped bags hold their
-structure, and is made of nylon with a single zipper, which makes it feel very
-durable without it having any unnecessary details to weigh it down.
+Press a barbell from the front of the shoulders to overhead while standing. The strict standing position engages the full shoulder girdle and requires core bracing. Primarily targets the anterior and lateral deltoids.
 
-## Tech
-### Iphone 16 Pro Phone
-**Best in Slot**. After using Google Pixels and Nexuses exclusively since 2012, I finally gave in to the ecosystem. I tried my best. I wish it was a bit smaller.
+#### Seated Dumbbell Overhead Press
 
-### Garmin Foreunner 255s Watch
+Press dumbbells overhead from shoulder height while seated. The seated position isolates the shoulders by removing lower body momentum. Allows each arm to work independently, fixing imbalances.
 
-**Best in Slot**. A 41mm smartwatch, Garmin's smallest and lightest. It's the last one with an e-ink style display, that saves battery life and is visible in the sun. Garmin's Forerunner 9XX and Fenix watches have the ability to display maps, but none of them are as small as the 255s, and the 255s' breadcrumb feature is good enough for most hikes and trail runs to keep you on course for downloaded trails. 
+#### Cable Lateral Raises
 
-I've been trying mechanical watches for daily wear, but it's hard to beat the convenience of not having to set the time every day. I also considered the new Pebble time, but the Garmin is just too integrated with running features.
+Stand beside a low cable and raise the handle out to the side until the arm is parallel to the floor. The cable provides constant tension throughout the movement, unlike dumbbells which lose tension at the bottom. Targets the lateral deltoid for shoulder width.
 
-### Garmin Fenix 6X Watch
+#### Face Pulls
 
-I use this for maps when cycling (on my handlebar) or trail running.
+Pull a rope attachment on a high cable toward your face, separating the ends as you pull. Externally rotates the shoulders and targets the rear deltoids, rhomboids, and rotator cuff. Essential for shoulder health and posture.
 
+#### Cable External Rotations
 
-## Clothes
+Stand sideways to a cable set at elbow height. Keep the elbow pinned to your side and rotate the forearm outward. Isolates the infraspinatus and teres minor of the rotator cuff. Use light weight for high reps.
 
-Clothes go in the large packing cube, zip small bag or multiple
-pencile cases, depending on the amount and convenience needed.
+#### Arnold Press
 
-### Loungewear
+Start with dumbbells in front of your shoulders, palms facing you. As you press overhead, rotate your palms to face forward at the top. The rotation hits the anterior, lateral, and posterior deltoids through one continuous movement.
 
-#### Costco Cotton Sweatpants
+#### Reverse Flyes
 
-I like that it's cotton for breathability. Could be comfier. Also it's black,
-which is a little jarring. Grey might have more staying power.
+Bend forward at the hips or lie face-down on an incline bench. Raise dumbbells out to the sides with a slight elbow bend. Targets the posterior deltoids and upper back. Counterbalances all the pressing work.
 
-#### Manduka Pro Yoga Shorts
+### Triceps
 
-Built-in liner.
+#### Close-Grip Bench Press
 
-#### Yosemite T-Shirt
+Bench press with hands shoulder-width apart or slightly narrower. The narrow grip shifts the primary load from the chest to the triceps, particularly the lateral and medial heads. Also a heavy compound that allows significant overload.
 
-Gift from Yuri and Edwin
+#### Skullcrushers
 
-### Casual T Shirts
+Lie on a bench holding an EZ-bar or dumbbells above your forehead. Lower the weight by bending at the elbows until it reaches near your forehead, then extend back up. Targets the long head of the triceps through a deep stretch.
 
-#### Uniqlo White T-Shirt
+#### Tricep Rope Pushdowns
 
-Idk just a t-shirt with cool fabric.
+Push a rope attachment down on a high cable, spreading the ends apart at the bottom for a peak contraction. Targets the lateral head of the triceps. Keep the elbows pinned to your sides throughout.
 
-#### North Face Sunriser T-Shirt
+#### Overhead Tricep Extensions
 
-Also just a t-shirt.
+Hold a dumbbell or cable overhead and lower it behind your head by bending at the elbows. The overhead position places the long head of the triceps in a deep stretch, which is the most effective position for growing it.
 
-#### Maroon Cotton T-Shirt
+## Pull Exercises
 
-Another just a t-shirt.
+### Back
 
-### Casual Sweaters
+#### Weighted Pull-Ups
 
-#### Gap Sweater
+Hang from a bar with a pronated (overhand) grip and pull your chin above the bar with added weight from a belt or vest. The primary vertical pulling movement. Targets the lats, teres major, and biceps. Grip width determines lat emphasis.
 
-Comfy
+#### Wide-Grip Lat Pulldowns
 
-#### Banana Republic Red Knit Hoodie
+Pull a wide bar down to your upper chest on a cable machine. A more accessible alternative to pull-ups that allows finer load adjustment. The wide grip emphasizes the outer lats for back width.
 
-Looks kinda cool.
+#### Straight-Arm Pulldowns
 
-### Casual Pants
+Stand facing a high cable and push the bar down in an arc with straight arms until it reaches your thighs. Isolates the lats by removing bicep involvement. Provides a strong peak contraction and stretch.
 
-#### Outlier New Dungarees Pants
+#### Barbell Rows
 
-This pants have a more modern cut that the cult classic New Dungarees. The
-material is textured a bit more than other techwear pants, which makes it more
-casual.
+Hinge at the hips, keep your back flat, and row a barbell to your lower chest or upper abdomen. The primary horizontal pulling compound. Targets the entire mid-back, lats, rhomboids, and rear deltoids. Go heavy.
 
-#### Vuori Black Slacks
+#### Chest-Supported T-Bar Rows
 
-Kinda cool
+Lie face-down on an incline pad and row a T-bar or dumbbells. The chest support eliminates lower back fatigue and cheating, isolating the mid-back muscles. Allows you to focus purely on squeezing the shoulder blades together.
 
-#### Vuori Green Pants
+#### Seated Cable Rows
 
-Zipper broke; not that durable.
+Sit at a cable row station with feet braced, pull the handle to your lower chest, and squeeze your shoulder blades together. Constant cable tension and a stable position allow you to focus on the mind-muscle connection with the mid-back.
 
-### Technical
+#### Rack Pulls
 
-#### Patagonia Airshed Pro Pullover
+Pull a barbell from pins set at or just below knee height to lockout. A partial range deadlift that allows very heavy loading on the upper back, traps, and erector spinae. Also builds grip strength.
 
-**Best in Slot**. This acts as a sun hoodie, running shirt and windshirt
-combined. In high exertion hot weather, the elastic on the sleeves let you bunch
-them up securely and the zipper goes down very deep. It's extremely breathable;
-often more breathable than polyester T-shirts. I can usually run in this until
-5C, since it blocks enough wind to keep me warm when moving.
+#### Good Mornings
 
-In theory, this combined with the Patagonia Nano Air Ultralight can be all you
-need until around 5C, both running and stationary.
+Place a barbell on your upper back and hinge forward at the hips while keeping a slight knee bend and a flat back. Targets the erector spinae, hamstrings, and glutes. A posterior chain builder that directly improves squat and deadlift strength.
 
-- Wear the Airshed by itself while active or stationary.
-- Put on the Nano Air Ultralight when it gets colder.
-- Put the Airshed over the Nano Air Ultralight when it gets even colder for more wind resistance.
+#### Weighted Hyperextensions
 
-The downside is the color (Wispy Green) is a little see through.
+Lock your feet into a hyperextension bench, hold a plate or dumbbell against your chest, and hinge at the hips to lower and raise your torso. Builds the erector spinae, glutes, and hamstrings with less spinal compression than barbell movements.
 
-#### Patagonia Nano Air Ultralight Pullover
+### Traps
 
-**Best in Slot**. This is an 'active insulation' pullover that is kind of
-ridiculous, because there's almost no insulation in it. I sized up to a medium
-because it's a slim fit, and now it looks baggy in a trendy way.
+#### Farmer's Walks
 
-I quite like that it's a pullover, since it reduces bulk in the hood area. It's
-comfy and light enough to wear casually.
+Hold heavy dumbbells or farmer's handles at your sides and walk for distance or time. Builds the upper traps, grip, forearms, and core stability simultaneously. One of the most functional strength exercises.
 
-#### Patagonia Strider Pro Shorts
+#### Barbell Shrugs
 
-Likes: it's light and has a built-in liner.
+Hold a barbell at arm's length and shrug your shoulders straight up toward your ears. Targets the upper trapezius for trap mass. Use straps to allow heavier loads without grip being the limiter.
 
-Dislikes: no pocket that fully fits my phone.
+#### Kelso Shrugs
 
-## Shoes
+Lie face-down on an incline bench and shrug dumbbells by squeezing your shoulder blades together and upward. Targets the mid and lower trapezius, which are important for posture and scapular stability.
 
-If space is at a premium, take the Nike Pegasus as the only pair. Otherwise,
-pack one in the the [Aer Zip Large Bag](#aer-zip-large-bag).
+### Biceps
 
-### Darn Tough Quarter Cushioned Ultra-Lightweight Running Socks 
+#### Weighted Chin-Ups
 
-**Best in Slot**. Before I cycled through Costco Kirkland Signature socks, which got holes in them often. I'll return these if they get any holes.
+Hang from a bar with a supinated (underhand) grip and pull your chin over the bar with added weight. The supinated grip increases biceps recruitment compared to pull-ups while still being a heavy compound back movement.
 
-### Costco Slides
+#### Barbell Curls
 
-Comfy for recovery.
+Stand holding a barbell with an underhand grip and curl it to shoulder height. The foundational biceps exercise. Allows the heaviest loading of any curl variation. Keep elbows pinned to the sides to prevent swinging.
 
-### Chacos
+#### Incline Dumbbell Curls
 
-Almost 10 years old going strong.
+Sit on a bench set to 45-60 degrees and curl dumbbells from a fully extended arm position. The incline places the biceps in a stretched position at the bottom, emphasizing the long head for the bicep peak.
 
-### Nike Pegasus 41 Shoes
+#### Hammer Curls
 
-**Personal Like**. Packing running shoes takes a ton of space, and I wanted a pair of primarily casual shoes that I can also run in. Nike recently came out with a colorway (Sail/Blue Tint/Wolf Grey/Anthracite FD2722-113) that looked a lot like the Eliot Tracksmith's but less pretentious, and fit the bill well. I actually like the look of it more than the New Balance 574s and 327s that I was previously using as casual shoes, so even if I'm not running I'll wear them.
+Curl dumbbells with a neutral (palms facing each other) grip. Targets the brachialis and brachioradialis in addition to the biceps. The brachialis sits underneath the biceps and pushes it up for a thicker arm appearance.
 
-### Asics Superblast 2 Shoes
+### Forearms
 
-**Personal Like** I partially credit the original Superblasts in getting me into running - they were the first high stack superfoam shoe without a plate, and made recovering from runs a lot faster, and my favorite running shoe of all time. After 500+ miles on them, I replaced it with the successor, but by now other companies have made similar shoes and I'm not as adamant that this model is as far ahead compared to the competition. Still, no complaints.
+#### Reverse Barbell Curls
 
-### Saucony Xodus Ultra 4
+Curl a barbell with an overhand (pronated) grip. Shifts the load from the biceps to the brachioradialis and wrist extensors. Builds the outer forearm mass visible when the arms are at rest.
 
-Mostly cause of the thick Peba foam and Vibram Megagrip soles.
+#### Barbell Wrist Curls
 
-## Headwear and Gloves
+Sit with forearms resting on your thighs, palms up, and curl a barbell by flexing the wrists. Isolates the wrist flexors on the inner forearm. Use controlled reps with a full range of motion.
 
-The sunhat, running cap and gloves fit in the [Aer Zip Small Bag](#aer-zip-small-bag).
+#### Plate Pinches
 
-### North Face Sun Hat
+Pinch two or more weight plates together smooth-side-out and hold for time. Builds thumb and finger strength through isometric grip work. Targets the muscles of the hand and inner forearm that other grip exercises miss.
 
-It's packable, and has good coverage.
+## Leg Exercises
 
-### Ciele Running Cap
+### Quads
 
-Packable.
+#### Barbell Front Squat
 
-### Lindberg Frameless Eyeglasses
+Hold a barbell across the front of your shoulders in a clean grip or crossed-arm position and squat to full depth. The upright torso position shifts emphasis to the quadriceps and reduces lower back stress compared to back squats. Also demands significant core and upper back engagement.
 
-Looks grandpa but I kinda like it.
+#### Bulgarian Split Squats
 
-### Gentle Monster Sunglasses
+Stand in a split stance with your rear foot elevated on a bench. Lower your hips until the front thigh is parallel to the ground. A unilateral movement that builds single-leg strength, fixes imbalances, and requires significant balance and hip stability.
 
-For when I don't wanna look like a cyclist.
+#### Leg Extensions
 
-### Cafe Du Cyclist Gabin Sunglasses
+Sit in a leg extension machine and extend your knees to straighten the legs. Isolates the quadriceps, particularly the rectus femoris and vastus medialis (teardrop). Useful for adding volume without spinal loading.
 
-I like the shield-like coverage of one piece cycling sunglasses and
-photochromatic lenses for changing weather and daylight. These ones fit the bill
-without looking too gaudy.
+### Hamstrings
 
-### Outdoor Research Sun Gloves
+#### Deadlift
 
-There's holes in it, but used for everything.
+Stand over a barbell, hinge at the hips with a flat back, grip the bar, and stand up by driving through the floor. The king of posterior chain exercises. Loads the hamstrings, glutes, erectors, traps, and grip simultaneously. The heaviest lift most people will perform.
 
-### Linrong Capsule Eyelass Case
+#### Romanian Deadlift
 
-Hardshell case without being bulky or heavy. They open up on the short end with a
-click.
+Hold a barbell at hip height and hinge forward at the hips while keeping the legs nearly straight, lowering the bar along the thighs until you feel a deep hamstring stretch. Emphasizes the eccentric stretch of the hamstrings and builds the hip hinge pattern.
 
-## Accessories
+#### Seated Leg Curls
 
-### Swimming Goggles and Cap
+Sit in a leg curl machine and curl your heels toward your glutes. Isolates the hamstrings, particularly at the knee-flexion function. The seated position places the hamstrings in a slightly stretched position for greater muscle activation.
 
-Random ones from REI.
+### Glutes
+
+#### Barbell Hip Thrusts
+
+Sit with your upper back against a bench, place a loaded barbell across your hips, and drive your hips upward to full extension. The most direct glute exercise. Allows heavy loading with peak tension at the top where the glutes are fully contracted.
+
+#### Walking Lunges
+
+Step forward into a lunge, lower until both knees are at 90 degrees, then drive through the front heel to step into the next rep. Combines glute and quad work with dynamic balance. The walking component adds a functional element.
+
+#### Cable Hip Abductions
+
+Stand sideways to a low cable with an ankle strap and lift your leg out to the side against the resistance. Isolates the gluteus medius and minimus. Important for hip stability and preventing knee valgus during squats and running.
+
+### Calves
+
+#### Donkey Calf Raises
+
+Bend at the hips on a donkey calf raise machine or with a partner on your back and perform calf raises. The hip-flexed position pre-stretches the gastrocnemius for greater range of motion and activation. Allows heavy loading.
+
+#### Standing Calf Raises
+
+Stand on the edge of a step or in a calf raise machine and raise up onto your toes, then lower through a full stretch. Targets the gastrocnemius, the larger two-headed calf muscle. The straight-leg position maximally engages this muscle.
+
+#### Seated Calf Raises
+
+Sit in a seated calf raise machine with the pad on your lower thighs and perform calf raises. The bent-knee position takes the gastrocnemius out of the movement, isolating the soleus. The soleus contributes significantly to overall calf size.
+
+### Adductors
+
+#### Sumo Squats
+
+Squat with a wide stance and toes pointed outward, holding a dumbbell or kettlebell between your legs. The wide stance increases adductor and inner thigh recruitment compared to a standard squat. Also hits the glutes heavily.
+
+#### Copenhagen Plank
+
+Lie on your side with your top leg on a bench and your bottom leg hanging free. Squeeze the top leg into the bench to hold your body in a side plank position. A bodyweight adductor strengthener that also builds core stability. Used widely in injury prevention programs.
+
+#### Adductor Machine
+
+Sit in the adductor machine with pads against your inner thighs and squeeze your legs together. Directly isolates the adductor muscle group. Simple to load progressively and useful for building baseline adductor strength.
+
+## Core Exercises
+
+### Abs
+
+#### Hanging Leg Raises
+
+Hang from a pull-up bar and raise your legs until they are parallel to the floor or higher. Targets the rectus abdominis with emphasis on the lower portion. The hanging position also builds grip endurance and decompresses the spine.
+
+#### Weighted Cable Crunches
+
+Kneel in front of a high cable with a rope attachment behind your head and crunch downward, bringing your elbows toward your knees. Allows progressive overload of the rectus abdominis, which is difficult to achieve with bodyweight alone.
+
+#### Dead Bugs
+
+Lie on your back with arms extended toward the ceiling and knees bent at 90 degrees. Slowly extend the opposite arm and leg while keeping your lower back pressed into the floor. Teaches anti-extension core stability and proper bracing patterns.
+
+### Obliques
+
+#### Suitcase Carries
+
+Hold a heavy dumbbell or kettlebell in one hand at your side and walk for distance while keeping your torso completely upright. Forces the obliques and quadratus lumborum to resist lateral flexion. A functional anti-lateral-flexion exercise.
+
+#### Cable Woodchoppers
+
+Stand sideways to a cable set high or low and rotate your torso to pull the handle diagonally across your body. Trains rotational power through the obliques and transverse abdominis. Adjust the cable height to target different angles.
+
+#### Side Planks
+
+Lie on your side, prop yourself up on your forearm, and hold your body in a straight line. An isometric exercise that builds endurance in the obliques and quadratus lumborum. Add hip dips or top-arm reaches for additional challenge.
+
+### Deep Core
+
+#### Ab Wheel Rollouts
+
+Kneel on the floor holding an ab wheel and roll forward, extending your body toward the ground while maintaining a flat back, then pull back to the starting position. One of the most demanding anti-extension exercises. Targets the entire anterior core under high tension.
+
+#### Stomach Vacuums
+
+Stand, sit, or kneel and exhale all air from your lungs, then pull your navel in toward your spine as hard as possible and hold. Targets the transversus abdominis, the deepest abdominal muscle. Builds the ability to brace and creates a tighter waistline.
+
+#### Planks
+
+Hold a push-up position on your forearms with your body in a straight line from head to heels. The foundational anti-extension exercise that builds endurance in the rectus abdominis, obliques, and deep core. Add weight on your back or extend the duration to progress.
+
+# Muscle Anatomy
+
+## Torso
+
+### Chest
+
+#### Pectoralis Major
+
+The large, fan-shaped muscle of the upper chest. Has three portions: the upper (clavicular) fibers originate from the collarbone and are hit by incline pressing, the mid (sternal) fibers originate from the breastbone and are the primary movers in flat pressing, and the lower (costal) fibers originate from the upper abs and are emphasized by decline pressing and dips. All fibers insert on the upper arm and function to adduct, flex, and internally rotate the shoulder.
+
+#### Pectoralis Minor
+
+A small, thin muscle that lies underneath the pectoralis major. Originates from ribs 3-5 and inserts on the scapula's coracoid process. Protracts and depresses the scapula. Often tight from hunching over a desk, which can contribute to rounded shoulders. Stretched by opening the chest and pulling the shoulders back.
+
+#### Serratus Anterior
+
+A saw-toothed muscle that wraps around the side of the ribcage from ribs 1-8 to the inner border of the scapula. Protracts the scapula and holds it flat against the ribcage. Activated heavily during push-ups and punching motions. Weakness causes scapular winging. Often called the "boxer's muscle."
+
+### Back
+
+#### Latissimus Dorsi
+
+The widest muscle in the body, spanning from the lower spine, iliac crest, and lower ribs to the upper arm. Responsible for shoulder extension, adduction, and internal rotation. The primary mover in pull-ups, pulldowns, and rows. Gives the back its V-taper width. Often called "the lats."
+
+#### Trapezius
+
+A large diamond-shaped muscle spanning from the base of the skull to the mid-back and out to the shoulder blades. Divided into three functional regions: the upper traps elevate the scapula (shrugging), the mid traps retract the scapula (squeezing shoulder blades together), and the lower traps depress and upwardly rotate the scapula. Hit by shrugs, rows, and face pulls respectively.
+
+#### Rhomboids
+
+Two muscles (major and minor) lying deep to the trapezius between the spine and the scapula. Retract and downwardly rotate the scapula. Important for posture and scapular stability. Activated during rowing movements when you squeeze the shoulder blades together at the end of the rep.
+
+#### Erector Spinae
+
+A group of three muscles (iliocostalis, longissimus, spinalis) running vertically along the spine from the sacrum to the skull. Extend and laterally flex the spine. They keep you upright and resist spinal flexion. Loaded heavily during deadlifts, squats, rows, and good mornings. Often called "the spinal erectors."
+
+#### Teres Major
+
+A thick muscle on the lower border of the scapula that assists the latissimus dorsi in shoulder extension, adduction, and internal rotation. Sometimes called "the lat's little helper." Activated during pull-ups, rows, and pulldowns.
+
+#### Teres Minor
+
+A small muscle on the back of the scapula, part of the rotator cuff. Externally rotates the shoulder and stabilizes the humeral head in the socket. Strengthened by external rotation exercises and face pulls.
+
+#### Infraspinatus
+
+A large rotator cuff muscle covering most of the back of the scapula. The primary external rotator of the shoulder. Works with the teres minor to decelerate internal rotation and stabilize the shoulder joint. Strengthened by external rotation exercises.
+
+### Shoulder
+
+#### Anterior Deltoid
+
+The front portion of the deltoid, originating from the outer third of the clavicle. Flexes and internally rotates the shoulder. The primary mover in front raises and heavily involved in all pressing movements (bench press, overhead press). Often the most developed deltoid head due to pressing frequency.
+
+#### Lateral Deltoid
+
+The middle portion of the deltoid, originating from the acromion process of the scapula. Abducts the shoulder (raises the arm to the side). Responsible for shoulder width. Targeted by lateral raises and upright rows. Requires dedicated isolation work since compound pressing alone is often insufficient.
+
+#### Posterior Deltoid
+
+The rear portion of the deltoid, originating from the spine of the scapula. Extends and externally rotates the shoulder. Often underdeveloped relative to the anterior deltoid, contributing to rounded shoulders. Targeted by reverse flyes, face pulls, and wide-grip rows.
+
+#### Supraspinatus
+
+The smallest rotator cuff muscle, sitting in the supraspinous fossa above the spine of the scapula. Initiates shoulder abduction (the first 15 degrees of raising the arm). Runs through a narrow bony passage, making it the most commonly injured rotator cuff muscle. Strengthened by light lateral raises and external rotations.
+
+#### Infraspinatus
+
+A large rotator cuff muscle covering most of the back of the scapula. The primary external rotator of the shoulder. Stabilizes the humeral head in the socket during all shoulder movements. Strengthened by cable external rotations and face pulls.
+
+#### Teres Minor
+
+A small rotator cuff muscle on the lateral border of the scapula. Assists the infraspinatus in external rotation and shoulder stabilization. Works synergistically with the infraspinatus during all external rotation exercises.
+
+#### Subscapularis
+
+The largest and strongest rotator cuff muscle, located on the front surface of the scapula (between the scapula and the ribcage). The primary internal rotator of the shoulder. Stabilizes the humeral head during all arm movements. Difficult to isolate; strengthened through internal rotation exercises against a cable or band.
+
+## Arms
+
+### Upper Arm
+
+#### Biceps Brachii
+
+The two-headed muscle on the front of the upper arm. The long head (outer) originates from the top of the shoulder socket and creates the bicep peak. The short head (inner) originates from the coracoid process and adds width. Both heads flex the elbow and supinate the forearm. The long head is best stretched by incline curls; the short head is hit hardest by preacher curls.
+
+#### Brachialis
+
+A thick muscle lying deep to the biceps on the front of the upper arm. A pure elbow flexor (does not supinate). Pushes the biceps up from underneath, making the arm look thicker. Best targeted by hammer curls and reverse curls where the biceps are at a mechanical disadvantage.
+
+#### Triceps Brachii
+
+The three-headed muscle on the back of the upper arm, making up roughly two-thirds of upper arm mass. The long head originates from the scapula and is the only head that crosses the shoulder joint, making it best targeted by overhead extensions. The lateral head (outer) and medial head (inner, deep) originate from the humerus and are hit by pushdowns and close-grip pressing. All three heads extend the elbow.
+
+#### Coracobrachialis
+
+A small, deep muscle running from the coracoid process of the scapula to the mid-humerus. Assists in shoulder flexion and adduction. Not typically trained in isolation; activated during pressing and pulling movements. Can become tight and contribute to shoulder impingement.
+
+### Forearm
+
+#### Brachioradialis
+
+The largest forearm muscle, running from the outer lower humerus to the radius near the wrist. Flexes the elbow, particularly when the forearm is in a neutral (thumbs-up) position. The primary mover during hammer curls. Gives the forearm its prominent outer shape.
+
+#### Wrist Flexors
+
+A group of muscles on the inner forearm: the flexor carpi radialis, flexor carpi ulnaris, and palmaris longus. Originate from the medial epicondyle of the humerus and flex and deviate the wrist. Trained by wrist curls and grip work. The palmaris longus is absent in about 14% of people.
+
+#### Wrist Extensors
+
+A group of muscles on the outer forearm: the extensor carpi radialis longus, extensor carpi radialis brevis, and extensor carpi ulnaris. Originate from the lateral epicondyle and extend and deviate the wrist. Trained by reverse wrist curls and reverse curls. Commonly affected in tennis elbow.
+
+#### Pronator Teres
+
+Runs diagonally across the inner forearm from the medial epicondyle to the mid-radius. Pronates the forearm (turns the palm face-down) and assists in elbow flexion. Trained indirectly by most pulling and curling movements.
+
+#### Supinator
+
+A deep forearm muscle wrapping around the upper radius. Supinates the forearm (turns the palm face-up). Works with the biceps during supination. Trained indirectly through supinated curl movements.
+
+#### Finger Flexors
+
+The flexor digitorum superficialis (closer to the surface) and flexor digitorum profundus (deeper) flex the fingers. The superficialis flexes the middle joints, the profundus flexes the fingertips. Together they are responsible for grip strength. Trained by all gripping exercises: deadlifts, rows, farmer's walks, and dedicated grip work.
+
+#### Finger Extensors
+
+The extensor digitorum on the back of the forearm extends all four fingers. Important for hand balance and preventing overuse injuries from gripping. Trained by rubber band extensions or reverse grip exercises. Often neglected relative to the flexors.
+
+## Core
+
+### Abs
+
+#### Rectus Abdominis
+
+The "six-pack" muscle running vertically from the pubic bone to the ribcage, divided by tendinous intersections. Flexes the spine (crunching motion) and resists extension. The upper portion is hit more by crunches; the lower portion is hit more by leg raises. One continuous muscle, not truly separate upper and lower sections, but different exercises shift the bias.
+
+### Obliques
+
+#### External Obliques
+
+The outermost oblique muscles, running diagonally downward from the lower ribs to the pelvis and linea alba. Rotate the torso to the opposite side (left external oblique rotates torso to the right), laterally flex the trunk, and assist in trunk flexion. Trained by woodchoppers, side bends, and rotational movements.
+
+#### Internal Obliques
+
+Lie deep to the external obliques, with fibers running perpendicular (diagonally upward). Rotate the torso to the same side (left internal oblique rotates torso to the left) and laterally flex the trunk. Work together with the opposite external oblique during rotation. Also assist in forced expiration and intra-abdominal pressure.
+
+### Transverse
+
+#### Transversus Abdominis
+
+The deepest abdominal muscle, wrapping horizontally around the torso like a corset. Does not produce movement but compresses the abdomen to increase intra-abdominal pressure, which stabilizes the spine. Activated by bracing, stomach vacuums, and heavy compound lifts. Foundational for core stability and safe lifting.
+
+#### Diaphragm
+
+The dome-shaped muscle separating the chest cavity from the abdominal cavity. The primary muscle of breathing. Descends during inhalation to expand the lungs and rises during exhalation. Plays a critical role in bracing for heavy lifts: a deep breath combined with core bracing creates a rigid trunk. Trained through diaphragmatic breathing practice.
+
+#### Pelvic Floor Muscles
+
+A hammock of muscles spanning the base of the pelvis, including the levator ani and coccygeus. Support the pelvic organs, assist in continence, and contribute to intra-abdominal pressure during bracing. Co-contract with the transversus abdominis during heavy lifting. Strengthened through Kegel exercises and proper bracing technique.
+
+#### Multifidus
+
+Small, deep muscles spanning 2-4 vertebrae along the entire length of the spine. Stabilize individual vertebral segments during all movement. Work constantly during standing, walking, and lifting. Weakness or atrophy is strongly associated with chronic lower back pain. Trained by bird dogs, dead bugs, and any exercise requiring spinal stability under load.
+
+## Legs
+
+### Glutes
+
+#### Gluteus Maximus
+
+The largest and most powerful muscle in the body. Originates from the ilium, sacrum, and coccyx and inserts on the femur and IT band. Extends and externally rotates the hip. The primary mover in hip thrusts, squats, deadlifts, and sprinting. Most active at full hip extension and under heavy load.
+
+#### Gluteus Medius
+
+A fan-shaped muscle on the outer surface of the pelvis, partially covered by the gluteus maximus. Abducts the hip and stabilizes the pelvis during single-leg stance (walking, running, lunging). Weakness causes hip drop (Trendelenburg sign) and contributes to knee valgus. Trained by lateral band walks, cable hip abductions, and single-leg exercises.
+
+#### Gluteus Minimus
+
+The smallest and deepest of the three glute muscles, lying beneath the medius. Assists in hip abduction and internal rotation. Works with the medius to stabilize the pelvis during gait. Trained by the same exercises as the medius.
+
+### Upper Leg
+
+#### Quadriceps
+
+Four muscles on the front of the thigh that extend the knee: the rectus femoris (crosses the hip and knee, also flexes the hip), vastus lateralis (outer quad), vastus medialis (inner quad, the "teardrop" near the knee), and vastus intermedius (deep, between the lateralis and medialis). Together they are the primary knee extensors. The rectus femoris is more active in movements where the hip is extended (leg extensions, sissy squats); the vasti are more active in squats.
+
+#### Hamstrings
+
+Three muscles on the back of the thigh: the biceps femoris (two heads, on the outer hamstring), semitendinosus (inner, more superficial), and semimembranosus (inner, deeper). All cross both the hip and knee, extending the hip and flexing the knee. The biceps femoris is more active in hip extension with external rotation; the semis are more active with internal rotation. Trained by deadlifts (hip extension emphasis) and leg curls (knee flexion emphasis).
+
+#### Adductors
+
+Five muscles on the inner thigh: the adductor longus, adductor brevis, and adductor magnus adduct the hip (pull the leg inward). The gracilis crosses both the hip and knee. The pectineus also flexes the hip. The adductor magnus is the largest and has both an adductor portion and a hamstring-like portion that extends the hip. Trained by sumo squats, Copenhagen planks, and adductor machines.
+
+#### Tensor Fasciae Latae (TFL)
+
+A small muscle on the outer front of the hip that connects to the IT band. Flexes, abducts, and internally rotates the hip. Often overactive in people who sit a lot, compensating for weak glutes. Can contribute to IT band syndrome when tight. Managed by strengthening the glute medius and stretching the hip flexors.
+
+#### Sartorius
+
+The longest muscle in the body, running diagonally across the front of the thigh from the outer hip to the inner knee. Flexes, abducts, and externally rotates the hip, and flexes the knee. Involved in crossing the legs. Not typically trained in isolation; activated during compound leg movements.
+
+### Lower Leg
+
+#### Gastrocnemius
+
+The two-headed muscle forming the visible bulge of the calf. The medial head (inner) is usually larger; the lateral head (outer) is smaller. Crosses both the knee and ankle, flexing the knee and plantarflexing the ankle (pointing the toes). Most active with a straight knee, which is why standing calf raises target it preferentially.
+
+#### Soleus
+
+A broad, flat muscle lying deep to the gastrocnemius. Crosses only the ankle joint and plantarflexes the foot. Most active with a bent knee, which is why seated calf raises isolate it. Makes up the majority of calf volume and is critical for endurance activities like running and walking. Composed primarily of slow-twitch fibers.
+
+#### Tibialis Anterior
+
+The muscle on the front of the shin, running from the upper tibia to the top of the foot. Dorsiflexes the ankle (lifts the toes) and inverts the foot. Active during walking to prevent foot slap. Weakness or fatigue contributes to shin splints. Trained by toe raises or resisted dorsiflexion.
+
+#### Tibialis Posterior
+
+A deep muscle on the back of the lower leg, lying behind the tibia. Plantarflexes and inverts the foot and supports the arch. The primary dynamic stabilizer of the medial arch. Dysfunction leads to flat feet and is a common source of medial ankle pain. Strengthened through single-leg calf raises and arch-strengthening exercises.
+
+#### Peroneals
+
+Two muscles on the outer lower leg: the peroneus longus and peroneus brevis. Evert the foot (tilt the sole outward) and assist in plantarflexion. Stabilize the ankle against inversion sprains. The longus also supports the transverse arch of the foot. Trained by eversion exercises against a band and single-leg balance work.
+
 
 # Change Log
-- 2025-07-04: Replaced the breaking Saucony Endorphin Rift shoes with the Saucony Xodus Trail 4's.
-- 2025-05-29: Replaced the tearing Maduka Men's Pro Shorts with Patagonia Men's 7-in Strider Pro Shorts. The Patagonia shorts are more technical, lighter and pack down smaller, but they're not as comfortable - I wouldn't sleep in them.
-- 2025-05-29: Upgraded the Black Diamond Access Down Hoody to the [Patagonia Nano Air Ultralight](#patagonia-nano-air-ultralight-pullover).
-- 2025-05-29: Replaced the Asics Superblast 2 + casual shoe combo for traveling with the [Nike Pegasus 41](#nike-pegasus-41-shoes) running shoes.
-- 2025-05-29: Added an Airtag to my keyring, using a keychain holder from Elevation Labs. I now have 5 airtags: car, ebike, luggage, backpack, and keys.
-- 2025-05-29: Upgraded the USB-A Garmin Watch cable with a USB-C Garmin Watch cable. The slight downside is this might compete with the 2 USB-C slots of the Anker 100 GaN Charger.
+- 2026-02-07: Start
