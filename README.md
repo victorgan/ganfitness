@@ -21,6 +21,12 @@ Updated February 2026
 - [Core](#core) (Abs, Obliques, Transverse)
 - [Legs](#legs) (Glutes, Upper Leg, Lower Leg)
 
+## [Factors for Exercise Selection](#factors-for-exercise-selection)
+
+- [Stimulus Quality](#stimulus-quality)
+- [Practical Factors](#practical-factors)
+- [Individual Factors](#individual-factors)
+
 [Change Log](#change-log)
 
 # Exercise by Muscle
@@ -573,6 +579,58 @@ A deep muscle on the back of the lower leg, lying behind the tibia. Plantarflexe
 
 Two muscles on the outer lower leg: the peroneus longus and peroneus brevis. Evert the foot (tilt the sole outward) and assist in plantarflexion. Stabilize the ankle against inversion sprains. The longus also supports the transverse arch of the foot. Trained by eversion exercises against a band and single-leg balance work.
 
+
+# Factors for Exercise Selection
+
+## Stimulus Quality
+
+### Stretch Under Load
+
+Exercises that place a muscle under tension while it is in a lengthened position produce greater hypertrophy. Incline dumbbell curls stretch the biceps long head at the bottom, Romanian deadlifts stretch the hamstrings, and cable flyes stretch the chest. Prefer exercises that challenge the muscle most in the stretched position over those that are hardest at the shortened position.
+
+### Full Range of Motion
+
+Moving through the complete range a joint allows recruits more muscle fibers and builds strength across the entire length-tension curve. Partial reps have their place for overload, but the default should be full ROM. Deep squats outperform half squats for quad and glute growth.
+
+### Resistance Profile
+
+The resistance curve of an exercise should match the strength curve of the muscle. Cables provide constant tension, free weights are hardest at specific joint angles, and machines can be cam-shaped to match the muscle's output. Choose the tool that keeps the target muscle challenged through the full rep.
+
+### Mind-Muscle Connection
+
+If you cannot feel the target muscle working during an exercise, it is likely not the best choice for you. Isolation exercises and cables tend to produce better mind-muscle connection than heavy compounds. This matters more for hypertrophy than for strength.
+
+## Practical Factors
+
+### Loadability
+
+The exercise should allow progressive overload in small increments over time. Barbell exercises are the most loadable (fractional plates exist). Dumbbell exercises jump in 5 lb increments, which can be too large for small muscles. Cable stacks vary by machine.
+
+### Stability Demands
+
+Unstable exercises (standing single-arm cable work, Bulgarian split squats) limit the load you can use because stabilizers fatigue first. This is beneficial for athleticism and joint health but reduces the stimulus to the target muscle. Use stable exercises (machines, chest-supported rows) when the goal is maximum muscle stimulus, and less stable ones for functional carryover.
+
+### Joint Stress
+
+Some exercises place disproportionate stress on joints relative to the muscle stimulus they provide. Behind-the-neck presses stress the shoulder capsule, deep skull crushers stress the elbows, and leg presses with excessive depth stress the lumbar spine. Prefer exercises that load the muscle hard while keeping joints in comfortable positions.
+
+### Fatigue Cost
+
+Compound barbell movements (squats, deadlifts, barbell rows) produce high systemic fatigue relative to the muscle stimulus for any single muscle group. This is fine when they are the primary lift of a session but inefficient when added as accessory volume. Use machines and cables for accessory work to accumulate volume without excessive fatigue.
+
+## Individual Factors
+
+### Anthropometry
+
+Limb lengths and torso proportions affect which exercises feel natural and which do not. Long-femur lifters may squat better with a wider stance or prefer front squats. Long-armed lifters often find deadlifts easier but bench press harder. Choose exercises that let you load the target muscle through a pain-free range with your body proportions.
+
+### Injury History
+
+Previous injuries change which exercises are appropriate. A history of shoulder impingement may mean replacing flat barbell bench with a neutral-grip dumbbell press. Chronic low back issues may favor hip thrusts over deadlifts for glute work. There is almost always a pain-free alternative that trains the same muscle.
+
+### Equipment Availability
+
+The best exercise is one you can actually do consistently. A home gym with a barbell and rack requires different exercise selection than a fully equipped commercial gym. Cables and machines expand exercise options significantly, but a barbell, dumbbells, and a pull-up bar cover the fundamentals.
 
 # Change Log
 - 2026-02-07: Start
