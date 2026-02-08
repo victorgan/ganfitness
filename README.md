@@ -107,7 +107,7 @@ Reverse barbell curls train the brachioradialis and wrist extensors — muscle g
 
 ## Legs
 
-The leg split covers the quadriceps, hamstrings, glutes, calves, and adductors. Quad-dominant squatting is programmed first because it is the most systemically demanding movement and requires full neurological freshness. Hip hinge work (hamstrings/glutes) follows because it complements rather than competes with squatting — the primary movers differ despite both being lower-body compounds. Single-leg and isolation work comes next to address imbalances and target specific muscles. Calves and adductors close the session because they are single-joint movements with low fatigue cost.
+The leg split covers the quadriceps, hamstrings, glutes, calves, and adductors. Quad-dominant squatting is programmed first because it is the most systemically demanding movement and requires full neurological freshness. Hip hinge work (hamstrings/glutes) follows because it complements rather than competes with squatting — the primary movers differ despite both being lower-body compounds. Single-leg and isolation work comes next to address imbalances and target specific muscles. Calves and adductors close the session because they are single-joint movements with low fatigue cost. An alternative pairing is [Front Squat](#front-squat) + [Deadlift](#deadlift) instead of [Back Squat](#barbell-back-squat) + [RDL](#romanian-deadlift) — this has less overlap (the front squat is nearly pure quad, the deadlift is nearly pure posterior chain) but higher combined [fatigue cost](#fatigue-cost) and spinal loading, which leaves less room for the isolation and single-leg work that follows. The back squat + RDL pairing is preferred here because it is more sustainable alongside a full session of Nordics, leg curls, hip thrusts, and split squats.
 
 **Quadriceps** ([Quadriceps](#quadriceps))
 1. [Barbell Back Squat](#barbell-back-squat) (primary compound)
@@ -247,7 +247,7 @@ Stand facing a high cable and push the bar down in an arc with straight arms unt
 
 #### Barbell Rows
 
-Hinge at the hips with a flat back and row a barbell to your lower chest or upper abdomen. The heaviest horizontal pull, targeting the entire mid-back, lats, rhomboids, and rear deltoids. Excellent [loadability](#loadability) but high [fatigue cost](#fatigue-cost) due to lower back demands; [anthropometry](#anthropometry) matters for long-torso lifters. Choose this over [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) when maximum back thickness and heavy loading are the goal; choose T-Bar Rows to eliminate lower back fatigue.
+Hinge at the hips with a flat back and row a barbell to your upper abdomen with elbows flared out at roughly 45-70 degrees. An upper-back row: the wide elbow path emphasizes the rhomboids, mid-traps, and rear deltoids through scapular retraction — narrowing the grip and tucking the elbows shifts emphasis toward the lats instead. Excellent [loadability](#loadability) but high [fatigue cost](#fatigue-cost) due to lower back demands; [anthropometry](#anthropometry) matters for long-torso lifters. Choose this over [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) when maximum upper-back thickness and heavy loading are the goal; choose T-Bar Rows to eliminate lower back fatigue.
 
 #### Chest-Supported T-Bar Rows
 
