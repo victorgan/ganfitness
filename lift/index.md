@@ -114,8 +114,6 @@ When you've run this program for 12+ weeks and want to customize, see the [Compr
 
 Exercises are organized into a push/pull/legs/core split and listed in recommended training order. Compounds come before isolation, highest-fatigue exercises come first, and every major muscle group includes a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities.
 
-**Anthropometry:** Tailored for a long torso / short legs [build](#anthropometry). Short femurs favor squatting; the long torso increases lower-back demand in hinged positions (rows, deadlifts). Ordering favors chest-supported and back-supported variations to manage erector fatigue. Adjust for your proportions.
-
 **Rep Ranges:** Primary compounds: 3–6 reps, heavy, progressive overload. Moderate compounds and accessories: 6–12 reps. Isolation and volume accumulators: 10–20 reps, mind-muscle connection. Two to four working sets per exercise.
 
 **Scope:** This guide covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
@@ -186,7 +184,7 @@ Reverse curls cover the pronated grip, complementing hammer curls above. Plate p
 
 ## Legs
 
-Quads, hamstrings/posterior chain, glutes, calves, adductors — squatting first while freshest, single-joint work last. Alternative pairing: [Front Squat](#barbell-front-squat) + [RDL](#romanian-deadlift) for lifters with long femurs. Back squat + deadlift is preferred here because both suit this [anthropometry](#anthropometry).
+Quads, hamstrings/posterior chain, glutes, calves, adductors — squatting first while freshest, single-joint work last. Alternative pairing: [Front Squat](#barbell-front-squat) + [RDL](#romanian-deadlift) if your [anthropometry](#anthropometry) favors a more upright squat.
 
 **Quadriceps** ([Quadriceps](#quadriceps))
 1. [Barbell Back Squat](#barbell-back-squat) (primary compound)
@@ -200,7 +198,7 @@ Back squat first (highest [loadability](#loadability) and [fatigue cost](#fatigu
 2. [Nordic Hamstring Curls](#nordic-hamstring-curls) (eccentric / injury prevention)
 3. [Seated Leg Curls](#seated-leg-curls) (knee flexion isolation)
 
-Conventional deadlift opens as the heaviest posterior chain movement, preferred over [RDL](#romanian-deadlift) for this [anthropometry](#anthropometry). Nordics follow for eccentric hamstring injury prevention. Seated leg curls close by covering knee flexion, which the deadlift doesn't train — ensuring [muscle architecture](#muscle-architecture) coverage across both joints the hamstrings cross. [RDL](#romanian-deadlift) removed: its hamstring stretch is covered by Nordics and seated leg curls.
+Conventional deadlift opens as the heaviest posterior chain movement — see [anthropometry](#anthropometry) for choosing between conventional and [RDL](#romanian-deadlift). Nordics follow for eccentric hamstring injury prevention. Seated leg curls close by covering knee flexion, which the deadlift doesn't train — ensuring [muscle architecture](#muscle-architecture) coverage across both joints the hamstrings cross. [RDL](#romanian-deadlift) removed: its hamstring stretch is covered by Nordics and seated leg curls.
 
 **Glutes** ([Gluteus Maximus](#gluteus-maximus), [Gluteus Medius](#gluteus-medius))
 1. [Barbell Hip Thrusts](#barbell-hip-thrusts) (primary compound)
@@ -844,6 +842,8 @@ These factors vary from person to person and make exercise selection inherently 
 ### Anthropometry
 
 Limb lengths and torso proportions affect which exercises feel natural and which do not. Long-femur lifters may squat better with a wider stance, prefer [barbell front squats](#barbell-front-squat), or favor belt squats to keep the torso upright. Long-armed lifters often find [deadlifts](#deadlift) easier (shorter relative ROM to lockout) but [flat barbell bench press](#flat-barbell-bench-press) harder (longer ROM and greater shoulder demand). Arm length affects pulling too: long-armed lifters may find [weighted chin-ups](#weighted-chin-ups) easier but may need extra [bicep](#biceps-brachii) isolation due to reduced bicep involvement at longer moment arms. Torso-to-leg length ratio affects deadlift style selection: conventional favors longer torsos, sumo favors longer legs. If an exercise feels awkward after four to six weeks of consistent practice, the issue may be anthropometric rather than technique-related.
+
+**Long torso / short legs:** Short femurs make [back squatting](#barbell-back-squat) favorable — the torso stays upright naturally, so [front squats](#barbell-front-squat) add less value. The long torso creates a longer lever arm in hinged positions ([rows](#barbell-rows), [deadlifts](#deadlift), [RDLs](#romanian-deadlift)), increasing lower-back demand. Favor chest-supported and back-supported variations (e.g., [chest-supported rows](#chest-supported-t-bar-rows) before [barbell rows](#barbell-rows)) to manage cumulative erector fatigue. [Conventional deadlift](#deadlift) suits this build — pair with [back squat](#barbell-back-squat) rather than [front squat](#barbell-front-squat) + [RDL](#romanian-deadlift).
 
 ### Injury History
 
