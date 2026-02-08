@@ -45,23 +45,23 @@ Updated February 2026
 *Rationale: The Chest is the largest muscle group here. Triceps get hit hard during chest/shoulder pressing, so they go last.*
 
 **[Chest Muscles](#pectoralis-major)**
-1. [Flat Barbell Bench Press](#flat-barbell-bench-press)
-2. [Incline Dumbbell Press](#incline-dumbbell-press)
-3. [Cable Crossovers](#cable-crossovers)
+1. [Flat Barbell Bench Press](#flat-barbell-bench-press) — Heaviest loadable chest movement; the benchmark compound press.
+2. [Incline Dumbbell Press](#incline-dumbbell-press) — Hits the upper chest fibers that flat pressing misses.
+3. [Cable Crossovers](#cable-crossovers) — Constant tension through the full range with a deep stretch at the bottom.
 
 **[Shoulder Muscles](#anterior-deltoid)**
-1. [Military Press](#military-press)
-2. [Seated Dumbbell Overhead Press](#seated-dumbbell-overhead-press)
-3. [Cable Lateral Raises](#cable-lateral-raises)
+1. [Military Press](#military-press) — The heaviest overhead press; builds all three deltoid heads standing.
+2. [Seated Dumbbell Overhead Press](#seated-dumbbell-overhead-press) — Fixes left-right imbalances without lower body momentum.
+3. [Cable Lateral Raises](#cable-lateral-raises) — Isolates the lateral deltoid for width with constant tension.
 
 **[Triceps Brachii](#triceps-brachii)**
-1. [Close-Grip Bench Press](#close-grip-bench-press)
-2. [Skullcrushers](#skullcrushers)
-3. [Tricep Rope Pushdowns](#tricep-rope-pushdowns)
+1. [Close-Grip Bench Press](#close-grip-bench-press) — Heaviest triceps-dominant compound; allows significant overload.
+2. [Skullcrushers](#skullcrushers) — Stretches the long head under load, the key driver of triceps size.
+3. [Tricep Rope Pushdowns](#tricep-rope-pushdowns) — Easy to superset and accumulate volume with low joint stress.
 
 **[Rotator Cuff](#supraspinatus)**
-1. [Face Pulls](#face-pulls)
-2. [Cable External Rotations](#cable-external-rotations)
+1. [Face Pulls](#face-pulls) — Trains external rotation and rear delts together for shoulder health.
+2. [Cable External Rotations](#cable-external-rotations) — Directly isolates the infraspinatus and teres minor.
 
 ### 2. The Pull Complex (Back, Erectors, Biceps)
 *Goal: Posterior Pulling Muscles.*
@@ -69,34 +69,34 @@ Updated February 2026
 *Rationale: Vertical pulling (Lats) usually requires the most energy. Mid-back is second. Biceps are small and get hit by everything else, so they are third.*
 
 **[Latissimus Dorsi](#latissimus-dorsi)**
-1. [Weighted Pull-Ups](#weighted-pull-ups)
-2. [Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns)
-3. [Straight-Arm Pulldowns](#straight-arm-pulldowns)
+1. [Weighted Pull-Ups](#weighted-pull-ups) — The best vertical pull; loads the lats heavily through a full stretch.
+2. [Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns) — Easier to load precisely and push to failure safely.
+3. [Straight-Arm Pulldowns](#straight-arm-pulldowns) — Isolates the lats by removing bicep involvement entirely.
 
 **[Mid-Back](#rhomboids)**
-1. [Barbell Rows](#barbell-rows)
-2. [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows)
-3. [Seated Cable Rows](#seated-cable-rows)
+1. [Barbell Rows](#barbell-rows) — The heaviest horizontal pull; builds overall back thickness.
+2. [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) — Removes lower back fatigue so you can focus on squeezing the mid-back.
+3. [Seated Cable Rows](#seated-cable-rows) — Constant tension and a stable position for high-rep mind-muscle connection work.
 
 **[Erector Spinae](#erector-spinae)**
-1. [Rack Pulls](#rack-pulls)
-2. [Good Mornings](#good-mornings)
-3. [Weighted Hyperextensions](#weighted-hyperextensions)
+1. [Rack Pulls](#rack-pulls) — Allows the heaviest loading of the upper back and spinal erectors.
+2. [Good Mornings](#good-mornings) — Directly strengthens the hip hinge pattern used in squats and deadlifts.
+3. [Weighted Hyperextensions](#weighted-hyperextensions) — Builds erectors with minimal spinal compression.
 
 **[Trapezius](#trapezius)**
-1. [Farmer's Walks](#farmers-walks)
-2. [Barbell Shrugs](#barbell-shrugs)
-3. [Kelso Shrugs](#kelso-shrugs)
+1. [Farmer's Walks](#farmers-walks) — Loads the traps, grip, and core simultaneously under time and tension.
+2. [Barbell Shrugs](#barbell-shrugs) — The most direct upper trap exercise; allows very heavy loads.
+3. [Kelso Shrugs](#kelso-shrugs) — Targets the mid and lower traps that barbell shrugs miss.
 
 **[Biceps Brachii](#biceps-brachii)**
-1. [Weighted Chin-Ups](#weighted-chin-ups)
-2. [Barbell Curls](#barbell-curls)
-3. [Incline Dumbbell Curls](#incline-dumbbell-curls)
+1. [Weighted Chin-Ups](#weighted-chin-ups) — Heavy compound that overloads the biceps beyond what curls allow.
+2. [Barbell Curls](#barbell-curls) — The foundational curl; allows the most weight of any isolation curl.
+3. [Incline Dumbbell Curls](#incline-dumbbell-curls) — Stretches the long head at the bottom for bicep peak development.
 
 **[Forearm Muscles](#brachioradialis)**
-1. [Reverse Barbell Curls](#reverse-barbell-curls)
-2. [Barbell Wrist Curls](#barbell-wrist-curls)
-3. [Plate Pinches](#plate-pinches)
+1. [Reverse Barbell Curls](#reverse-barbell-curls) — Shifts load to the brachioradialis and wrist extensors for outer forearm mass.
+2. [Barbell Wrist Curls](#barbell-wrist-curls) — Isolates the wrist flexors for inner forearm size and grip strength.
+3. [Plate Pinches](#plate-pinches) — Builds thumb and finger strength that other grip exercises miss.
 
 ### 3. The Leg Complex (Quads, Hams, Glutes, Calves)
 *Goal: Lower Body Locomotion & Stability.*
@@ -104,47 +104,47 @@ Updated February 2026
 *Rationale: Squats (Quads) are the most taxing movement in the gym. They must come first. Hamstrings/Hinges are second. Calves and details are last.*
 
 **[Quadriceps](#quadriceps)**
-1. [Barbell Front Squat](#barbell-front-squat)
-2. [Bulgarian Split Squats](#bulgarian-split-squats)
-3. [Leg Extensions](#leg-extensions)
+1. [Barbell Front Squat](#barbell-front-squat) — Upright torso maximizes quad bias while demanding core and upper back strength.
+2. [Bulgarian Split Squats](#bulgarian-split-squats) — Fixes single-leg imbalances and builds hip stability under load.
+3. [Leg Extensions](#leg-extensions) — Isolates the quads without spinal loading; good for adding volume.
 
 **[Hamstrings](#hamstrings)**
-1. [Deadlift](#deadlift)
-2. [Romanian Deadlift](#romanian-deadlift)
-3. [Seated Leg Curls](#seated-leg-curls)
+1. [Deadlift](#deadlift) — The heaviest hip hinge; loads the entire posterior chain maximally.
+2. [Romanian Deadlift](#romanian-deadlift) — Emphasizes the eccentric hamstring stretch that builds length and size.
+3. [Seated Leg Curls](#seated-leg-curls) — Isolates the knee-flexion function of the hamstrings.
 
 **[Glutes](#gluteus-maximus)**
-1. [Barbell Hip Thrusts](#barbell-hip-thrusts)
-2. [Walking Lunges](#walking-lunges)
-3. [Cable Hip Abductions](#cable-hip-abductions)
+1. [Barbell Hip Thrusts](#barbell-hip-thrusts) — Peak tension at full hip extension where the glutes are strongest.
+2. [Walking Lunges](#walking-lunges) — Combines glute loading with dynamic balance and single-leg work.
+3. [Cable Hip Abductions](#cable-hip-abductions) — Isolates the gluteus medius for hip stability and injury prevention.
 
 **[Calves](#gastrocnemius)**
-1. [Donkey Calf Raises](#donkey-calf-raises)
-2. [Standing Calf Raises](#standing-calf-raises)
-3. [Seated Calf Raises](#seated-calf-raises)
+1. [Donkey Calf Raises](#donkey-calf-raises) — Hip-flexed position pre-stretches the gastrocnemius for maximum activation.
+2. [Standing Calf Raises](#standing-calf-raises) — Straight legs target the gastrocnemius, the larger calf muscle.
+3. [Seated Calf Raises](#seated-calf-raises) — Bent knees isolate the soleus, which makes up most of calf volume.
 
 **[Inner Thigh](#adductors)**
-1. [Sumo Squats](#sumo-squats)
-2. [Copenhagen Plank](#copenhagen-plank)
-3. [Adductor Machine](#adductor-machine)
+1. [Sumo Squats](#sumo-squats) — Wide stance loads the adductors through a compound squatting pattern.
+2. [Copenhagen Plank](#copenhagen-plank) — Bodyweight adductor strengthener used widely in injury prevention.
+3. [Adductor Machine](#adductor-machine) — Direct isolation with simple progressive overload.
 
 ### 4. The Core Complex (Abs & Stability)
 *Goal: Trunk Rigidity and Rotation.*
 
 **[Rectus Abdominis](#rectus-abdominis)**
-1. [Hanging Leg Raises](#hanging-leg-raises)
-2. [Weighted Cable Crunches](#weighted-cable-crunches)
-3. [Dead Bugs](#dead-bugs)
+1. [Hanging Leg Raises](#hanging-leg-raises) — Loads the abs through a long range while decompressing the spine.
+2. [Weighted Cable Crunches](#weighted-cable-crunches) — The easiest ab exercise to progressively overload with weight.
+3. [Dead Bugs](#dead-bugs) — Teaches anti-extension bracing patterns that transfer to heavy lifts.
 
 **[Obliques](#external-obliques)**
-1. [Suitcase Carries](#suitcase-carries)
-2. [Cable Woodchoppers](#cable-woodchoppers)
-3. [Side Planks](#side-planks)
+1. [Suitcase Carries](#suitcase-carries) — Functional anti-lateral-flexion work under heavy load.
+2. [Cable Woodchoppers](#cable-woodchoppers) — Trains rotational power through the full oblique range.
+3. [Side Planks](#side-planks) — Builds isometric oblique endurance with minimal equipment.
 
 **[Deep Core](#transversus-abdominis)**
-1. [Ab Wheel Rollouts](#ab-wheel-rollouts)
-2. [Stomach Vacuums](#stomach-vacuums)
-3. [Planks](#planks)
+1. [Ab Wheel Rollouts](#ab-wheel-rollouts) — One of the most demanding anti-extension exercises for the entire anterior core.
+2. [Stomach Vacuums](#stomach-vacuums) — Directly targets the transversus abdominis that other exercises miss.
+3. [Planks](#planks) — The foundational anti-extension hold; easy to scale and progress.
 
 # Weightlifting Exercises
 
