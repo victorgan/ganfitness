@@ -459,6 +459,8 @@ Hold a push-up position on your forearms with your body in a straight line from 
 
 ## Torso
 
+The most common torso imbalance is chest and anterior deltoid overtrained relative to back and posterior deltoid — this leads to rounded shoulders and shoulder injury risk. Pulling volume should match or exceed pushing volume. For physique, prioritize lats and mid/lower traps: V-taper comes from back width, not chest size. For shoulder longevity, prioritize rear delts and rotator cuff external rotators. The most undertrained torso muscles are the posterior deltoid, lower traps, serratus anterior, and rotator cuff external rotators. The rotator cuff is the weakest link in the shoulder — light prehab work prevents the injuries that derail pressing progress.
+
 ### Chest Muscles
 
 #### Pectoralis Major
@@ -527,6 +529,8 @@ The largest and strongest rotator cuff muscle, located on the front surface of t
 
 ## Arms
 
+Arms get heavy indirect work from all pressing and pulling — most people overtrain biceps with dedicated volume while the triceps, which make up two-thirds of arm size, are undertrained. Prioritize the tricep long head (needs overhead/stretch work that pressing alone doesn't provide) and the brachialis (pushes the bicep up and makes the arm look thicker). Forearms are chronically undertrained — small forearms next to big upper arms look disproportionate, and weak grip limits deadlifts, rows, and carries. A common pitfall is neglecting wrist extensors relative to flexors, which leads to elbow pain (tennis elbow). For athleticism, grip strength and forearm endurance matter more than bicep peak.
+
 ### Upper Arm
 
 #### Biceps Brachii
@@ -564,6 +568,8 @@ The flexor digitorum superficialis (closer to the surface) and flexor digitorum 
 The extensor digitorum on the back of the forearm extends all four fingers. Important for hand balance and preventing overuse injuries from gripping. Often neglected relative to the flexors, which can lead to imbalance and [injury history](#injury-history) issues at the elbow. Trained by rubber band extensions or reverse grip exercises like [Reverse Barbell Curls](#reverse-barbell-curls). Low [equipment availability](#equipment-availability) barrier — a rubber band is sufficient.
 
 ## Leg Muscles
+
+The most undertrained region overall — people skip legs or only do quads. Quads are overtrained relative to hamstrings and glutes; this quad dominance is the most common lower body imbalance and a major injury risk factor. Prioritize glutes (the most powerful muscle in the body, underdeveloped in anyone who sits all day), hamstrings (the number one modifiable factor for ACL and hamstring strain prevention), and glute medius (prevents knee valgus and hip drop). Calves and lower leg muscles are almost universally neglected but matter for ankle stability, shin splint prevention, and athletic durability. For athleticism, hip extension power (glutes + hamstrings) drives sprinting and jumping more than quad strength, and single-leg work transfers to sport better than bilateral-only training.
 
 ### Glute Muscles
 
@@ -616,6 +622,8 @@ A deep muscle on the back of the lower leg, lying behind the tibia. Plantarflexe
 Two muscles on the outer lower leg: the peroneus longus and peroneus brevis. Evert the foot (tilt the sole outward) and assist in plantarflexion. Stabilize the ankle against inversion sprains — critical for [injury history](#injury-history) prevention in athletes. The longus also supports the transverse arch of the foot. Trained by eversion exercises against a band (minimal [equipment availability](#equipment-availability) requirements) and single-leg balance work, which builds them through [stability demands](#stability-demands).
 
 ## Core Muscles
+
+Most overtrained: rectus abdominis (crunches), while ab visibility is almost entirely about body fat percentage. Most undertrained: obliques, transversus abdominis, and the deep stabilizers — these are what actually protect the spine and transfer force between upper and lower body. For athleticism, anti-movement patterns (anti-extension, anti-rotation, anti-lateral-flexion) matter far more than producing movement; bracing under load is the core's real job. A common pitfall is doing endless spinal flexion (crunches/sit-ups), which builds the least useful function while loading the spine — replace with anti-movement work (dead bugs, pallof press, carries). Heavy compound lifts already train the core hard, so direct core work should fill gaps, not duplicate what squats and deadlifts already do.
 
 ### Ab Muscles
 
