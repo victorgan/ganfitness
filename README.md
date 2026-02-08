@@ -459,7 +459,7 @@ Hold a push-up position on your forearms with your body in a straight line from 
 
 ## Torso
 
-The most common torso imbalance is chest and anterior deltoid overtrained relative to back and posterior deltoid — this leads to rounded shoulders and shoulder injury risk. Pulling volume should match or exceed pushing volume. For physique, prioritize lats and mid/lower traps: V-taper comes from back width, not chest size. For shoulder longevity, prioritize rear delts and rotator cuff external rotators. The most undertrained torso muscles are the posterior deltoid, lower traps, serratus anterior, and rotator cuff external rotators. The rotator cuff is the weakest link in the shoulder — light prehab work prevents the injuries that derail pressing progress.
+[Chest](#chest-muscles) and [anterior deltoid](#anterior-deltoid) are almost always overtrained relative to [back](#back-muscles) and [posterior deltoid](#posterior-deltoid), which leads to rounded shoulders and shoulder injury risk. Pulling volume should match or exceed pushing volume. For physique, back width drives V-taper more than chest size — prioritize [lats](#latissimus-dorsi) and mid/lower [traps](#trapezius). The most neglected muscles are the [posterior deltoid](#posterior-deltoid), lower [traps](#trapezius), [serratus anterior](#serratus-anterior), and rotator cuff external rotators ([infraspinatus](#infraspinatus), [teres minor](#teres-minor)). The rotator cuff is the weakest link in the shoulder; light prehab work prevents the injuries that derail pressing progress.
 
 ### Chest Muscles
 
@@ -529,7 +529,7 @@ The largest and strongest rotator cuff muscle, located on the front surface of t
 
 ## Arms
 
-Arms get heavy indirect work from all pressing and pulling — most people overtrain biceps with dedicated volume while the triceps, which make up two-thirds of arm size, are undertrained. Prioritize the tricep long head (needs overhead/stretch work that pressing alone doesn't provide) and the brachialis (pushes the bicep up and makes the arm look thicker). Forearms are chronically undertrained — small forearms next to big upper arms look disproportionate, and weak grip limits deadlifts, rows, and carries. A common pitfall is neglecting wrist extensors relative to flexors, which leads to elbow pain (tennis elbow). For athleticism, grip strength and forearm endurance matter more than bicep peak.
+Arms get heavy indirect work from pressing and pulling, so dedicated arm volume has diminishing returns compared to other muscle groups. [Triceps](#triceps-brachii) make up two-thirds of arm size and respond best to overhead/stretch work that pressing alone doesn't provide. [Forearms](#forearm) are chronically undertrained — weak grip limits deadlifts, rows, and carries, and neglecting [wrist extensors](#wrist-extensors) relative to [flexors](#wrist-flexors) is a common cause of elbow pain. For athleticism, grip strength and forearm endurance matter more than bicep peak.
 
 ### Upper Arm
 
@@ -569,7 +569,7 @@ The extensor digitorum on the back of the forearm extends all four fingers. Impo
 
 ## Leg Muscles
 
-The most undertrained region overall — people skip legs or only do quads. Quads are overtrained relative to hamstrings and glutes; this quad dominance is the most common lower body imbalance and a major injury risk factor. Prioritize glutes (the most powerful muscle in the body, underdeveloped in anyone who sits all day), hamstrings (the number one modifiable factor for ACL and hamstring strain prevention), and glute medius (prevents knee valgus and hip drop). Calves and lower leg muscles are almost universally neglected but matter for ankle stability, shin splint prevention, and athletic durability. For athleticism, hip extension power (glutes + hamstrings) drives sprinting and jumping more than quad strength, and single-leg work transfers to sport better than bilateral-only training.
+The most commonly undertrained region. [Quads](#quadriceps) are overtrained relative to [hamstrings](#hamstring-muscles) and [glutes](#glute-muscles) — this quad dominance is the most common lower body imbalance and a major injury risk factor. Prioritize [glutes](#gluteus-maximus) (the most powerful muscle in the body, weakened by prolonged sitting), [hamstrings](#hamstring-muscles) (a key modifiable factor for ACL and hamstring strain prevention), and [glute medius](#gluteus-medius) (prevents knee valgus and hip drop). [Lower leg muscles](#lower-leg) are almost universally neglected but matter for ankle stability and shin splint prevention. For athleticism, hip extension power from glutes and hamstrings drives sprinting and jumping more than quad strength.
 
 ### Glute Muscles
 
@@ -623,7 +623,7 @@ Two muscles on the outer lower leg: the peroneus longus and peroneus brevis. Eve
 
 ## Core Muscles
 
-Most overtrained: rectus abdominis (crunches), while ab visibility is almost entirely about body fat percentage. Most undertrained: obliques, transversus abdominis, and the deep stabilizers — these are what actually protect the spine and transfer force between upper and lower body. For athleticism, anti-movement patterns (anti-extension, anti-rotation, anti-lateral-flexion) matter far more than producing movement; bracing under load is the core's real job. A common pitfall is doing endless spinal flexion (crunches/sit-ups), which builds the least useful function while loading the spine — replace with anti-movement work (dead bugs, pallof press, carries). Heavy compound lifts already train the core hard, so direct core work should fill gaps, not duplicate what squats and deadlifts already do.
+The [rectus abdominis](#rectus-abdominis) is overtrained through spinal flexion exercises while the muscles that actually protect the spine — [obliques](#oblique-muscles), [transversus abdominis](#transversus-abdominis), and the [deep stabilizers](#deep-core-muscles) — are undertrained. These deeper muscles transfer force between upper and lower body and brace the spine under load, which is the core's primary job during heavy lifting and athletics. Anti-movement capacity (resisting extension, rotation, and lateral flexion) matters more than producing movement. Heavy compound lifts already train the core hard, so direct core work should fill gaps rather than duplicate what squats and deadlifts provide.
 
 ### Ab Muscles
 
