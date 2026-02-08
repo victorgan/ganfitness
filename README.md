@@ -24,7 +24,7 @@ Updated February 2026
 - [Torso](#torso) (Chest, Back, Shoulder)
 - [Arms](#arms) (Upper Arm, Forearm)
 - [Legs](#legs) (Glutes, Upper Leg, Lower Leg)
-- [Core](#core) (Abs, Obliques, Transverse)
+- [Core](#core) (Abs, Obliques, Deep Core)
 
 ## [Factors for Exercise Selection](#factors-for-exercise-selection)
 
@@ -467,14 +467,6 @@ A group of three muscles (iliocostalis, longissimus, spinalis) running verticall
 
 A thick muscle on the lower border of the scapula that assists the latissimus dorsi in shoulder extension, adduction, and internal rotation. Sometimes called "the lat's little helper." Activated during [Weighted Pull-Ups](#weighted-pull-ups), [Barbell Rows](#barbell-rows), and [Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns). Does not need dedicated isolation — any exercise that trains the lats will train the teres major.
 
-#### Teres Minor
-
-A small muscle on the back of the scapula, part of the rotator cuff. Externally rotates the shoulder and stabilizes the humeral head in the socket. Strengthened by [Cable External Rotations](#cable-external-rotations) and [Face Pulls](#face-pulls). Both are low [joint stress](#joint-stress) exercises critical for shoulder [injury history](#injury-history) prevention. Use light loads and higher reps.
-
-#### Infraspinatus
-
-A large rotator cuff muscle covering most of the back of the scapula. The primary external rotator of the shoulder. Works with the teres minor to decelerate internal rotation and stabilize the shoulder joint. Strengthened by [Cable External Rotations](#cable-external-rotations), which provide a smooth [resistance profile](#resistance-profile), and [Face Pulls](#face-pulls), which combine external rotation with rear delt work. Keeping this muscle strong is essential for long-term pressing health — without it, heavy [Flat Barbell Bench Press](#flat-barbell-bench-press) and [Military Press](#military-press) carry higher [injury history](#injury-history) risk.
-
 ### Shoulder
 
 #### Anterior Deltoid
@@ -521,10 +513,6 @@ A thick muscle lying deep to the biceps on the front of the upper arm. A pure el
 
 The three-headed muscle on the back of the upper arm, making up roughly two-thirds of upper arm mass. The long head originates from the scapula and is the only head that crosses the shoulder joint, making it best targeted by [Overhead Tricep Extensions](#overhead-tricep-extensions) and [Skullcrushers](#skullcrushers), which provide the best [stretch under load](#stretch-under-load). The lateral head (outer) and medial head (inner, deep) originate from the humerus and are hit by [Tricep Rope Pushdowns](#tricep-rope-pushdowns) and [Close-Grip Bench Press](#close-grip-bench-press). [Close-Grip Bench Press](#close-grip-bench-press) offers the best [loadability](#loadability) as a compound, while pushdowns offer lower [fatigue cost](#fatigue-cost) for volume accumulation. A complete triceps program needs at least one overhead/stretch movement and one pressing/pushdown movement.
 
-#### Coracobrachialis
-
-A small, deep muscle running from the coracoid process of the scapula to the mid-humerus. Assists in shoulder flexion and adduction. Not typically trained in isolation; activated during pressing ([Flat Barbell Bench Press](#flat-barbell-bench-press), [Incline Dumbbell Press](#incline-dumbbell-press)) and pulling movements. Can become tight and contribute to shoulder impingement — manage through stretching and adequate external rotation work ([Cable External Rotations](#cable-external-rotations)).
-
 ### Forearm
 
 #### Brachioradialis
@@ -538,14 +526,6 @@ A group of muscles on the inner forearm: the flexor carpi radialis, flexor carpi
 #### Wrist Extensors
 
 A group of muscles on the outer forearm: the extensor carpi radialis longus, extensor carpi radialis brevis, and extensor carpi ulnaris. Originate from the lateral epicondyle and extend and deviate the wrist. Commonly affected in tennis elbow. Trained by [Reverse Barbell Curls](#reverse-barbell-curls) and reverse wrist curls. Keeping these balanced with the wrist flexors is important for [injury history](#injury-history) prevention at the elbow.
-
-#### Pronator Teres
-
-Runs diagonally across the inner forearm from the medial epicondyle to the mid-radius. Pronates the forearm (turns the palm face-down) and assists in elbow flexion. Trained indirectly by most pulling and curling movements, particularly [Barbell Curls](#barbell-curls) and [Barbell Rows](#barbell-rows). Does not need dedicated isolation.
-
-#### Supinator
-
-A deep forearm muscle wrapping around the upper radius. Supinates the forearm (turns the palm face-up). Works with the biceps during supination. Trained indirectly through supinated curl movements like [Barbell Curls](#barbell-curls) and [Incline Dumbbell Curls](#incline-dumbbell-curls). Does not need dedicated isolation.
 
 #### Finger Flexors
 
@@ -565,43 +545,35 @@ The largest and most powerful muscle in the body. Originates from the ilium, sac
 
 #### Gluteus Medius
 
-A fan-shaped muscle on the outer surface of the pelvis, partially covered by the gluteus maximus. Abducts the hip and stabilizes the pelvis during single-leg stance (walking, running, lunging). Weakness causes hip drop (Trendelenburg sign) and contributes to knee valgus. [Cable Hip Abductions](#cable-hip-abductions) provide the best isolation with a smooth [resistance profile](#resistance-profile) and good [mind-muscle connection](#mind-muscle-connection). [Bulgarian Split Squats](#bulgarian-split-squats) and [Walking Lunges](#walking-lunges) train it indirectly through their [stability demands](#stability-demands). Strengthening this muscle is critical for [injury history](#injury-history) prevention in the knee and hip.
-
-#### Gluteus Minimus
-
-The smallest and deepest of the three glute muscles, lying beneath the medius. Assists in hip abduction and internal rotation. Works with the medius to stabilize the pelvis during gait. Trained by the same exercises as the medius — [Cable Hip Abductions](#cable-hip-abductions) and single-leg movements like [Bulgarian Split Squats](#bulgarian-split-squats). Does not need separate dedicated work.
+A fan-shaped muscle on the outer surface of the pelvis, partially covered by the gluteus maximus. The smaller gluteus minimus lies beneath it and assists in the same functions — both are trained by the same exercises and do not need separate programming. The medius abducts the hip and stabilizes the pelvis during single-leg stance. Weakness causes hip drop (Trendelenburg sign) and contributes to knee valgus. For athletes, the medius is the primary stabilizer during cutting, lateral movement, and single-leg landing — weakness is a major risk factor for ACL injuries and patellofemoral pain. [Cable Hip Abductions](#cable-hip-abductions) provide the best isolation with a smooth [resistance profile](#resistance-profile) and good [mind-muscle connection](#mind-muscle-connection). [Bulgarian Split Squats](#bulgarian-split-squats) and [Walking Lunges](#walking-lunges) train it indirectly through their [stability demands](#stability-demands). Strengthening this muscle is critical for [injury history](#injury-history) prevention in the knee and hip.
 
 ### Upper Leg
 
 #### Quadriceps
 
-Four muscles on the front of the thigh that extend the knee: the rectus femoris (crosses the hip and knee, also flexes the hip), vastus lateralis (outer quad), vastus medialis (inner quad, the "teardrop" near the knee), and vastus intermedius (deep, between the lateralis and medialis). Together they are the primary knee extensors. [Barbell Front Squat](#barbell-front-squat) is the best compound for quad emphasis due to the upright torso, with excellent [loadability](#loadability) and [full range of motion](#full-range-of-motion) but high [fatigue cost](#fatigue-cost). [Bulgarian Split Squats](#bulgarian-split-squats) fix imbalances with high [stability demands](#stability-demands) and lower [fatigue cost](#fatigue-cost). [Leg Extensions](#leg-extensions) isolate the quads — particularly the rectus femoris and vastus medialis — with minimal [fatigue cost](#fatigue-cost) and good [mind-muscle connection](#mind-muscle-connection). A complete quad program benefits from both a compound squat pattern and an isolation movement.
+Four muscles on the front of the thigh that extend the knee: the rectus femoris (crosses the hip and knee, also flexes the hip), vastus lateralis (outer quad), vastus medialis (inner quad, the "teardrop" near the knee), and vastus intermedius (deep, between the lateralis and medialis). Together they are the primary knee extensors. The vastus medialis oblique (VMO) is particularly important for patellar tracking and knee stability — weakness contributes to patellofemoral pain and is a risk factor for knee injuries in athletes. [Barbell Front Squat](#barbell-front-squat) is the best compound for quad emphasis due to the upright torso, with excellent [loadability](#loadability) and [full range of motion](#full-range-of-motion) but high [fatigue cost](#fatigue-cost). [Bulgarian Split Squats](#bulgarian-split-squats) fix imbalances with high [stability demands](#stability-demands) and lower [fatigue cost](#fatigue-cost). [Leg Extensions](#leg-extensions) isolate the quads — particularly the rectus femoris and VMO — with minimal [fatigue cost](#fatigue-cost) and good [mind-muscle connection](#mind-muscle-connection). A complete quad program benefits from both a compound squat pattern and an isolation movement.
 
 #### Hamstrings
 
-Three muscles on the back of the thigh: the biceps femoris (two heads, on the outer hamstring), semitendinosus (inner, more superficial), and semimembranosus (inner, deeper). All cross both the hip and knee, extending the hip and flexing the knee. Because the hamstrings cross two joints, they need both hip extension exercises and knee flexion exercises for complete development. [Deadlift](#deadlift) and [Romanian Deadlift](#romanian-deadlift) train the hip extension function — the RDL provides superior [stretch under load](#stretch-under-load) while the deadlift offers maximum [loadability](#loadability). [Seated Leg Curls](#seated-leg-curls) train the knee flexion function with excellent [mind-muscle connection](#mind-muscle-connection) and low [fatigue cost](#fatigue-cost). [Trap Bar Deadlift](#trap-bar-deadlift) is a lower [joint stress](#joint-stress) alternative to conventional deadlifts for those with [injury history](#injury-history) involving the lower back.
+Three muscles on the back of the thigh: the biceps femoris (two heads, on the outer hamstring), semitendinosus (inner, more superficial), and semimembranosus (inner, deeper). All cross both the hip and knee, extending the hip and flexing the knee. Because the hamstrings cross two joints, they need both hip extension exercises and knee flexion exercises for complete development. The hamstrings also function as dynamic knee stabilizers, acting as synergists to the ACL — strong hamstrings are one of the most important factors in ACL injury prevention. Hamstring strains are the most common muscle injury in field sports, occurring during the late swing phase of sprinting when the muscle is eccentrically loaded at high speed; Nordic curls and other eccentric hamstring training reduce this injury risk significantly. [Deadlift](#deadlift) and [Romanian Deadlift](#romanian-deadlift) train the hip extension function — the RDL provides superior [stretch under load](#stretch-under-load) while the deadlift offers maximum [loadability](#loadability). [Seated Leg Curls](#seated-leg-curls) train the knee flexion function with excellent [mind-muscle connection](#mind-muscle-connection) and low [fatigue cost](#fatigue-cost). [Trap Bar Deadlift](#trap-bar-deadlift) is a lower [joint stress](#joint-stress) alternative to conventional deadlifts for those with [injury history](#injury-history) involving the lower back.
 
 #### Adductors
 
 Five muscles on the inner thigh: the adductor longus, adductor brevis, and adductor magnus adduct the hip (pull the leg inward). The gracilis crosses both the hip and knee. The pectineus also flexes the hip. The adductor magnus is the largest and has both an adductor portion and a hamstring-like portion that extends the hip. [Sumo Squats](#sumo-squats) load the adductors through a compound pattern with good [full range of motion](#full-range-of-motion), though [anthropometry](#anthropometry) (hip structure) affects how deep you can go. [Adductor Machine](#adductor-machine) provides the best [mind-muscle connection](#mind-muscle-connection), [loadability](#loadability), and lowest [fatigue cost](#fatigue-cost). [Copenhagen Plank](#copenhagen-plank) requires no equipment ([equipment availability](#equipment-availability)) and is widely used for [injury history](#injury-history) prevention.
 
-#### Tensor Fasciae Latae (TFL)
+#### Iliopsoas (Hip Flexors)
 
-A small muscle on the outer front of the hip that connects to the IT band. Flexes, abducts, and internally rotates the hip. Often overactive in people who sit a lot, compensating for weak glutes. Can contribute to IT band syndrome when tight. Managed by strengthening the gluteus medius with [Cable Hip Abductions](#cable-hip-abductions) and stretching the hip flexors. Not typically targeted directly — reducing its overactivity through glute strengthening is more effective than training it further.
-
-#### Sartorius
-
-The longest muscle in the body, running diagonally across the front of the thigh from the outer hip to the inner knee. Flexes, abducts, and externally rotates the hip, and flexes the knee. Involved in crossing the legs. Not typically trained in isolation; activated during compound leg movements like [Barbell Front Squat](#barbell-front-squat), [Bulgarian Split Squats](#bulgarian-split-squats), and [Walking Lunges](#walking-lunges).
+The primary hip flexors, composed of the psoas major (originating from the lumbar spine) and the iliacus (originating from the inner pelvis), merging to insert on the femur. Flex the hip powerfully and are the engine behind sprinting, kicking, and any explosive knee drive. The psoas also stabilizes the lumbar spine during upright posture. Commonly tight from prolonged sitting, which can tilt the pelvis forward and contribute to lower back pain — regular stretching and hip extension work ([Barbell Hip Thrusts](#barbell-hip-thrusts), [Walking Lunges](#walking-lunges)) help counteract this. Trained directly by [Hanging Leg Raises](#hanging-leg-raises) in the lower portion of the movement and indirectly by any exercise involving hip flexion against resistance. For athletes, strong hip flexors are essential for sprint acceleration and high-knee mechanics.
 
 ### Lower Leg
 
 #### Gastrocnemius
 
-The two-headed muscle forming the visible bulge of the calf. The medial head (inner) is usually larger; the lateral head (outer) is smaller. Crosses both the knee and ankle, flexing the knee and plantarflexing the ankle (pointing the toes). Most active with a straight knee, which is why [Standing Calf Raises](#standing-calf-raises) and [Donkey Calf Raises](#donkey-calf-raises) target it preferentially. [Donkey Calf Raises](#donkey-calf-raises) provide a greater [stretch under load](#stretch-under-load) due to the hip-flexed position but have lower [equipment availability](#equipment-availability). [Standing Calf Raises](#standing-calf-raises) are more widely available and offer good [loadability](#loadability). Both should emphasize a full [range of motion](#full-range-of-motion) — a deep stretch at the bottom is where most of the growth stimulus comes from.
+The two-headed muscle forming the visible bulge of the calf. The medial head (inner) is usually larger; the lateral head (outer) is smaller. Crosses both the knee and ankle, flexing the knee and plantarflexing the ankle (pointing the toes). Together with the soleus and the Achilles tendon, the gastrocnemius forms a spring system that stores and releases elastic energy during running and jumping — this stretch-shortening cycle is the primary mechanism for locomotion economy and explosive power off the ground. Most active with a straight knee, which is why [Standing Calf Raises](#standing-calf-raises) and [Donkey Calf Raises](#donkey-calf-raises) target it preferentially. [Donkey Calf Raises](#donkey-calf-raises) provide a greater [stretch under load](#stretch-under-load) due to the hip-flexed position but have lower [equipment availability](#equipment-availability). [Standing Calf Raises](#standing-calf-raises) are more widely available and offer good [loadability](#loadability). Both should emphasize a full [range of motion](#full-range-of-motion) — a deep stretch at the bottom is where most of the growth stimulus comes from.
 
 #### Soleus
 
-A broad, flat muscle lying deep to the gastrocnemius. Crosses only the ankle joint and plantarflexes the foot. Most active with a bent knee, which is why [Seated Calf Raises](#seated-calf-raises) isolate it. Makes up the majority of calf volume and is critical for endurance activities like running and walking. Composed primarily of slow-twitch fibers, so it responds well to higher reps and longer time under tension. The seated position provides good [mind-muscle connection](#mind-muscle-connection) and low [fatigue cost](#fatigue-cost).
+A broad, flat muscle lying deep to the gastrocnemius. Crosses only the ankle joint and plantarflexes the foot. Most active with a bent knee, which is why [Seated Calf Raises](#seated-calf-raises) isolate it. Makes up the majority of calf volume and is the primary endurance muscle of the lower leg — during distance running, the soleus absorbs more force than any other muscle in the body. Composed primarily of slow-twitch fibers, so it responds well to higher reps and longer time under tension. The seated position provides good [mind-muscle connection](#mind-muscle-connection) and low [fatigue cost](#fatigue-cost).
 
 #### Tibialis Anterior
 
@@ -621,23 +593,23 @@ Two muscles on the outer lower leg: the peroneus longus and peroneus brevis. Eve
 
 #### Rectus Abdominis
 
-The "six-pack" muscle running vertically from the pubic bone to the ribcage, divided by tendinous intersections. Flexes the spine (crunching motion) and resists extension. One continuous muscle, not truly separate upper and lower sections, but different exercises shift the bias. [Hanging Leg Raises](#hanging-leg-raises) emphasize the lower portion through a long [range of motion](#full-range-of-motion) but are limited in [loadability](#loadability). [Weighted Cable Crunches](#weighted-cable-crunches) are the best option for progressive [loadability](#loadability) with a consistent [resistance profile](#resistance-profile). [Dead Bugs](#dead-bugs) train anti-extension with zero [joint stress](#joint-stress) and [fatigue cost](#fatigue-cost), making them ideal for learning to brace. A complete ab program benefits from both a loaded flexion exercise and an anti-extension exercise.
+The "six-pack" muscle running vertically from the pubic bone to the ribcage, divided by tendinous intersections. Flexes the spine (crunching motion) and resists extension. While spinal flexion is its concentric function, the rectus abdominis works primarily as an anti-extension stabilizer during athletics and heavy lifting — resisting the spine from arching under load. One continuous muscle, not truly separate upper and lower sections, but different exercises shift the bias. [Hanging Leg Raises](#hanging-leg-raises) emphasize the lower portion through a long [range of motion](#full-range-of-motion) but are limited in [loadability](#loadability). [Weighted Cable Crunches](#weighted-cable-crunches) are the best option for progressive [loadability](#loadability) with a consistent [resistance profile](#resistance-profile). [Dead Bugs](#dead-bugs) and [Ab Wheel Rollouts](#ab-wheel-rollouts) train the anti-extension function directly, which has the most carryover to heavy compound lifts and athletic performance. A complete ab program benefits from both a loaded flexion exercise and an anti-extension exercise.
 
 ### Obliques
 
 #### External Obliques
 
-The outermost oblique muscles, running diagonally downward from the lower ribs to the pelvis and linea alba. Rotate the torso to the opposite side (left external oblique rotates torso to the right), laterally flex the trunk, and assist in trunk flexion. [Cable Woodchoppers](#cable-woodchoppers) train rotational power with a smooth [resistance profile](#resistance-profile) and adjustable angles. [Suitcase Carries](#suitcase-carries) train anti-lateral-flexion under heavy load with high [stability demands](#stability-demands). [Side Planks](#side-planks) build isometric endurance with no [equipment availability](#equipment-availability) requirements. Choose based on whether you need rotational power, anti-lateral stability, or endurance.
+The outermost oblique muscles, running diagonally downward from the lower ribs to the pelvis and linea alba. Rotate the torso to the opposite side (left external oblique rotates torso to the right), laterally flex the trunk, and assist in trunk flexion. In athletics and heavy lifting, the obliques function primarily as anti-rotation and anti-lateral-flexion stabilizers — resisting unwanted twisting and side bending under load. [Cable Woodchoppers](#cable-woodchoppers) train rotational power with a smooth [resistance profile](#resistance-profile) and adjustable angles. [Suitcase Carries](#suitcase-carries) train anti-lateral-flexion under heavy load with high [stability demands](#stability-demands). [Side Planks](#side-planks) build isometric endurance with no [equipment availability](#equipment-availability) requirements. Choose based on whether you need rotational power, anti-lateral stability, or endurance.
 
 #### Internal Obliques
 
 Lie deep to the external obliques, with fibers running perpendicular (diagonally upward). Rotate the torso to the same side (left internal oblique rotates torso to the left) and laterally flex the trunk. Work together with the opposite external oblique during rotation. Trained by the same exercises as the external obliques — [Cable Woodchoppers](#cable-woodchoppers), [Suitcase Carries](#suitcase-carries), and [Side Planks](#side-planks). Also assist in forced expiration and intra-abdominal pressure during bracing in heavy compounds like [Deadlift](#deadlift) and [Barbell Front Squat](#barbell-front-squat).
 
-### Transverse
+### Deep Core
 
 #### Transversus Abdominis
 
-The deepest abdominal muscle, wrapping horizontally around the torso like a corset. Does not produce movement but compresses the abdomen to increase intra-abdominal pressure, which stabilizes the spine. Foundational for core stability and safe lifting. [Stomach Vacuums](#stomach-vacuums) are the only exercise that directly isolates it, requiring zero [equipment availability](#equipment-availability). [Ab Wheel Rollouts](#ab-wheel-rollouts) train it intensely under anti-extension demands with excellent [stretch under load](#stretch-under-load). Also activated during bracing in every heavy compound — [Deadlift](#deadlift), [Barbell Front Squat](#barbell-front-squat), [Military Press](#military-press). [Planks](#planks) build baseline endurance with minimal [joint stress](#joint-stress).
+The deepest abdominal muscle, wrapping horizontally around the torso like a corset. Does not produce movement but compresses the abdomen to increase intra-abdominal pressure, which stabilizes the spine. Foundational for core stability and safe lifting. [Stomach Vacuums](#stomach-vacuums) are the only exercise that directly isolates it, requiring zero [equipment availability](#equipment-availability). [Ab Wheel Rollouts](#ab-wheel-rollouts) train it intensely under anti-extension demands with excellent [stretch under load](#stretch-under-load). [Farmer's Walks](#farmers-walks) and [Suitcase Carries](#suitcase-carries) train it under heavy dynamic loading, building the kind of bracing endurance that transfers to athletics and heavy compound lifts. Also activated during bracing in every heavy compound — [Deadlift](#deadlift), [Barbell Front Squat](#barbell-front-squat), [Military Press](#military-press). [Planks](#planks) build baseline endurance with minimal [joint stress](#joint-stress).
 
 #### Diaphragm
 
@@ -650,6 +622,10 @@ A hammock of muscles spanning the base of the pelvis, including the levator ani 
 #### Multifidus
 
 Small, deep muscles spanning 2-4 vertebrae along the entire length of the spine. Stabilize individual vertebral segments during all movement. Work constantly during standing, walking, and lifting. Weakness or atrophy is strongly associated with chronic lower back pain ([injury history](#injury-history)). [Dead Bugs](#dead-bugs) train them with zero [joint stress](#joint-stress). Also trained by any exercise requiring spinal stability under load — [Deadlift](#deadlift), [Barbell Front Squat](#barbell-front-squat), [Barbell Rows](#barbell-rows), [Good Mornings](#good-mornings). The key is choosing exercises that challenge stability without exceeding the spine's tolerance ([joint stress](#joint-stress)).
+
+#### Quadratus Lumborum
+
+A deep, rectangular muscle on each side of the lumbar spine, connecting the lowest rib to the pelvis. Laterally flexes the trunk, elevates the hip (hiking), and stabilizes the lumbar spine against lateral forces. The primary anti-lateral-flexion muscle — it resists the spine from bending sideways under asymmetric loads. [Suitcase Carries](#suitcase-carries) are the best exercise for loading it dynamically with high [stability demands](#stability-demands). [Side Planks](#side-planks) train it isometrically with no [equipment availability](#equipment-availability) requirements. [Farmer's Walks](#farmers-walks) train both sides simultaneously under heavy load. Weakness or tightness in the QL is a common contributor to lower back pain, particularly one-sided pain.
 
 
 # Factors for Exercise Selection
