@@ -67,11 +67,12 @@ Updated February 2026
 ### 4. The Core Complex (Abs & Stability)
 *Goal: Trunk Rigidity and Rotation.*
 
-| Priority | Body Part                                | **1. Weighted Strength** (Loadable)        | **2. Dynamic Rotation** (Function)              | **3. Static Stability** (Endurance) |
-| :------- | :--------------------------------------- | :----------------------------------------- | :---------------------------------------------- | :---------------------------------- |
-| **#1**   | **[Rectus Abdominis](#rectus-abdominis)** | **[Hanging Leg Raises](#hanging-leg-raises)** | **[Weighted Cable Crunches](#weighted-cable-crunches)** | **[Dead Bugs](#dead-bugs)**   |
-| **#2**   | **[Obliques](#external-obliques)**         | **[Suitcase Carries](#suitcase-carries)**   | **[Cable Woodchoppers](#cable-woodchoppers)**      | **[Side Planks](#side-planks)** |
-| **#3**   | **[Deep Core](#transversus-abdominis)**        | **[Ab Wheel Rollouts](#ab-wheel-rollouts)**  | **[Stomach Vacuums](#stomach-vacuums)**         | **[Planks](#planks)**      |
+| Priority | Body Part | **1. Weighted Strength** (Loadable) | **2. Dynamic Rotation** (Function) | **3. Static Stability** (Endurance) |
+| :--- | :--- | :--- | :--- | :--- |
+| **#1** | **[Rectus Abdominis](#rectus-abdominis)** | **[Hanging Leg Raises](#hanging-leg-raises)** | **[Weighted Cable Crunches](#weighted-cable-crunches)** | **[Dead Bugs](#dead-bugs)** |
+| **#2** | **[Obliques](#external-obliques)** | **[Suitcase Carries](#suitcase-carries)** | **[Cable Woodchoppers](#cable-woodchoppers)** | **[Side Planks](#side-planks)** |
+| **#3** | **[Deep Core](#transversus-abdominis)** | **[Ab Wheel Rollouts](#ab-wheel-rollouts)** | **[Stomach Vacuums](#stomach-vacuums)** | **[Planks](#planks)** |
+
 # Weightlifting Exercises
 
 ## Push Exercises
