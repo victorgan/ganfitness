@@ -42,7 +42,7 @@ The **Base Program** prescribes a complete routine. The **Comprehensive Exercise
 - [Programming Context](#programming-context)
 - [Individual Factors](#individual-factors)
 
-[6. Change Log](#change-log)
+## [6. Change Log](#change-log)
 
 # Base Program
 
@@ -206,7 +206,7 @@ Conventional deadlift opens as the heaviest posterior chain movement — see [an
 1. [Barbell Hip Thrusts](#barbell-hip-thrusts) (primary compound)
 2. [Cable Hip Abductions](#cable-hip-abductions) (medius isolation)
 
-Hip thrusts for peak glute loading at full extension; cable hip abductions isolate the [gluteus medius](#gluteus-medius) for hip stability and ACL injury prevention. Glute max stretch comes from deep squats and RDLs programmed under Quads and Hamstrings above. [Walking lunges](#walking-lunges) and [single-leg RDLs](#single-leg-romanian-deadlift) removed: Bulgarian split squats (under quads) already provide unilateral glute stimulus, and adding more creates [redundancy](#redundancy-and-overlap).
+Hip thrusts for peak glute loading at full extension; cable hip abductions isolate the [gluteus medius](#gluteus-medius) for hip stability and ACL injury prevention. Glute max stretch comes from deep squats and deadlifts programmed under Quads and Hamstrings above. [Walking lunges](#walking-lunges) and [single-leg RDLs](#single-leg-romanian-deadlift) removed: Bulgarian split squats (under quads) already provide unilateral glute stimulus, and adding more creates [redundancy](#redundancy-and-overlap).
 
 **Calves** ([Gastrocnemius](#gastrocnemius), [Soleus](#soleus))
 1. [Standing Calf Raises](#standing-calf-raises) (gastrocnemius)
@@ -518,6 +518,10 @@ Kneel in front of a high cable with a rope attachment behind your head and crunc
 
 Lie on your back with arms extended toward the ceiling and knees bent at 90 degrees, then slowly extend the opposite arm and leg while keeping your lower back pressed into the floor. Teaches anti-extension core stability and proper bracing patterns that transfer to heavy compound lifts. Very low [joint stress](#joint-stress) and [fatigue cost](#fatigue-cost) with minimal [equipment availability](#equipment-availability) requirements; limited [loadability](#loadability). Choose this over [Ab Wheel Rollouts](#ab-wheel-rollouts) when learning to brace or when joint-friendly core work is needed; choose Ab Wheel for more demanding anti-extension loading.
 
+#### Ab Wheel Rollouts
+
+Kneel on the floor holding an ab wheel, roll forward extending your body toward the ground while maintaining a flat back, then pull back to the starting position. One of the most demanding anti-extension exercises, targeting the entire anterior core under high tension with excellent [stretch under load](#stretch-under-load). Be mindful of [joint stress](#joint-stress) on the lower back — don't extend beyond what you can control; moderate [loadability](#loadability) through distance progression. Choose this over [Planks](#planks) when high-intensity anti-extension work is needed; choose Planks for baseline endurance with less risk.
+
 ### Obliques
 
 #### Suitcase Carries
@@ -533,10 +537,6 @@ Stand sideways to a cable set high or low and rotate your torso to pull the hand
 Lie on your side, prop yourself up on your forearm, and hold your body in a straight line. Builds isometric endurance in the obliques and quadratus lumborum with zero [equipment availability](#equipment-availability) requirements. Low [joint stress](#joint-stress) but limited [loadability](#loadability) — add hip dips or top-arm reaches for progression. Choose this over [Suitcase Carries](#suitcase-carries) when no equipment is available or when isometric oblique endurance is the goal; choose Suitcase Carries for heavier dynamic loading.
 
 ### Deep Core
-
-#### Ab Wheel Rollouts
-
-Kneel on the floor holding an ab wheel, roll forward extending your body toward the ground while maintaining a flat back, then pull back to the starting position. One of the most demanding anti-extension exercises, targeting the entire anterior core under high tension with excellent [stretch under load](#stretch-under-load). Be mindful of [joint stress](#joint-stress) on the lower back — don't extend beyond what you can control; moderate [loadability](#loadability) through distance progression. Choose this over [Planks](#planks) when high-intensity anti-extension work is needed; choose Planks for baseline endurance with less risk.
 
 #### Stomach Vacuums
 
