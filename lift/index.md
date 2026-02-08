@@ -5,28 +5,35 @@ Updated February 2026
 
 # Contents
 
-## [1. Recommended Program](#recommended-program)
+## [1. Base Program](#base-program)
+
+- [Upper A](#upper-a) (Horizontal Push/Pull)
+- [Lower A](#lower-a) (Squat Focus)
+- [Upper B](#upper-b) (Vertical Push/Pull)
+- [Lower B](#lower-b) (Hinge Focus)
+
+## [2. Recommended Program](#recommended-program)
 
 - [Push](#push) (Chest, Shoulders, Triceps)
 - [Pull](#pull) (Back, Biceps, Forearms)
 - [Legs](#legs) (Quads, Hamstrings, Glutes, Calves)
 - [Core](#core) (Abs, Obliques, Deep Core)
 
-## [2. Weightlifting Exercises](#weightlifting-exercises)
+## [3. Weightlifting Exercises](#weightlifting-exercises)
 
 - [Push Exercises](#push-exercises) (Chest, Shoulder, Triceps)
 - [Pull Exercises](#pull-exercises) (Back, Biceps, Forearms, Explosive)
 - [Leg Exercises](#leg-exercises) (Quads, Hamstrings, Glutes, Calves, Explosive)
 - [Core Exercises](#core-exercises) (Abs, Obliques, Deep Core)
 
-## [3. Muscle Anatomy](#muscle-anatomy)
+## [4. Muscle Anatomy](#muscle-anatomy)
 
 - [Torso](#torso) (Chest, Back, Shoulder)
 - [Arms](#arms) (Upper Arm, Forearm)
 - [Leg Muscles](#leg-muscles) (Glutes, Upper Leg, Lower Leg)
 - [Core Muscles](#core-muscles) (Abs, Obliques, Deep Core)
 
-## [4. Factors for Exercise Selection](#factors-for-exercise-selection)
+## [5. Factors for Exercise Selection](#factors-for-exercise-selection)
 
 - [Stimulus Quality](#stimulus-quality)
 - [Exercise Structure](#exercise-structure)
@@ -35,7 +42,69 @@ Updated February 2026
 - [Individual Factors](#individual-factors)
 - [Quick Reference: Exercise Selection Checklist](#quick-reference-exercise-selection-checklist)
 
-[5. Change Log](#change-log)
+[6. Change Log](#change-log)
+
+# Base Program
+
+A 4-day upper/lower split. Do exactly this. Every set, rep, and rest time is specified — don't improvise until you've run this for at least 12 weeks. Sessions take 50–65 minutes.
+
+**Schedule:** Monday Upper A, Tuesday Lower A, Thursday Upper B, Friday Lower B. Wednesday and weekends are rest days. Don't rearrange — upper and lower days alternate to give each half of the body 48+ hours of recovery.
+
+**Warm-up:** 5 minutes of light cardio (bike, row, or brisk walk), then 2–3 warm-up sets of the first exercise ramping from an empty bar to working weight. Don't stretch cold muscles before lifting.
+
+**Progression:** Use double progression. When you hit the top of the rep range on all working sets, add weight next session (5 lb for barbell compounds, 5 lb total for dumbbells, one plate on machines). Drop back to the bottom of the rep range and build up again. If you stall for two consecutive sessions, deload that exercise by 10% and rebuild.
+
+**Tempo:** 2 seconds down, brief pause at the bottom, 1 second up. Control the eccentric. No bouncing.
+
+**Failure:** Stop 1–2 reps short of failure on compounds. Take isolation exercises closer to failure.
+
+## Upper A
+
+Horizontal push/pull focus. Bench press is the priority — do it first and fresh.
+
+| # | Exercise | Sets x Reps | Rest |
+| :--- | :--- | :--- | :--- |
+| 1 | [Flat Barbell Bench Press](#flat-barbell-bench-press) | 4 x 5–7 | 3 min |
+| 2 | [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) | 4 x 8–10 | 2 min |
+| 3 | [Cable Lateral Raises](#cable-lateral-raises) | 3 x 12–15 | 90 sec |
+| 4 | [Overhead Tricep Extensions](#overhead-tricep-extensions) | 3 x 10–12 | 90 sec |
+| 5 | [Face Pulls](#face-pulls) | 3 x 15–20 | 60 sec |
+
+## Lower A
+
+Squat focus. Back squat is the priority — do it first and fresh.
+
+| # | Exercise | Sets x Reps | Rest |
+| :--- | :--- | :--- | :--- |
+| 1 | [Barbell Back Squat](#barbell-back-squat) | 4 x 5–7 | 3 min |
+| 2 | [Bulgarian Split Squats](#bulgarian-split-squats) | 3 x 8–10 each | 2 min |
+| 3 | [Barbell Hip Thrusts](#barbell-hip-thrusts) | 3 x 10–12 | 2 min |
+| 4 | [Standing Calf Raises](#standing-calf-raises) | 3 x 12–15 | 90 sec |
+| 5 | [Hanging Leg Raises](#hanging-leg-raises) | 3 x 10–15 | 90 sec |
+
+## Upper B
+
+Vertical push/pull focus. Military press is the priority — do it first and fresh.
+
+| # | Exercise | Sets x Reps | Rest |
+| :--- | :--- | :--- | :--- |
+| 1 | [Military Press](#military-press) | 4 x 5–7 | 3 min |
+| 2 | [Weighted Pull-Ups](#weighted-pull-ups) | 4 x 5–8 | 3 min |
+| 3 | [Incline Dumbbell Press](#incline-dumbbell-press) | 3 x 8–10 | 2 min |
+| 4 | [Barbell Curls](#barbell-curls) | 3 x 10–12 | 90 sec |
+| 5 | [Cable External Rotations](#cable-external-rotations) | 2 x 15–20 | 60 sec |
+
+## Lower B
+
+Hinge focus. Deadlift is the priority — do it first and fresh.
+
+| # | Exercise | Sets x Reps | Rest |
+| :--- | :--- | :--- | :--- |
+| 1 | [Deadlift](#deadlift) | 4 x 3–5 | 3–4 min |
+| 2 | [Nordic Hamstring Curls](#nordic-hamstring-curls) | 3 x 5–8 | 2 min |
+| 3 | [Cable Hip Abductions](#cable-hip-abductions) | 3 x 12–15 each | 90 sec |
+| 4 | [Seated Calf Raises](#seated-calf-raises) | 3 x 15–20 | 90 sec |
+| 5 | [Suitcase Carries](#suitcase-carries) | 3 x 40m each side | 90 sec |
 
 # Recommended Program
 
