@@ -7,6 +7,11 @@ Updated February 2026
 
 ## [Exercises By Muscle](#exercise-by-muscle)
 
+- [The Push Complex](#1-the-push-complex-chest-shoulders-triceps) (Chest, Shoulders, Triceps)
+- [The Pull Complex](#2-the-pull-complex-back-erectors-biceps) (Back, Erectors, Biceps)
+- [The Leg Complex](#3-the-leg-complex-quads-hams-glutes-calves) (Quads, Hams, Glutes, Calves)
+- [The Core Complex](#4-the-core-complex-abs--stability) (Abs & Stability)
+
 ## [Weightlifting Exercises](#weightlifting-exercises)
 
 - [Push Exercises](#push-exercises) (Chest, Shoulder, Triceps)
