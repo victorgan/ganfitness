@@ -155,71 +155,71 @@ Updated February 2026
 
 #### Flat Barbell Bench Press
 
-The primary compound chest movement. Lie on a flat bench, unrack the barbell with a grip slightly wider than shoulder width, lower to mid-chest, and press back up. Targets the entire pectoralis major with emphasis on the sternal (mid) fibers. Keep shoulder blades retracted and feet planted.
+The primary compound chest movement. Lie on a flat bench, unrack the barbell with a grip slightly wider than shoulder width, lower to mid-chest, and press back up. Targets the entire pectoralis major with emphasis on the sternal (mid) fibers. Keep shoulder blades retracted and feet planted. Excellent [loadability](#loadability) with fractional plates, but high [fatigue cost](#fatigue-cost) as a barbell compound. [Anthropometry](#anthropometry) matters: long-armed lifters may need a wider grip or prefer dumbbells.
 
 #### Incline Dumbbell Press
 
-Set the bench to 30-45 degrees. Press dumbbells from shoulder level to lockout. The incline shifts emphasis to the upper (clavicular) chest fibers. Dumbbells allow a greater range of motion and more natural wrist rotation than a barbell.
+Set the bench to 30-45 degrees. Press dumbbells from shoulder level to lockout. The incline shifts emphasis to the upper (clavicular) chest fibers. Dumbbells allow a greater [range of motion](#full-range-of-motion) and more natural wrist rotation than a barbell. Lower [joint stress](#joint-stress) on the shoulders than barbell incline pressing.
 
 #### Cable Crossovers
 
-Stand between two cable stations with the pulleys set high. Bring the handles together in a hugging arc in front of your chest. Provides constant tension through the full range of motion and a deep stretch at the bottom. Targets the inner and lower chest fibers.
+Stand between two cable stations with the pulleys set high. Bring the handles together in a hugging arc in front of your chest. The cable provides a superior [resistance profile](#resistance-profile) with constant tension through the full range, and a deep [stretch under load](#stretch-under-load) at the bottom. Targets the inner and lower chest fibers. Great for [mind-muscle connection](#mind-muscle-connection).
 
 #### Dumbbell Flyes
 
-Lie on a flat bench holding dumbbells above your chest with a slight bend in the elbows. Lower the weights in a wide arc until you feel a stretch across the chest, then squeeze back together. Emphasizes the chest stretch under load.
+Lie on a flat bench holding dumbbells above your chest with a slight bend in the elbows. Lower the weights in a wide arc until you feel a stretch across the chest, then squeeze back together. Maximizes [stretch under load](#stretch-under-load) for the chest. Be mindful of [joint stress](#joint-stress) on the shoulder at the bottom — don't go deeper than comfortable.
 
 #### Dips (Chest Emphasis)
 
-Lean your torso forward on parallel bars, flare the elbows slightly, and lower until the upper arms are parallel to the ground. The forward lean shifts the work from triceps to the lower chest. Add weight with a belt once bodyweight becomes easy.
+Lean your torso forward on parallel bars, flare the elbows slightly, and lower until the upper arms are parallel to the ground. The forward lean shifts the work from triceps to the lower chest. Add weight with a belt once bodyweight becomes easy. Excellent [loadability](#loadability) and [full range of motion](#full-range-of-motion). Those with [injury history](#injury-history) involving shoulder impingement may need to limit depth or avoid this movement.
 
 ### Shoulder
 
 #### Military Press
 
-Press a barbell from the front of the shoulders to overhead while standing. The strict standing position engages the full shoulder girdle and requires core bracing. Primarily targets the anterior and lateral deltoids.
+Press a barbell from the front of the shoulders to overhead while standing. The strict standing position engages the full shoulder girdle and requires core bracing. Primarily targets the anterior and lateral deltoids. High [stability demands](#stability-demands) from the standing position and excellent [loadability](#loadability) with a barbell. [Anthropometry](#anthropometry) matters: lifters with limited shoulder mobility may prefer dumbbells.
 
 #### Seated Dumbbell Overhead Press
 
-Press dumbbells overhead from shoulder height while seated. The seated position isolates the shoulders by removing lower body momentum. Allows each arm to work independently, fixing imbalances.
+Press dumbbells overhead from shoulder height while seated. The seated position reduces [stability demands](#stability-demands) by removing lower body momentum. Allows each arm to work independently, fixing imbalances. Lower [fatigue cost](#fatigue-cost) than standing barbell pressing.
 
 #### Cable Lateral Raises
 
-Stand beside a low cable and raise the handle out to the side until the arm is parallel to the floor. The cable provides constant tension throughout the movement, unlike dumbbells which lose tension at the bottom. Targets the lateral deltoid for shoulder width.
+Stand beside a low cable and raise the handle out to the side until the arm is parallel to the floor. The cable provides a superior [resistance profile](#resistance-profile) with constant tension throughout the movement, unlike dumbbells which lose tension at the bottom. Excellent [mind-muscle connection](#mind-muscle-connection) for the lateral deltoid. Low [joint stress](#joint-stress).
 
 #### Face Pulls
 
-Pull a rope attachment on a high cable toward your face, separating the ends as you pull. Externally rotates the shoulders and targets the rear deltoids, rhomboids, and rotator cuff. Essential for shoulder health and posture.
+Pull a rope attachment on a high cable toward your face, separating the ends as you pull. Externally rotates the shoulders and targets the rear deltoids, rhomboids, and rotator cuff. Essential for [injury history](#injury-history) prevention — counterbalances the internal rotation from all pressing movements. Low [joint stress](#joint-stress).
 
 #### Cable External Rotations
 
-Stand sideways to a cable set at elbow height. Keep the elbow pinned to your side and rotate the forearm outward. Isolates the infraspinatus and teres minor of the rotator cuff. Use light weight for high reps.
+Stand sideways to a cable set at elbow height. Keep the elbow pinned to your side and rotate the forearm outward. Isolates the infraspinatus and teres minor of the rotator cuff. Use light weight for high reps. Critical for long-term shoulder health and [injury history](#injury-history) prevention. The cable's [resistance profile](#resistance-profile) keeps tension constant through the rotation.
 
 #### Arnold Press
 
-Start with dumbbells in front of your shoulders, palms facing you. As you press overhead, rotate your palms to face forward at the top. The rotation hits the anterior, lateral, and posterior deltoids through one continuous movement.
+Start with dumbbells in front of your shoulders, palms facing you. As you press overhead, rotate your palms to face forward at the top. The rotation hits the anterior, lateral, and posterior deltoids through one continuous movement. Excellent [full range of motion](#full-range-of-motion) across all deltoid heads.
 
 #### Reverse Flyes
 
-Bend forward at the hips or lie face-down on an incline bench. Raise dumbbells out to the sides with a slight elbow bend. Targets the posterior deltoids and upper back. Counterbalances all the pressing work.
+Bend forward at the hips or lie face-down on an incline bench. Raise dumbbells out to the sides with a slight elbow bend. Targets the posterior deltoids and upper back. The incline bench version reduces [stability demands](#stability-demands) and improves [mind-muscle connection](#mind-muscle-connection). Counterbalances all the pressing work.
 
 ### Triceps
 
 #### Close-Grip Bench Press
 
-Bench press with hands shoulder-width apart or slightly narrower. The narrow grip shifts the primary load from the chest to the triceps, particularly the lateral and medial heads. Also a heavy compound that allows significant overload.
+Bench press with hands shoulder-width apart or slightly narrower. The narrow grip shifts the primary load from the chest to the triceps, particularly the lateral and medial heads. Also a heavy compound that allows significant overload. Excellent [loadability](#loadability) — one of the few triceps exercises you can progressively overload with small increments.
 
 #### Skullcrushers
 
-Lie on a bench holding an EZ-bar or dumbbells above your forehead. Lower the weight by bending at the elbows until it reaches near your forehead, then extend back up. Targets the long head of the triceps through a deep stretch.
+Lie on a bench holding an EZ-bar or dumbbells above your forehead. Lower the weight by bending at the elbows until it reaches near your forehead, then extend back up. Targets the long head of the triceps through a deep [stretch under load](#stretch-under-load). Monitor [joint stress](#joint-stress) on the elbows — switch to an overhead cable variation if elbows become irritated.
 
 #### Tricep Rope Pushdowns
 
-Push a rope attachment down on a high cable, spreading the ends apart at the bottom for a peak contraction. Targets the lateral head of the triceps. Keep the elbows pinned to your sides throughout.
+Push a rope attachment down on a high cable, spreading the ends apart at the bottom for a peak contraction. Targets the lateral head of the triceps. Keep the elbows pinned to your sides throughout. The cable provides a consistent [resistance profile](#resistance-profile), and low [fatigue cost](#fatigue-cost) makes this ideal for supersets and volume accumulation.
 
 #### Overhead Tricep Extensions
 
-Hold a dumbbell or cable overhead and lower it behind your head by bending at the elbows. The overhead position places the long head of the triceps in a deep stretch, which is the most effective position for growing it.
+Hold a dumbbell or cable overhead and lower it behind your head by bending at the elbows. The overhead position places the long head of the triceps in a deep [stretch under load](#stretch-under-load), which is the most effective position for growing it. The cable version offers a better [resistance profile](#resistance-profile) than dumbbells.
 
 ## Pull Exercises
 
@@ -227,85 +227,85 @@ Hold a dumbbell or cable overhead and lower it behind your head by bending at th
 
 #### Weighted Pull-Ups
 
-Hang from a bar with a pronated (overhand) grip and pull your chin above the bar with added weight from a belt or vest. The primary vertical pulling movement. Targets the lats, teres major, and biceps. Grip width determines lat emphasis.
+Hang from a bar with a pronated (overhand) grip and pull your chin above the bar with added weight from a belt or vest. The primary vertical pulling movement. Targets the lats, teres major, and biceps. Grip width determines lat emphasis. Excellent [full range of motion](#full-range-of-motion) and [stretch under load](#stretch-under-load) at the dead hang. High [stability demands](#stability-demands) make it a strong overall back builder.
 
 #### Wide-Grip Lat Pulldowns
 
-Pull a wide bar down to your upper chest on a cable machine. A more accessible alternative to pull-ups that allows finer load adjustment. The wide grip emphasizes the outer lats for back width.
+Pull a wide bar down to your upper chest on a cable machine. A more accessible alternative to pull-ups with finer [loadability](#loadability) via the cable stack. Better [mind-muscle connection](#mind-muscle-connection) than pull-ups since you can focus on the lats without grip or stability being the limiter. Lower [fatigue cost](#fatigue-cost).
 
 #### Straight-Arm Pulldowns
 
-Stand facing a high cable and push the bar down in an arc with straight arms until it reaches your thighs. Isolates the lats by removing bicep involvement. Provides a strong peak contraction and stretch.
+Stand facing a high cable and push the bar down in an arc with straight arms until it reaches your thighs. Isolates the lats by removing bicep involvement. The cable provides an ideal [resistance profile](#resistance-profile) with strong tension at both the stretch and contraction. Excellent [mind-muscle connection](#mind-muscle-connection).
 
 #### Barbell Rows
 
-Hinge at the hips, keep your back flat, and row a barbell to your lower chest or upper abdomen. The primary horizontal pulling compound. Targets the entire mid-back, lats, rhomboids, and rear deltoids. Go heavy.
+Hinge at the hips, keep your back flat, and row a barbell to your lower chest or upper abdomen. The primary horizontal pulling compound. Targets the entire mid-back, lats, rhomboids, and rear deltoids. Excellent [loadability](#loadability) but high [fatigue cost](#fatigue-cost) due to the lower back demands. [Anthropometry](#anthropometry) matters: long-torso lifters may find the hinged position more taxing.
 
 #### Chest-Supported T-Bar Rows
 
-Lie face-down on an incline pad and row a T-bar or dumbbells. The chest support eliminates lower back fatigue and cheating, isolating the mid-back muscles. Allows you to focus purely on squeezing the shoulder blades together.
+Lie face-down on an incline pad and row a T-bar or dumbbells. The chest support eliminates lower back fatigue, dramatically reducing [fatigue cost](#fatigue-cost) and [stability demands](#stability-demands). Allows you to focus purely on [mind-muscle connection](#mind-muscle-connection) with the mid-back. A good alternative for those with lower back [injury history](#injury-history).
 
 #### Seated Cable Rows
 
-Sit at a cable row station with feet braced, pull the handle to your lower chest, and squeeze your shoulder blades together. Constant cable tension and a stable position allow you to focus on the mind-muscle connection with the mid-back.
+Sit at a cable row station with feet braced, pull the handle to your lower chest, and squeeze your shoulder blades together. The cable provides constant tension for a superior [resistance profile](#resistance-profile). Low [stability demands](#stability-demands) and [fatigue cost](#fatigue-cost) allow high-rep [mind-muscle connection](#mind-muscle-connection) work.
 
 #### Rack Pulls
 
-Pull a barbell from pins set at or just below knee height to lockout. A partial range deadlift that allows very heavy loading on the upper back, traps, and erector spinae. Also builds grip strength.
+Pull a barbell from pins set at or just below knee height to lockout. The partial range allows very heavy [loadability](#loadability) on the upper back, traps, and erector spinae. High [fatigue cost](#fatigue-cost) due to the extreme loads. Also builds grip strength.
 
 #### Good Mornings
 
-Place a barbell on your upper back and hinge forward at the hips while keeping a slight knee bend and a flat back. Targets the erector spinae, hamstrings, and glutes. A posterior chain builder that directly improves squat and deadlift strength.
+Place a barbell on your upper back and hinge forward at the hips while keeping a slight knee bend and a flat back. Targets the erector spinae, hamstrings, and glutes. A posterior chain builder that directly improves squat and deadlift strength. Requires careful attention to [joint stress](#joint-stress) on the lower back — start light and prioritize form.
 
 #### Weighted Hyperextensions
 
-Lock your feet into a hyperextension bench, hold a plate or dumbbell against your chest, and hinge at the hips to lower and raise your torso. Builds the erector spinae, glutes, and hamstrings with less spinal compression than barbell movements.
+Lock your feet into a hyperextension bench, hold a plate or dumbbell against your chest, and hinge at the hips to lower and raise your torso. Builds the erector spinae, glutes, and hamstrings with much lower [joint stress](#joint-stress) and [fatigue cost](#fatigue-cost) than barbell movements. Good [mind-muscle connection](#mind-muscle-connection) due to the stable position.
 
 ### Traps
 
 #### Farmer's Walks
 
-Hold heavy dumbbells or farmer's handles at your sides and walk for distance or time. Builds the upper traps, grip, forearms, and core stability simultaneously. One of the most functional strength exercises.
+Hold heavy dumbbells or farmer's handles at your sides and walk for distance or time. Builds the upper traps, grip, forearms, and core stability simultaneously. One of the most functional strength exercises. High [stability demands](#stability-demands) train the whole body. Requires minimal [equipment availability](#equipment-availability) — just heavy dumbbells.
 
 #### Barbell Shrugs
 
-Hold a barbell at arm's length and shrug your shoulders straight up toward your ears. Targets the upper trapezius for trap mass. Use straps to allow heavier loads without grip being the limiter.
+Hold a barbell at arm's length and shrug your shoulders straight up toward your ears. Targets the upper trapezius for trap mass. Excellent [loadability](#loadability) — allows very heavy loads. Use straps to remove grip as the limiter. Low [fatigue cost](#fatigue-cost) relative to the stimulus.
 
 #### Kelso Shrugs
 
-Lie face-down on an incline bench and shrug dumbbells by squeezing your shoulder blades together and upward. Targets the mid and lower trapezius, which are important for posture and scapular stability.
+Lie face-down on an incline bench and shrug dumbbells by squeezing your shoulder blades together and upward. Targets the mid and lower trapezius, which are important for posture and scapular stability. The bench reduces [stability demands](#stability-demands) and improves [mind-muscle connection](#mind-muscle-connection) with the often-neglected lower traps.
 
 ### Biceps
 
 #### Weighted Chin-Ups
 
-Hang from a bar with a supinated (underhand) grip and pull your chin over the bar with added weight. The supinated grip increases biceps recruitment compared to pull-ups while still being a heavy compound back movement.
+Hang from a bar with a supinated (underhand) grip and pull your chin over the bar with added weight. The supinated grip increases biceps recruitment compared to pull-ups while still being a heavy compound back movement. Excellent [loadability](#loadability) and [full range of motion](#full-range-of-motion). High [fatigue cost](#fatigue-cost) since it doubles as a back exercise.
 
 #### Barbell Curls
 
-Stand holding a barbell with an underhand grip and curl it to shoulder height. The foundational biceps exercise. Allows the heaviest loading of any curl variation. Keep elbows pinned to the sides to prevent swinging.
+Stand holding a barbell with an underhand grip and curl it to shoulder height. The foundational biceps exercise. Best [loadability](#loadability) of any curl variation. Keep elbows pinned to the sides to prevent swinging. Low [equipment availability](#equipment-availability) barrier — just a barbell.
 
 #### Incline Dumbbell Curls
 
-Sit on a bench set to 45-60 degrees and curl dumbbells from a fully extended arm position. The incline places the biceps in a stretched position at the bottom, emphasizing the long head for the bicep peak.
+Sit on a bench set to 45-60 degrees and curl dumbbells from a fully extended arm position. The incline places the biceps in a deep [stretch under load](#stretch-under-load) at the bottom, emphasizing the long head for the bicep peak. The bench reduces [stability demands](#stability-demands) so you can focus on the stretch.
 
 #### Hammer Curls
 
-Curl dumbbells with a neutral (palms facing each other) grip. Targets the brachialis and brachioradialis in addition to the biceps. The brachialis sits underneath the biceps and pushes it up for a thicker arm appearance.
+Curl dumbbells with a neutral (palms facing each other) grip. Targets the brachialis and brachioradialis in addition to the biceps. The brachialis sits underneath the biceps and pushes it up for a thicker arm appearance. Low [joint stress](#joint-stress) on the wrists due to the neutral grip.
 
 ### Forearms
 
 #### Reverse Barbell Curls
 
-Curl a barbell with an overhand (pronated) grip. Shifts the load from the biceps to the brachioradialis and wrist extensors. Builds the outer forearm mass visible when the arms are at rest.
+Curl a barbell with an overhand (pronated) grip. Shifts the load from the biceps to the brachioradialis and wrist extensors. Builds the outer forearm mass visible when the arms are at rest. Good [loadability](#loadability) with a barbell. Can help prevent elbow issues by balancing forearm extensors against flexors ([injury history](#injury-history) prevention).
 
 #### Barbell Wrist Curls
 
-Sit with forearms resting on your thighs, palms up, and curl a barbell by flexing the wrists. Isolates the wrist flexors on the inner forearm. Use controlled reps with a full range of motion.
+Sit with forearms resting on your thighs, palms up, and curl a barbell by flexing the wrists. Isolates the wrist flexors on the inner forearm. Use controlled reps with [full range of motion](#full-range-of-motion). Monitor [joint stress](#joint-stress) on the wrists — start light.
 
 #### Plate Pinches
 
-Pinch two or more weight plates together smooth-side-out and hold for time. Builds thumb and finger strength through isometric grip work. Targets the muscles of the hand and inner forearm that other grip exercises miss.
+Pinch two or more weight plates together smooth-side-out and hold for time. Builds thumb and finger strength through isometric grip work. Targets the muscles of the hand and inner forearm that other grip exercises miss. Minimal [equipment availability](#equipment-availability) requirements — just weight plates.
 
 ## Leg Exercises
 
@@ -313,75 +313,75 @@ Pinch two or more weight plates together smooth-side-out and hold for time. Buil
 
 #### Barbell Front Squat
 
-Hold a barbell across the front of your shoulders in a clean grip or crossed-arm position and squat to full depth. The upright torso position shifts emphasis to the quadriceps and reduces lower back stress compared to back squats. Also demands significant core and upper back engagement.
+Hold a barbell across the front of your shoulders in a clean grip or crossed-arm position and squat to full depth. The upright torso position shifts emphasis to the quadriceps and reduces [joint stress](#joint-stress) on the lower back compared to back squats. Excellent [full range of motion](#full-range-of-motion) and [loadability](#loadability), but high [fatigue cost](#fatigue-cost). [Anthropometry](#anthropometry) matters: requires adequate wrist and thoracic mobility for the front rack position.
 
 #### Bulgarian Split Squats
 
-Stand in a split stance with your rear foot elevated on a bench. Lower your hips until the front thigh is parallel to the ground. A unilateral movement that builds single-leg strength, fixes imbalances, and requires significant balance and hip stability.
+Stand in a split stance with your rear foot elevated on a bench. Lower your hips until the front thigh is parallel to the ground. A unilateral movement that builds single-leg strength and fixes imbalances. High [stability demands](#stability-demands) limit the load but build functional strength. Lower [fatigue cost](#fatigue-cost) than bilateral squats for the same quad stimulus.
 
 #### Leg Extensions
 
-Sit in a leg extension machine and extend your knees to straighten the legs. Isolates the quadriceps, particularly the rectus femoris and vastus medialis (teardrop). Useful for adding volume without spinal loading.
+Sit in a leg extension machine and extend your knees to straighten the legs. Isolates the quadriceps, particularly the rectus femoris and vastus medialis (teardrop). Minimal [stability demands](#stability-demands) and [fatigue cost](#fatigue-cost) make it ideal for volume accumulation. Good [mind-muscle connection](#mind-muscle-connection). Some concern about [joint stress](#joint-stress) on the knees at heavy loads — control the eccentric.
 
 ### Hamstrings
 
 #### Deadlift
 
-Stand over a barbell, hinge at the hips with a flat back, grip the bar, and stand up by driving through the floor. The king of posterior chain exercises. Loads the hamstrings, glutes, erectors, traps, and grip simultaneously. The heaviest lift most people will perform.
+Stand over a barbell, hinge at the hips with a flat back, grip the bar, and stand up by driving through the floor. The king of posterior chain exercises. Loads the hamstrings, glutes, erectors, traps, and grip simultaneously. The heaviest lift most people will perform. Maximum [loadability](#loadability) but the highest [fatigue cost](#fatigue-cost) of any exercise. [Anthropometry](#anthropometry) heavily influences stance and grip width. Those with lower back [injury history](#injury-history) should consider the trap bar variant.
 
 #### Trap Bar Deadlift
 
-Stand inside a trap bar (hex bar), grip the handles at your sides, and stand up by driving through the floor. The neutral grip and centered load reduce lower back stress and allow a more upright torso compared to a conventional deadlift. Shifts emphasis slightly toward the quads while still loading the hamstrings, glutes, and traps. A good alternative for those with lower back issues or limited hip mobility.
+Stand inside a trap bar (hex bar), grip the handles at your sides, and stand up by driving through the floor. The neutral grip and centered load significantly reduce [joint stress](#joint-stress) on the lower back and allow a more upright torso compared to a conventional deadlift. Shifts emphasis slightly toward the quads while still loading the posterior chain. A strong option for those with [injury history](#injury-history) involving the lower back or limited hip mobility ([anthropometry](#anthropometry)). Requires [equipment availability](#equipment-availability) of a trap bar.
 
 #### Romanian Deadlift
 
-Hold a barbell at hip height and hinge forward at the hips while keeping the legs nearly straight, lowering the bar along the thighs until you feel a deep hamstring stretch. Emphasizes the eccentric stretch of the hamstrings and builds the hip hinge pattern.
+Hold a barbell at hip height and hinge forward at the hips while keeping the legs nearly straight, lowering the bar along the thighs until you feel a deep hamstring stretch. The best hamstring exercise for [stretch under load](#stretch-under-load). Good [loadability](#loadability) with a barbell. Lower [fatigue cost](#fatigue-cost) than conventional deadlifts since the eccentric is controlled.
 
 #### Seated Leg Curls
 
-Sit in a leg curl machine and curl your heels toward your glutes. Isolates the hamstrings, particularly at the knee-flexion function. The seated position places the hamstrings in a slightly stretched position for greater muscle activation.
+Sit in a leg curl machine and curl your heels toward your glutes. Isolates the hamstrings, particularly at the knee-flexion function. The seated position provides [stretch under load](#stretch-under-load) with the hamstrings in a lengthened position. Minimal [fatigue cost](#fatigue-cost) and [stability demands](#stability-demands). Good [mind-muscle connection](#mind-muscle-connection).
 
 ### Glutes
 
 #### Barbell Hip Thrusts
 
-Sit with your upper back against a bench, place a loaded barbell across your hips, and drive your hips upward to full extension. The most direct glute exercise. Allows heavy loading with peak tension at the top where the glutes are fully contracted.
+Sit with your upper back against a bench, place a loaded barbell across your hips, and drive your hips upward to full extension. The most direct glute exercise. The [resistance profile](#resistance-profile) peaks at full hip extension where the glutes are strongest, unlike squats which are hardest at the bottom. Excellent [loadability](#loadability). Low [fatigue cost](#fatigue-cost) relative to the glute stimulus. Good [mind-muscle connection](#mind-muscle-connection).
 
 #### Walking Lunges
 
-Step forward into a lunge, lower until both knees are at 90 degrees, then drive through the front heel to step into the next rep. Combines glute and quad work with dynamic balance. The walking component adds a functional element.
+Step forward into a lunge, lower until both knees are at 90 degrees, then drive through the front heel to step into the next rep. Combines glute and quad work with dynamic balance. High [stability demands](#stability-demands) build functional strength. [Full range of motion](#full-range-of-motion) through the hip and knee. Lower [loadability](#loadability) than bilateral movements since balance is the limiter.
 
 #### Cable Hip Abductions
 
-Stand sideways to a low cable with an ankle strap and lift your leg out to the side against the resistance. Isolates the gluteus medius and minimus. Important for hip stability and preventing knee valgus during squats and running.
+Stand sideways to a low cable with an ankle strap and lift your leg out to the side against the resistance. Isolates the gluteus medius and minimus. The cable provides a smooth [resistance profile](#resistance-profile). Important for [injury history](#injury-history) prevention — hip stability reduces knee valgus during squats and running. Good [mind-muscle connection](#mind-muscle-connection).
 
 ### Calves
 
 #### Donkey Calf Raises
 
-Bend at the hips on a donkey calf raise machine or with a partner on your back and perform calf raises. The hip-flexed position pre-stretches the gastrocnemius for greater range of motion and activation. Allows heavy loading.
+Bend at the hips on a donkey calf raise machine or with a partner on your back and perform calf raises. The hip-flexed position pre-stretches the gastrocnemius for maximum [stretch under load](#stretch-under-load) and [full range of motion](#full-range-of-motion). Allows heavy [loadability](#loadability). Limited by [equipment availability](#equipment-availability) — most gyms lack a dedicated donkey calf raise machine.
 
 #### Standing Calf Raises
 
-Stand on the edge of a step or in a calf raise machine and raise up onto your toes, then lower through a full stretch. Targets the gastrocnemius, the larger two-headed calf muscle. The straight-leg position maximally engages this muscle.
+Stand on the edge of a step or in a calf raise machine and raise up onto your toes, then lower through a full stretch. Targets the gastrocnemius, the larger two-headed calf muscle. The straight-leg position maximally engages this muscle. Good [loadability](#loadability) and [stretch under load](#stretch-under-load) at the bottom. Widely available across gyms ([equipment availability](#equipment-availability)).
 
 #### Seated Calf Raises
 
-Sit in a seated calf raise machine with the pad on your lower thighs and perform calf raises. The bent-knee position takes the gastrocnemius out of the movement, isolating the soleus. The soleus contributes significantly to overall calf size.
+Sit in a seated calf raise machine with the pad on your lower thighs and perform calf raises. The bent-knee position takes the gastrocnemius out of the movement, isolating the soleus. The soleus contributes significantly to overall calf size. Good [mind-muscle connection](#mind-muscle-connection) and low [fatigue cost](#fatigue-cost).
 
 ### Adductors
 
 #### Sumo Squats
 
-Squat with a wide stance and toes pointed outward, holding a dumbbell or kettlebell between your legs. The wide stance increases adductor and inner thigh recruitment compared to a standard squat. Also hits the glutes heavily.
+Squat with a wide stance and toes pointed outward, holding a dumbbell or kettlebell between your legs. The wide stance increases adductor and inner thigh recruitment compared to a standard squat. Also hits the glutes heavily. Good [full range of motion](#full-range-of-motion) with a deep squat. [Anthropometry](#anthropometry) matters: hip structure determines how wide and deep you can go comfortably.
 
 #### Copenhagen Plank
 
-Lie on your side with your top leg on a bench and your bottom leg hanging free. Squeeze the top leg into the bench to hold your body in a side plank position. A bodyweight adductor strengthener that also builds core stability. Used widely in injury prevention programs.
+Lie on your side with your top leg on a bench and your bottom leg hanging free. Squeeze the top leg into the bench to hold your body in a side plank position. A bodyweight adductor strengthener that also builds core stability. Used widely in [injury history](#injury-history) prevention programs. Minimal [equipment availability](#equipment-availability) requirements — just a bench. Limited [loadability](#loadability) since it's bodyweight only.
 
 #### Adductor Machine
 
-Sit in the adductor machine with pads against your inner thighs and squeeze your legs together. Directly isolates the adductor muscle group. Simple to load progressively and useful for building baseline adductor strength.
+Sit in the adductor machine with pads against your inner thighs and squeeze your legs together. Directly isolates the adductor muscle group. Excellent [loadability](#loadability) with fine increments, good [mind-muscle connection](#mind-muscle-connection), and minimal [fatigue cost](#fatigue-cost). Low [stability demands](#stability-demands) make it easy to accumulate volume.
 
 ## Core Exercises
 
@@ -389,43 +389,43 @@ Sit in the adductor machine with pads against your inner thighs and squeeze your
 
 #### Hanging Leg Raises
 
-Hang from a pull-up bar and raise your legs until they are parallel to the floor or higher. Targets the rectus abdominis with emphasis on the lower portion. The hanging position also builds grip endurance and decompresses the spine.
+Hang from a pull-up bar and raise your legs until they are parallel to the floor or higher. Targets the rectus abdominis with emphasis on the lower portion. Excellent [full range of motion](#full-range-of-motion) through the abs. The hanging position also builds grip endurance and decompresses the spine. Limited [loadability](#loadability) — progression comes from straighter legs and higher raises.
 
 #### Weighted Cable Crunches
 
-Kneel in front of a high cable with a rope attachment behind your head and crunch downward, bringing your elbows toward your knees. Allows progressive overload of the rectus abdominis, which is difficult to achieve with bodyweight alone.
+Kneel in front of a high cable with a rope attachment behind your head and crunch downward, bringing your elbows toward your knees. The best ab exercise for [loadability](#loadability) — allows progressive overload that is difficult to achieve with bodyweight alone. Consistent [resistance profile](#resistance-profile) from the cable. Good [mind-muscle connection](#mind-muscle-connection).
 
 #### Dead Bugs
 
-Lie on your back with arms extended toward the ceiling and knees bent at 90 degrees. Slowly extend the opposite arm and leg while keeping your lower back pressed into the floor. Teaches anti-extension core stability and proper bracing patterns.
+Lie on your back with arms extended toward the ceiling and knees bent at 90 degrees. Slowly extend the opposite arm and leg while keeping your lower back pressed into the floor. Teaches anti-extension core stability and proper bracing patterns. Very low [joint stress](#joint-stress) and [fatigue cost](#fatigue-cost). Minimal [equipment availability](#equipment-availability) requirements. Limited [loadability](#loadability) but excellent for learning to brace.
 
 ### Obliques
 
 #### Suitcase Carries
 
-Hold a heavy dumbbell or kettlebell in one hand at your side and walk for distance while keeping your torso completely upright. Forces the obliques and quadratus lumborum to resist lateral flexion. A functional anti-lateral-flexion exercise.
+Hold a heavy dumbbell or kettlebell in one hand at your side and walk for distance while keeping your torso completely upright. Forces the obliques and quadratus lumborum to resist lateral flexion. High [stability demands](#stability-demands) train the entire core functionally. Good [loadability](#loadability) — just grab a heavier dumbbell. Minimal [equipment availability](#equipment-availability) requirements.
 
 #### Cable Woodchoppers
 
-Stand sideways to a cable set high or low and rotate your torso to pull the handle diagonally across your body. Trains rotational power through the obliques and transverse abdominis. Adjust the cable height to target different angles.
+Stand sideways to a cable set high or low and rotate your torso to pull the handle diagonally across your body. Trains rotational power through the obliques and transverse abdominis. The cable provides a smooth [resistance profile](#resistance-profile) through the rotation. Adjust the cable height to target different angles. Good [mind-muscle connection](#mind-muscle-connection).
 
 #### Side Planks
 
-Lie on your side, prop yourself up on your forearm, and hold your body in a straight line. An isometric exercise that builds endurance in the obliques and quadratus lumborum. Add hip dips or top-arm reaches for additional challenge.
+Lie on your side, prop yourself up on your forearm, and hold your body in a straight line. An isometric exercise that builds endurance in the obliques and quadratus lumborum. No [equipment availability](#equipment-availability) requirements. Low [joint stress](#joint-stress). Limited [loadability](#loadability) — add hip dips or top-arm reaches for progression.
 
 ### Deep Core
 
 #### Ab Wheel Rollouts
 
-Kneel on the floor holding an ab wheel and roll forward, extending your body toward the ground while maintaining a flat back, then pull back to the starting position. One of the most demanding anti-extension exercises. Targets the entire anterior core under high tension.
+Kneel on the floor holding an ab wheel and roll forward, extending your body toward the ground while maintaining a flat back, then pull back to the starting position. One of the most demanding anti-extension exercises. Targets the entire anterior core under high tension. Excellent [stretch under load](#stretch-under-load) at full extension. Be mindful of [joint stress](#joint-stress) on the lower back — don't extend beyond what you can control.
 
 #### Stomach Vacuums
 
-Stand, sit, or kneel and exhale all air from your lungs, then pull your navel in toward your spine as hard as possible and hold. Targets the transversus abdominis, the deepest abdominal muscle. Builds the ability to brace and creates a tighter waistline.
+Stand, sit, or kneel and exhale all air from your lungs, then pull your navel in toward your spine as hard as possible and hold. Targets the transversus abdominis, the deepest abdominal muscle. Builds the ability to brace and creates a tighter waistline. Zero [equipment availability](#equipment-availability) requirements. No [joint stress](#joint-stress). Cannot be loaded externally — progression is through longer holds.
 
 #### Planks
 
-Hold a push-up position on your forearms with your body in a straight line from head to heels. The foundational anti-extension exercise that builds endurance in the rectus abdominis, obliques, and deep core. Add weight on your back or extend the duration to progress.
+Hold a push-up position on your forearms with your body in a straight line from head to heels. The foundational anti-extension exercise that builds endurance in the rectus abdominis, obliques, and deep core. No [equipment availability](#equipment-availability) requirements. Low [joint stress](#joint-stress). Add weight on your back to improve [loadability](#loadability) beyond bodyweight.
 
 # Muscle Anatomy
 
