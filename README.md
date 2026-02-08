@@ -23,8 +23,8 @@ Updated February 2026
 
 - [Torso](#torso) (Chest, Back, Shoulder)
 - [Arms](#arms) (Upper Arm, Forearm)
-- [Legs](#legs-1) (Glutes, Upper Leg, Lower Leg)
-- [Core](#core-1) (Abs, Obliques, Deep Core)
+- [Leg Muscles](#leg-muscles) (Glutes, Upper Leg, Lower Leg)
+- [Core Muscles](#core-muscles) (Abs, Obliques, Deep Core)
 
 ## [Factors for Exercise Selection](#factors-for-exercise-selection)
 
@@ -116,7 +116,7 @@ The leg split covers the quadriceps, hamstrings, glutes, calves, and adductors. 
 
 The back squat opens as the most [loadable](#loadability) lower body exercise, training the quads, glutes, and posterior chain under the heaviest absolute loads — it earns the first slot because [skill and technique requirements](#skill-and-technique-requirements) and [fatigue cost](#fatigue-cost) are both highest here. Bulgarian split squats follow as the [unilateral](#bilateral-vs-unilateral) complement, addressing left-right imbalances with high [stability demands](#stability-demands) that build functional single-leg strength while providing a lower [fatigue cost](#fatigue-cost) per unit of quad stimulus. Leg extensions close by isolating the quads — particularly the VMO for patellar tracking — without spinal loading, making them an efficient volume accumulator. The front squat is removed: it provides excellent quad bias but overlaps heavily with the back squat (both are bilateral barbell squats with high fatigue cost), and including both creates [redundancy](#redundancy-and-overlap) without sufficient benefit. The unilateral split squat fills the complementary role more effectively.
 
-**Hamstrings** ([Hamstrings](#hamstrings))
+**Hamstrings** ([Hamstring Muscles](#hamstring-muscles))
 1. [Romanian Deadlift](#romanian-deadlift)
 2. [Nordic Hamstring Curls](#nordic-hamstring-curls)
 3. [Seated Leg Curls](#seated-leg-curls)
@@ -135,7 +135,7 @@ Hip thrusts provide the best [resistance profile](#resistance-profile) for the g
 
 The gastrocnemius and soleus require different knee positions for maximal activation — this is a non-negotiable [muscle architecture](#muscle-architecture) requirement. Standing calf raises target the gastrocnemius (straight knee), seated calf raises target the soleus (bent knee). Both should emphasize a deep stretch at the bottom, where most of the hypertrophy stimulus comes from ([stretch under load](#stretch-under-load)). Donkey calf raises are removed because they duplicate the standing variation's function (straight-knee gastrocnemius work) with lower [equipment availability](#equipment-availability). Two exercises covering two distinct muscles is the minimum effective selection.
 
-**Adductors** ([Adductors](#adductors))
+**Adductors** ([Adductor Muscles](#adductor-muscles))
 1. [Copenhagen Plank](#copenhagen-plank)
 2. [Adductor Machine](#adductor-machine)
 
@@ -311,7 +311,7 @@ Sit with forearms resting on your thighs, palms up, and curl a barbell by flexin
 
 Pinch two or more weight plates together smooth-side-out and hold for time. Builds thumb and finger strength through isometric grip work that other grip exercises miss. Minimal [equipment availability](#equipment-availability) requirements — just weight plates; limited [loadability](#loadability) but progressed by adding plates or hold duration. Choose this over [Farmer's Walks](#farmers-walks) when pure pinch grip and finger strength are the focus; choose Farmer's Walks for more functional grip and full-body work.
 
-### Explosive
+### Explosive Pull
 
 #### Power Cleans
 
@@ -405,7 +405,7 @@ Lie on your side with your top leg on a bench and your bottom leg hanging free, 
 
 Sit in the adductor machine with pads against your inner thighs and squeeze your legs together. Directly isolates the adductor muscle group with excellent [mind-muscle connection](#mind-muscle-connection). Excellent [loadability](#loadability) with fine increments, minimal [fatigue cost](#fatigue-cost), and low [stability demands](#stability-demands) for easy volume accumulation. Choose this over [Sumo Squats](#sumo-squats) when direct adductor isolation and progressive overload are the priority; choose Sumo Squats for compound inner thigh work.
 
-### Explosive
+### Explosive Leg
 
 #### Box Jumps
 
@@ -459,7 +459,7 @@ Hold a push-up position on your forearms with your body in a straight line from 
 
 ## Torso
 
-### Chest
+### Chest Muscles
 
 #### Pectoralis Major
 
@@ -473,7 +473,7 @@ A small, thin muscle that lies underneath the pectoralis major. Originates from 
 
 A saw-toothed muscle that wraps around the side of the ribcage from ribs 1-8 to the inner border of the scapula. Protracts the scapula and holds it flat against the ribcage. Activated heavily during push-ups and punching motions. Weakness causes scapular winging. Often called the "boxer's muscle." Trained indirectly by overhead pressing ([Military Press](#military-press)) and directly by push-up plus variations. Usually does not need dedicated isolation work if pressing volume is adequate.
 
-### Back
+### Back Muscles
 
 #### Latissimus Dorsi
 
@@ -495,7 +495,7 @@ A group of three muscles (iliocostalis, longissimus, spinalis) running verticall
 
 A thick muscle on the lower border of the scapula that assists the latissimus dorsi in shoulder extension, adduction, and internal rotation. Sometimes called "the lat's little helper." Activated during [Weighted Pull-Ups](#weighted-pull-ups), [Barbell Rows](#barbell-rows), and [Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns). Does not need dedicated isolation — any exercise that trains the lats will train the teres major.
 
-### Shoulder
+### Shoulder Muscles
 
 #### Anterior Deltoid
 
@@ -563,9 +563,9 @@ The flexor digitorum superficialis (closer to the surface) and flexor digitorum 
 
 The extensor digitorum on the back of the forearm extends all four fingers. Important for hand balance and preventing overuse injuries from gripping. Often neglected relative to the flexors, which can lead to imbalance and [injury history](#injury-history) issues at the elbow. Trained by rubber band extensions or reverse grip exercises like [Reverse Barbell Curls](#reverse-barbell-curls). Low [equipment availability](#equipment-availability) barrier — a rubber band is sufficient.
 
-## Legs
+## Leg Muscles
 
-### Glutes
+### Glute Muscles
 
 #### Gluteus Maximus
 
@@ -581,11 +581,11 @@ A fan-shaped muscle on the outer surface of the pelvis, partially covered by the
 
 Four muscles on the front of the thigh that extend the knee: the rectus femoris (crosses the hip and knee, also flexes the hip), vastus lateralis (outer quad), vastus medialis (inner quad, the "teardrop" near the knee), and vastus intermedius (deep, between the lateralis and medialis). Together they are the primary knee extensors. The vastus medialis oblique (VMO) is particularly important for patellar tracking and knee stability — weakness contributes to patellofemoral pain and is a risk factor for knee injuries in athletes. [Barbell Back Squat](#barbell-back-squat) is the most loadable squat variant, training the quads and entire posterior chain under the heaviest loads. [Barbell Front Squat](#barbell-front-squat) shifts emphasis further toward the quads due to the upright torso, with excellent [loadability](#loadability) and [full range of motion](#full-range-of-motion) but high [fatigue cost](#fatigue-cost). [Bulgarian Split Squats](#bulgarian-split-squats) fix imbalances with high [stability demands](#stability-demands) and lower [fatigue cost](#fatigue-cost). [Leg Extensions](#leg-extensions) isolate the quads — particularly the rectus femoris and VMO — with minimal [fatigue cost](#fatigue-cost) and good [mind-muscle connection](#mind-muscle-connection). [Box Jumps](#box-jumps) develop quad power and rate of force development for athletes. A complete quad program benefits from both a compound squat pattern and an isolation movement.
 
-#### Hamstrings
+#### Hamstring Muscles
 
 Three muscles on the back of the thigh: the biceps femoris (two heads, on the outer hamstring), semitendinosus (inner, more superficial), and semimembranosus (inner, deeper). All cross both the hip and knee, extending the hip and flexing the knee. Because the hamstrings cross two joints, they need both hip extension exercises and knee flexion exercises for complete development. The hamstrings also function as dynamic knee stabilizers, acting as synergists to the ACL — strong hamstrings are one of the most important factors in ACL injury prevention. Hamstring strains are the most common muscle injury in field sports, occurring during the late swing phase of sprinting when the muscle is eccentrically loaded at high speed. [Deadlift](#deadlift) and [Romanian Deadlift](#romanian-deadlift) train the hip extension function — the RDL provides superior [stretch under load](#stretch-under-load) while the deadlift offers maximum [loadability](#loadability). [Nordic Hamstring Curls](#nordic-hamstring-curls) are the gold standard eccentric exercise for hamstring injury prevention, producing the highest hamstring activation of any bodyweight movement and significantly reducing strain risk. [Seated Leg Curls](#seated-leg-curls) train the knee flexion function with excellent [mind-muscle connection](#mind-muscle-connection) and low [fatigue cost](#fatigue-cost). [Trap Bar Deadlift](#trap-bar-deadlift) is a lower [joint stress](#joint-stress) alternative to conventional deadlifts for those with [injury history](#injury-history) involving the lower back.
 
-#### Adductors
+#### Adductor Muscles
 
 Five muscles on the inner thigh: the adductor longus, adductor brevis, and adductor magnus adduct the hip (pull the leg inward). The gracilis crosses both the hip and knee. The pectineus also flexes the hip. The adductor magnus is the largest and has both an adductor portion and a hamstring-like portion that extends the hip. [Sumo Squats](#sumo-squats) load the adductors through a compound pattern with good [full range of motion](#full-range-of-motion), though [anthropometry](#anthropometry) (hip structure) affects how deep you can go. [Adductor Machine](#adductor-machine) provides the best [mind-muscle connection](#mind-muscle-connection), [loadability](#loadability), and lowest [fatigue cost](#fatigue-cost). [Copenhagen Plank](#copenhagen-plank) requires no equipment ([equipment availability](#equipment-availability)) and is widely used for [injury history](#injury-history) prevention.
 
@@ -615,15 +615,15 @@ A deep muscle on the back of the lower leg, lying behind the tibia. Plantarflexe
 
 Two muscles on the outer lower leg: the peroneus longus and peroneus brevis. Evert the foot (tilt the sole outward) and assist in plantarflexion. Stabilize the ankle against inversion sprains — critical for [injury history](#injury-history) prevention in athletes. The longus also supports the transverse arch of the foot. Trained by eversion exercises against a band (minimal [equipment availability](#equipment-availability) requirements) and single-leg balance work, which builds them through [stability demands](#stability-demands).
 
-## Core
+## Core Muscles
 
-### Abs
+### Ab Muscles
 
 #### Rectus Abdominis
 
 The "six-pack" muscle running vertically from the pubic bone to the ribcage, divided by tendinous intersections. Flexes the spine (crunching motion) and resists extension. While spinal flexion is its concentric function, the rectus abdominis works primarily as an anti-extension stabilizer during athletics and heavy lifting — resisting the spine from arching under load. One continuous muscle, not truly separate upper and lower sections, but different exercises shift the bias. [Hanging Leg Raises](#hanging-leg-raises) emphasize the lower portion through a long [range of motion](#full-range-of-motion) but are limited in [loadability](#loadability). [Weighted Cable Crunches](#weighted-cable-crunches) are the best option for progressive [loadability](#loadability) with a consistent [resistance profile](#resistance-profile). [Dead Bugs](#dead-bugs) and [Ab Wheel Rollouts](#ab-wheel-rollouts) train the anti-extension function directly, which has the most carryover to heavy compound lifts and athletic performance. A complete ab program benefits from both a loaded flexion exercise and an anti-extension exercise.
 
-### Obliques
+### Oblique Muscles
 
 #### External Obliques
 
@@ -633,7 +633,7 @@ The outermost oblique muscles, running diagonally downward from the lower ribs t
 
 Lie deep to the external obliques, with fibers running perpendicular (diagonally upward). Rotate the torso to the same side (left internal oblique rotates torso to the left) and laterally flex the trunk. Work together with the opposite external oblique during rotation. Trained by the same exercises as the external obliques — [Cable Woodchoppers](#cable-woodchoppers), [Suitcase Carries](#suitcase-carries), and [Side Planks](#side-planks). Also assist in forced expiration and intra-abdominal pressure during bracing in heavy compounds like [Deadlift](#deadlift) and [Barbell Front Squat](#barbell-front-squat).
 
-### Deep Core
+### Deep Core Muscles
 
 #### Transversus Abdominis
 
@@ -666,11 +666,11 @@ These factors determine how effectively an exercise drives muscle growth in the 
 
 ### Stretch Under Load
 
-Exercises that place a muscle under tension while it is in a lengthened position produce greater hypertrophy through stretch-mediated growth pathways. If two exercises are otherwise equal, prefer the one that is hardest in the stretched position. Stretch-biased choices by muscle group: [incline dumbbell curls](#incline-dumbbell-curls) for [biceps](#biceps-brachii), [cable crossovers](#cable-crossovers) for [chest](#pectoralis-major), [Romanian deadlifts](#romanian-deadlift) for [hamstrings](#hamstrings), [overhead tricep extensions](#overhead-tricep-extensions) for [triceps](#triceps-brachii), [straight-arm pulldowns](#straight-arm-pulldowns) for [lats](#latissimus-dorsi), and [leg extensions](#leg-extensions) at full depth for [quads](#quadriceps).
+Exercises that place a muscle under tension while it is in a lengthened position produce greater hypertrophy through stretch-mediated growth pathways. If two exercises are otherwise equal, prefer the one that is hardest in the stretched position. Stretch-biased choices by muscle group: [incline dumbbell curls](#incline-dumbbell-curls) for [biceps](#biceps-brachii), [cable crossovers](#cable-crossovers) for [chest](#pectoralis-major), [Romanian deadlifts](#romanian-deadlift) for [hamstrings](#hamstring-muscles), [overhead tricep extensions](#overhead-tricep-extensions) for [triceps](#triceps-brachii), [straight-arm pulldowns](#straight-arm-pulldowns) for [lats](#latissimus-dorsi), and [leg extensions](#leg-extensions) at full depth for [quads](#quadriceps).
 
 ### Full Range of Motion
 
-Moving through the complete range a joint allows recruits more muscle fibers and builds strength across the entire length-tension curve. Lengthened partials (the bottom half of a rep) are superior to shortened partials (the top half) for hypertrophy, so when range must be limited, keep the stretched portion. Full ROM should be the default. Limiting ROM is appropriate when pain prevents it, when deliberately overloading a specific range (board press, pin squat), or when anatomical variation makes full depth counterproductive. Deep squats outperform half squats for [quad](#quadriceps) and [glute](#gluteus-maximus) growth; deficit [Romanian deadlifts](#romanian-deadlift) increase [hamstring](#hamstrings) stretch beyond the standard version.
+Moving through the complete range a joint allows recruits more muscle fibers and builds strength across the entire length-tension curve. Lengthened partials (the bottom half of a rep) are superior to shortened partials (the top half) for hypertrophy, so when range must be limited, keep the stretched portion. Full ROM should be the default. Limiting ROM is appropriate when pain prevents it, when deliberately overloading a specific range (board press, pin squat), or when anatomical variation makes full depth counterproductive. Deep squats outperform half squats for [quad](#quadriceps) and [glute](#gluteus-maximus) growth; deficit [Romanian deadlifts](#romanian-deadlift) increase [hamstring](#hamstring-muscles) stretch beyond the standard version.
 
 ### Resistance Profile
 
@@ -686,7 +686,7 @@ The ability to feel the target muscle working during a set, technically called *
 
 ### Muscle Architecture
 
-Muscles with different fiber orientations respond differently to exercise selection. **Pennate** muscles ([quadriceps](#quadriceps), [calves](#gastrocnemius), [deltoids](#lateral-deltoid)) have short fibers arranged at an angle, producing high force, and tend to respond well to heavier loads. **Fusiform** muscles ([biceps](#biceps-brachii), [hamstrings](#hamstrings)) have long parallel fibers, producing high velocity, and tend to respond well to stretch-biased exercises and full ROM. Multi-headed or multi-functional muscles require multiple exercises for full development. The [hamstrings](#hamstrings) flex the knee ([seated leg curls](#seated-leg-curls)) and extend the hip ([Romanian deadlift](#romanian-deadlift)); both patterns are needed. The [triceps](#triceps-brachii) long head crosses the shoulder ([overhead tricep extensions](#overhead-tricep-extensions)) while the lateral and medial heads do not ([tricep rope pushdowns](#tricep-rope-pushdowns)); both exercise types contribute to complete development.
+Muscles with different fiber orientations respond differently to exercise selection. **Pennate** muscles ([quadriceps](#quadriceps), [calves](#gastrocnemius), [deltoids](#lateral-deltoid)) have short fibers arranged at an angle, producing high force, and tend to respond well to heavier loads. **Fusiform** muscles ([biceps](#biceps-brachii), [hamstrings](#hamstring-muscles)) have long parallel fibers, producing high velocity, and tend to respond well to stretch-biased exercises and full ROM. Multi-headed or multi-functional muscles require multiple exercises for full development. The [hamstrings](#hamstring-muscles) flex the knee ([seated leg curls](#seated-leg-curls)) and extend the hip ([Romanian deadlift](#romanian-deadlift)); both patterns are needed. The [triceps](#triceps-brachii) long head crosses the shoulder ([overhead tricep extensions](#overhead-tricep-extensions)) while the lateral and medial heads do not ([tricep rope pushdowns](#tricep-rope-pushdowns)); both exercise types contribute to complete development.
 
 ## Exercise Structure
 
@@ -758,7 +758,7 @@ Limb lengths and torso proportions affect which exercises feel natural and which
 
 ### Injury History
 
-Previous injuries change which exercises are appropriate. Common injury-to-substitution pairs: shoulder impingement may mean replacing [flat barbell bench press](#flat-barbell-bench-press) with neutral-grip dumbbell press or floor press, and replacing behind-the-neck pressing with landmine press. Low back pain may mean replacing back squats with belt squat or leg press, and replacing conventional [deadlifts](#deadlift) with trap bar deadlift or [barbell hip thrusts](#barbell-hip-thrusts). Knee pain may mean replacing deep squats with box squats to parallel and focusing on [hamstring](#hamstrings) strengthening. Elbow tendinitis may mean replacing [skullcrushers](#skullcrushers) with [tricep rope pushdowns](#tricep-rope-pushdowns) and using an EZ-bar instead of a straight bar for [barbell curls](#barbell-curls). Pain is an exercise selection signal, not a training avoidance signal. There is almost always a pain-free alternative that trains the same muscle.
+Previous injuries change which exercises are appropriate. Common injury-to-substitution pairs: shoulder impingement may mean replacing [flat barbell bench press](#flat-barbell-bench-press) with neutral-grip dumbbell press or floor press, and replacing behind-the-neck pressing with landmine press. Low back pain may mean replacing back squats with belt squat or leg press, and replacing conventional [deadlifts](#deadlift) with trap bar deadlift or [barbell hip thrusts](#barbell-hip-thrusts). Knee pain may mean replacing deep squats with box squats to parallel and focusing on [hamstring](#hamstring-muscles) strengthening. Elbow tendinitis may mean replacing [skullcrushers](#skullcrushers) with [tricep rope pushdowns](#tricep-rope-pushdowns) and using an EZ-bar instead of a straight bar for [barbell curls](#barbell-curls). Pain is an exercise selection signal, not a training avoidance signal. There is almost always a pain-free alternative that trains the same muscle.
 
 ### Equipment Availability
 
