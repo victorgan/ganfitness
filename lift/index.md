@@ -52,9 +52,9 @@ A 4-day upper/lower split plus 2 conditioning days. Do exactly this. Every set, 
 
 **Schedule:** Monday Upper A, Tuesday Lower A, Wednesday Conditioning A, Thursday Upper B, Friday Lower B, Saturday Conditioning B. Sunday is a full rest day. Don't rearrange — upper and lower days alternate to give each half of the body 48+ hours of recovery.
 
-**Rest Days:** Light activity is fine — walking, easy cycling, stretching. Don't train the same muscle groups on rest days.
+**Rest Days:** Light activity on Sunday is fine — walking, easy cycling, stretching.
 
-**Warm-up:** 5 minutes of light cardio (bike, row, or brisk walk), then the power primer listed for that day, then 2–3 warm-up sets of the first exercise ramping from an empty bar to working weight. Skip static stretching before lifting — it reduces power output. Dynamic warm-ups (leg swings, arm circles, bodyweight squats) are fine after the cardio.
+**Warm-up (lifting days):** 5 minutes of light cardio (bike, row, or brisk walk), then the power primer listed for that day, then 2–3 warm-up sets of the first exercise ramping from an empty bar to working weight. Skip static stretching before lifting — it reduces power output. Dynamic warm-ups (leg swings, arm circles, bodyweight squats) are fine after the cardio.
 
 **Power Primers:** Every lifting session starts with an explosive movement after the general warm-up. Use submaximal effort — the goal is speed and coordination, not fatigue. Never go near failure. Rest fully between sets.
 
@@ -89,7 +89,7 @@ Squat focus. Back squat is the priority.
 | P | [Box Jumps](#box-jumps) (power primer) | 3 x 3 | 90 sec |
 | 1 | [Barbell Back Squat](#barbell-back-squat) | 4 x 5–7 | 3 min |
 | 2 | [Bulgarian Split Squats](#bulgarian-split-squats) | 3 x 8–10 each | 2 min |
-| 3 | [Walking Lunges](#walking-lunges) | 3 x 8 each | 2 min |
+| 3 | [Single-Leg Romanian Deadlift](#single-leg-romanian-deadlift) | 3 x 8 each | 2 min |
 | 4 | [Standing Calf Raises](#standing-calf-raises) | 3 x 12–15 | 90 sec |
 | 5 | [Hanging Leg Raises](#hanging-leg-raises) | 3 x 10–15 | 90 sec |
 
@@ -109,14 +109,14 @@ Vertical push/pull focus. Military press is the priority.
 
 ## Lower B
 
-Hinge focus. Deadlift is the priority. Single-leg RDLs add balance and unilateral posterior chain work.
+Hinge focus. Deadlift is the priority. Walking lunges add dynamic locomotion and quad frequency (quads otherwise only get heavy work on Lower A).
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
 | P | [Broad Jumps](#broad-jumps) (power primer) | 3 x 3 | 90 sec |
 | 1 | [Deadlift](#deadlift) | 4 x 3–5 | 3–4 min |
 | 2 | [Nordic Hamstring Curls](#nordic-hamstring-curls) (or assisted negatives) | 3 x 5–8 | 2 min |
-| 3 | [Single-Leg Romanian Deadlift](#single-leg-romanian-deadlift) | 3 x 8 each | 2 min |
+| 3 | [Walking Lunges](#walking-lunges) | 3 x 8 each | 2 min |
 | 4 | [Seated Calf Raises](#seated-calf-raises) | 3 x 15–20 | 90 sec |
 | 5 | [Suitcase Carries](#suitcase-carries) | 3 x 30 sec each side | 90 sec |
 
@@ -139,7 +139,6 @@ Saturday. 20–30 minutes of interval or circuit work. Complete the circuit, res
 1. Sled Push — 30 sec
 2. Farmer's Walk — 30 sec
 3. Kettlebell Swings — 15 reps
-4. Rest — 90 sec
 
 Substitute any combination of carries, sled work, rowing sprints, bike sprints, or kettlebell work. The goal is elevated heart rate with full-body movement, not grinding to failure.
 
@@ -355,10 +354,6 @@ Explosive movements are technique-driven and best learned with a coach. Only fou
 
 Stand facing a wall holding a medicine ball at chest height, then explosively push the ball forward into the wall and catch the rebound. Develops upper body pushing power and rate of force development through the chest, shoulders, and triceps. Minimal [skill and technique requirements](#skill-and-technique-requirements) compared to barbell explosive lifts; low [fatigue cost](#fatigue-cost) and [joint stress](#joint-stress) make it ideal as a power primer before pressing. Choose this over [Flat Barbell Bench Press](#flat-barbell-bench-press) when training pushing speed and power output; choose Bench Press for maximum strength and hypertrophy.
 
-#### Medicine Ball Slam
-
-Stand holding a medicine ball overhead, brace the core, and slam the ball into the ground as hard as possible, catching or picking it up for the next rep. Develops full-body power through the lats, core, and hip flexors in a vertical pulling-and-slamming pattern. Very low [fatigue cost](#fatigue-cost) and minimal [skill and technique requirements](#skill-and-technique-requirements); the concentric-only nature means almost no muscle damage. Use a dead-bounce (sand-filled) ball for slams to the floor. Choose this over [Weighted Pull-Ups](#weighted-pull-ups) when overhead power and core explosiveness are the priority; choose Pull-Ups for maximum lat strength and hypertrophy.
-
 ## Pull Exercises
 
 ### Back
@@ -448,6 +443,10 @@ Explosive movements are technique-driven and best learned with a coach. Only fou
 #### Power Cleans
 
 Pull a barbell explosively from the floor to the front rack position by extending the hips, knees, and ankles in sequence and catching the bar on the shoulders. Develops posterior chain power, rate of force development, and full-body coordination — the most transferable barbell exercise to athletic performance. High [skill and technique requirements](#skill-and-technique-requirements) demand coached practice; the concentric-dominant [contraction type](#contraction-type-emphasis) builds power but provides less hypertrophy stimulus per rep than slower lifts. Choose this over [Deadlift](#deadlift) when explosive power and athleticism are the priority; choose Deadlift when maximum strength and loading are the goal.
+
+#### Medicine Ball Slam
+
+Stand holding a medicine ball overhead, brace the core, and slam the ball into the ground as hard as possible, catching or picking it up for the next rep. Develops full-body power through the lats, core, and hip flexors in a vertical pulling-and-slamming pattern. Very low [fatigue cost](#fatigue-cost) and minimal [skill and technique requirements](#skill-and-technique-requirements); the concentric-only nature means almost no muscle damage. Use a dead-bounce (sand-filled) ball for slams to the floor. Choose this over [Power Cleans](#power-cleans) when a low-skill explosive pull is needed; choose Power Cleans for maximum athletic transfer and posterior chain power.
 
 ## Leg Exercises
 
@@ -953,5 +952,5 @@ Beginners benefit most from simple, compound, bilateral exercises with low skill
 Exercise selection differs by goal. **Strength-focused** trainees prioritize heavy compounds with competition specificity; accessories are selected to support the primary lifts. **Hypertrophy-focused** trainees prioritize stretch under load, mind-muscle connection, and stimulus-to-fatigue ratio; the best exercise is whichever produces the most growth for that individual. **Athletic performance** trainees prioritize movement pattern transfer, velocity, and multi-planar work. **General fitness** trainees benefit from a balanced selection across movement patterns and planes, favoring exercises with good long-term joint health profiles.
 
 # Change Log
-- 2026-02-08: Add athletic/conditioning layer: power primers (med ball chest pass, med ball slam, box jumps, broad jumps), two conditioning days (steady state + intervals), Turkish get-ups. Swap hip thrusts → walking lunges, leg extensions → single-leg RDLs, cable crunches → Turkish get-ups. Add exercise reference entries for new movements.
+- 2026-02-08: Add athletic/conditioning layer: power primers (med ball chest pass, med ball slam, box jumps, broad jumps), two conditioning days (steady state + intervals), Turkish get-ups. Swap hip thrusts → single-leg RDLs (Lower A), leg extensions → walking lunges (Lower B), cable crunches → Turkish get-ups (Upper A). Move med ball slam to Explosive Pull. Add exercise reference entries for new movements.
 - 2026-02-07: Start
