@@ -45,7 +45,7 @@ For rep ranges: primary compounds (labeled "primary compound") work best in the 
 
 ## Push
 
-The push split covers the chest, shoulders, and triceps. Chest movements are programmed first because the pectoralis major is the largest muscle group in this split and benefits most from being trained fresh. Shoulder pressing follows because it overlaps with chest pressing (anterior deltoid, triceps) but adds overhead strength. Lateral deltoid isolation comes next because compounds alone are insufficient for shoulder width. Triceps are last because they receive heavy indirect work from all pressing and only need targeted volume for the long head. Rotator cuff work closes the session as prehab with light loads.
+Chest, shoulders, triceps, rotator cuff — sequenced from largest muscle group to prehab.
 
 **Chest** ([Pectoralis Major](#pectoralis-major))
 1. [Flat Barbell Bench Press](#flat-barbell-bench-press) (primary compound)
@@ -74,7 +74,7 @@ One exercise is sufficient — face pulls already train external rotation. Use l
 
 ## Pull
 
-The pull split covers the back, traps, biceps, and forearms. Vertical pulling (lats) is programmed first because it is the most demanding upper-back movement and requires grip freshness. Horizontal pulling (mid-back) follows because it trains the rhomboids, mid-traps, and rear delts that vertical pulling underserves. Erector and trap work comes next as accessory posterior chain volume. Biceps and forearms close the session because they receive heavy indirect work from all pulling and fatigue during pulling does not limit these later exercises.
+Lats, mid-back, erectors/traps, biceps, forearms — vertical pulls first while grip is fresh, arms last since they get heavy indirect work from all pulling.
 
 **Lats** ([Latissimus Dorsi](#latissimus-dorsi))
 1. [Weighted Pull-Ups](#weighted-pull-ups) (primary compound)
@@ -109,7 +109,7 @@ Reverse curls cover the pronated grip, complementing hammer curls above. Plate p
 
 ## Legs
 
-The leg split covers the quadriceps, hamstrings, glutes, calves, and adductors. Quad-dominant squatting is programmed first because it is the most systemically demanding movement and requires full neurological freshness. Hip hinge work (hamstrings/glutes) follows because it complements rather than competes with squatting — the primary movers differ despite both being lower-body compounds. Single-leg and isolation work comes next to address imbalances and target specific muscles. Calves and adductors close the session because they are single-joint movements with low fatigue cost. An alternative pairing is [Front Squat](#barbell-front-squat) + [RDL](#romanian-deadlift) — the front squat forces a more upright torso and isolates the quads, while the RDL provides superior hamstring [stretch under load](#stretch-under-load). This suits lifters with long femurs who struggle to stay upright in back squats. The back squat + deadlift pairing is preferred here because both movements are biomechanically favorable for this [anthropometry](#anthropometry), and the hamstring stretch the RDL provides is covered by the Nordics and seated leg curls already programmed.
+Quads, hamstrings/posterior chain, glutes, calves, adductors — squatting first while freshest, single-joint work last. Alternative pairing: [Front Squat](#barbell-front-squat) + [RDL](#romanian-deadlift) for lifters with long femurs. Back squat + deadlift is preferred here because both suit this [anthropometry](#anthropometry).
 
 **Quadriceps** ([Quadriceps](#quadriceps))
 1. [Barbell Back Squat](#barbell-back-squat) (primary compound)
@@ -145,7 +145,7 @@ Copenhagen plank for bodyweight adductor injury prevention; adductor machine for
 
 ## Core
 
-The core split covers the rectus abdominis, obliques, and deep stabilizers. Anti-movement exercises (anti-extension, anti-rotation, anti-lateral-flexion) are prioritized over concentric exercises (crunches, sit-ups) because anti-movement patterns better reflect how the core functions during athletics and heavy lifting. Loaded exercises are programmed first to leverage progressive overload, followed by bodyweight stability work.
+Abs, obliques, deep core — anti-movement exercises prioritized over concentric (crunches, sit-ups). Loaded exercises first, bodyweight stability last.
 
 **Abs** ([Rectus Abdominis](#rectus-abdominis))
 1. [Hanging Leg Raises](#hanging-leg-raises) (primary lift)
