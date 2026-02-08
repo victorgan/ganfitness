@@ -5,3 +5,4 @@
 # Pages
 
 - [lift](lift/)
+- [run](run/)
