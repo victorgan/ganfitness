@@ -12,7 +12,7 @@ Updated February 2026
 - [Upper B](#upper-b) (Vertical Push/Pull)
 - [Lower B](#lower-b) (Hinge Focus)
 
-## [2. Comprehensive Program](#comprehensive-program)
+## [2. Comprehensive Exercise Guide](#comprehensive-exercise-guide)
 
 - [Push](#push) (Chest, Shoulders, Triceps)
 - [Pull](#pull) (Back, Biceps, Forearms)
@@ -69,6 +69,7 @@ Horizontal push/pull focus. Bench press is the priority.
 | 3 | [Cable Lateral Raises](#cable-lateral-raises) | 3 x 12–15 | 90 sec |
 | 4 | [Overhead Tricep Extensions](#overhead-tricep-extensions) | 3 x 10–12 | 90 sec |
 | 5 | [Face Pulls](#face-pulls) | 3 x 15–20 | 60 sec |
+| 6 | [Hanging Leg Raises](#hanging-leg-raises) | 2 x 10–15 | 60 sec |
 
 ## Lower A
 
@@ -93,6 +94,7 @@ Vertical push/pull focus. Military press is the priority.
 | 3 | [Incline Dumbbell Press](#incline-dumbbell-press) | 3 x 8–10 | 2 min |
 | 4 | [Barbell Curls](#barbell-curls) | 3 x 10–12 | 90 sec |
 | 5 | [Cable External Rotations](#cable-external-rotations) | 2 x 15–20 | 60 sec |
+| 6 | [Ab Wheel Rollouts](#ab-wheel-rollouts) | 2 x 8–12 | 60 sec |
 
 ## Lower B
 
@@ -101,16 +103,22 @@ Hinge focus. Deadlift is the priority.
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
 | 1 | [Deadlift](#deadlift) | 4 x 3–5 | 3–4 min |
-| 2 | [Nordic Hamstring Curls](#nordic-hamstring-curls) | 3 x 5–8 | 2 min |
-| 3 | [Cable Hip Abductions](#cable-hip-abductions) | 3 x 12–15 each | 90 sec |
+| 2 | [Nordic Hamstring Curls](#nordic-hamstring-curls) (or assisted negatives) | 3 x 5–8 | 2 min |
+| 3 | [Leg Extensions](#leg-extensions) | 3 x 10–12 | 90 sec |
 | 4 | [Seated Calf Raises](#seated-calf-raises) | 3 x 15–20 | 90 sec |
-| 5 | [Suitcase Carries](#suitcase-carries) | 3 x 40m each side | 90 sec |
+| 5 | [Suitcase Carries](#suitcase-carries) | 3 x 30 sec each side | 90 sec |
 
-# Comprehensive Program
+When you've run this program for 12+ weeks and want to customize, see the [Comprehensive Exercise Guide](#comprehensive-exercise-guide) below.
 
-Exercises are organized into a push/pull/legs/core split and listed in recommended training order within each muscle group. Compounds come before isolation, highest-skill and highest-fatigue exercises come first while you are freshest, and every major muscle group includes a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities. This program is tailored for a long torso / short legs [anthropometry](#anthropometry): short femurs make squatting favorable, but the long torso creates a longer lever arm in all hinged positions (rows, RDLs, deadlifts), which increases lower-back demand. Exercise selection and ordering below reflect this by favoring chest-supported and back-supported variations where possible to manage cumulative erector fatigue.
+# Comprehensive Exercise Guide
 
-For rep ranges: primary compounds (labeled "primary compound") work best in the 3–6 rep range with heavy loads and progressive overload. Moderate compounds and main accessories (labeled "upper chest compound," "unilateral compound," etc.) work best in the 6–12 rep range. Isolation and volume accumulators (labeled "stretch isolation," "volume accumulator," etc.) work best in the 10–20 rep range with focus on mind-muscle connection. Two to four working sets per exercise is sufficient for most people. This document covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
+Exercises are organized into a push/pull/legs/core split and listed in recommended training order. Compounds come before isolation, highest-fatigue exercises come first, and every major muscle group includes a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities.
+
+**Anthropometry:** Tailored for a long torso / short legs [build](#anthropometry). Short femurs favor squatting; the long torso increases lower-back demand in hinged positions (rows, deadlifts). Ordering favors chest-supported and back-supported variations to manage erector fatigue. Adjust for your proportions.
+
+**Rep Ranges:** Primary compounds: 3–6 reps, heavy, progressive overload. Moderate compounds and accessories: 6–12 reps. Isolation and volume accumulators: 10–20 reps, mind-muscle connection. Two to four working sets per exercise.
+
+**Scope:** This guide covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
 
 ## Push
 
@@ -170,7 +178,7 @@ Hyperextensions build the erectors with minimal spinal compression and the best 
 
 Barbell curls for overall mass, incline dumbbell curls for long head [stretch under load](#stretch-under-load) (bicep peak), hammer curls for [brachialis](#brachialis) and [brachioradialis](#brachioradialis) coverage. [Weighted chin-ups](#weighted-chin-ups) removed: duplicates the pull-up pattern already programmed under lats.
 
-**Forearms** ([Brachioradialis](#brachioradialis), [Wrist Flexors](#wrist-flexors))
+**Forearms (optional)** ([Brachioradialis](#brachioradialis), [Wrist Flexors](#wrist-flexors))
 1. [Reverse Barbell Curls](#reverse-barbell-curls) (brachioradialis isolation)
 2. [Plate Pinches](#plate-pinches) (grip strength)
 
