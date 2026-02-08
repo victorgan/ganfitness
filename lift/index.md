@@ -1,9 +1,10 @@
 <meta name="robots" content="noindex, nofollow">
-<meta name="robots" content="noindex, nofollow">
 
 Updated February 2026
 
 # Contents
+
+The **Base Program** prescribes a complete routine. The **Comprehensive Exercise Guide** explains exercise selection for building your own. The remaining sections are reference material.
 
 ## [1. Base Program](#base-program)
 
@@ -46,15 +47,17 @@ Updated February 2026
 
 # Base Program
 
-A 4-day upper/lower split. Do exactly this. Every set, rep, and rest time is specified — don't improvise until you've run this for at least 12 weeks. Sessions take 50–65 minutes.
+A 4-day upper/lower split. Do exactly this. Every set, rep, and rest time is specified — don't improvise until you've run this for at least 12 weeks. Sessions take 50–65 minutes. Exercise selection matters, but not as much as consistency, progressive overload, and eating enough protein (0.7–1 g per pound of bodyweight daily).
 
 **Schedule:** Monday Upper A, Tuesday Lower A, Thursday Upper B, Friday Lower B. Wednesday and weekends are rest days. Don't rearrange — upper and lower days alternate to give each half of the body 48+ hours of recovery.
 
-**Warm-up:** 5 minutes of light cardio (bike, row, or brisk walk), then 2–3 warm-up sets of the first exercise ramping from an empty bar to working weight. Don't stretch cold muscles before lifting.
+**Rest Days:** Light activity is fine — walking, easy cycling, stretching. Don't train the same muscle groups on rest days.
 
-**Progression:** Use double progression. When you hit the top of the rep range on all working sets, add weight next session (5 lb for barbell compounds, 5 lb total for dumbbells, one plate on machines). Drop back to the bottom of the rep range and build up again. If you stall for two consecutive sessions, deload that exercise by 10% and rebuild.
+**Warm-up:** 5 minutes of light cardio (bike, row, or brisk walk), then 2–3 warm-up sets of the first exercise ramping from an empty bar to working weight. Skip static stretching before lifting — it reduces power output. Dynamic warm-ups (leg swings, arm circles, bodyweight squats) are fine after the cardio.
 
-**Tempo:** 2 seconds down, brief pause at the bottom, 1 second up. Control the eccentric. No bouncing.
+**Progression:** Use double progression. When you hit the top of the rep range on all working sets, add weight next session (5 lb for barbell compounds, 5 lb total for dumbbells, one plate on machines). Drop back to the bottom of the rep range and build up again. If you stall for two consecutive sessions, deload that exercise by 10% and rebuild. Every 5th week, take a deload week: same exercises and reps, but reduce all weights by 40–50%.
+
+**Tempo:** 2 seconds down, brief pause at the bottom, 1 second up. Control the eccentric. No bouncing. Exception: deadlifts start from the floor — pull explosively, lower under control, and reset between reps.
 
 **Failure:** Stop 1–2 reps short of failure on compounds. Take isolation exercises closer to failure.
 
@@ -69,7 +72,7 @@ Horizontal push/pull focus. Bench press is the priority.
 | 3 | [Cable Lateral Raises](#cable-lateral-raises) | 3 x 12–15 | 90 sec |
 | 4 | [Overhead Tricep Extensions](#overhead-tricep-extensions) | 3 x 10–12 | 90 sec |
 | 5 | [Face Pulls](#face-pulls) | 3 x 15–20 | 60 sec |
-| 6 | [Hanging Leg Raises](#hanging-leg-raises) | 2 x 10–15 | 60 sec |
+| 6 | [Weighted Cable Crunches](#weighted-cable-crunches) | 2 x 12–15 | 60 sec |
 
 ## Lower A
 
@@ -98,7 +101,7 @@ Vertical push/pull focus. Military press is the priority.
 
 ## Lower B
 
-Hinge focus. Deadlift is the priority.
+Hinge focus. Deadlift is the priority. Leg extensions are here for quad frequency (quads otherwise only get trained on Lower A).
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
@@ -108,15 +111,13 @@ Hinge focus. Deadlift is the priority.
 | 4 | [Seated Calf Raises](#seated-calf-raises) | 3 x 15–20 | 90 sec |
 | 5 | [Suitcase Carries](#suitcase-carries) | 3 x 30 sec each side | 90 sec |
 
-When you've run this program for 12+ weeks and want to customize, see the [Comprehensive Exercise Guide](#comprehensive-exercise-guide) below.
+When you've run this program for 12+ weeks — you're stalling on multiple exercises after deloads, or your goals shift toward targeted hypertrophy — see the [Comprehensive Exercise Guide](#comprehensive-exercise-guide) below to build your own program.
 
 # Comprehensive Exercise Guide
 
 Exercises are organized into a push/pull/legs/core split and listed in recommended training order. Compounds come before isolation, highest-fatigue exercises come first, and every major muscle group includes a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities.
 
-**Rep Ranges:** Primary compounds: 3–6 reps, heavy, progressive overload. Moderate compounds and accessories: 6–12 reps. Isolation and volume accumulators: 10–20 reps, mind-muscle connection. Two to four working sets per exercise.
-
-**Scope:** This guide covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
+**Rep Ranges:** Primary compounds: 3–6 reps, heavy, progressive overload. Moderate compounds and accessories: 6–12 reps. Isolation and volume accumulators: 10–20 reps, mind-muscle connection. Two to four working sets per exercise. This guide covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
 
 ## Push
 
@@ -176,7 +177,7 @@ Hyperextensions build the erectors with minimal spinal compression and the best 
 
 Barbell curls for overall mass, incline dumbbell curls for long head [stretch under load](#stretch-under-load) (bicep peak), hammer curls for [brachialis](#brachialis) and [brachioradialis](#brachioradialis) coverage. [Weighted chin-ups](#weighted-chin-ups) removed: duplicates the pull-up pattern already programmed under lats.
 
-**Forearms (optional)** ([Brachioradialis](#brachioradialis), [Wrist Flexors](#wrist-flexors))
+**Forearms** ([Brachioradialis](#brachioradialis), [Wrist Flexors](#wrist-flexors))
 1. [Reverse Barbell Curls](#reverse-barbell-curls) (brachioradialis isolation)
 2. [Plate Pinches](#plate-pinches) (grip strength)
 
@@ -198,7 +199,7 @@ Back squat first (highest [loadability](#loadability) and [fatigue cost](#fatigu
 2. [Nordic Hamstring Curls](#nordic-hamstring-curls) (eccentric / injury prevention)
 3. [Seated Leg Curls](#seated-leg-curls) (knee flexion isolation)
 
-Conventional deadlift opens as the heaviest posterior chain movement — see [anthropometry](#anthropometry) for choosing between conventional and [RDL](#romanian-deadlift). Nordics follow for eccentric hamstring injury prevention. Seated leg curls close by covering knee flexion, which the deadlift doesn't train — ensuring [muscle architecture](#muscle-architecture) coverage across both joints the hamstrings cross. [RDL](#romanian-deadlift) removed: its hamstring stretch is covered by Nordics and seated leg curls.
+Conventional deadlift opens as the heaviest posterior chain movement — see [anthropometry](#anthropometry) for choosing between conventional and [RDL](#romanian-deadlift). Nordics follow for eccentric hamstring injury prevention. Seated leg curls close by covering knee flexion, which the deadlift doesn't train — ensuring [muscle architecture](#muscle-architecture) coverage across both joints the hamstrings cross. [RDL](#romanian-deadlift) removed: the deadlift already covers the hip extension pattern, and Nordics plus seated leg curls handle knee flexion.
 
 **Glutes** ([Gluteus Maximus](#gluteus-maximus), [Gluteus Medius](#gluteus-medius))
 1. [Barbell Hip Thrusts](#barbell-hip-thrusts) (primary compound)
@@ -240,6 +241,8 @@ Suitcase carries for anti-lateral-flexion under heavy load; cable woodchoppers f
 
 The only exercise that directly isolates the transversus abdominis. [Planks](#planks) removed: the TVA and deep stabilizers are already trained by ab wheel rollouts, suitcase carries, and every heavy compound. [Quadratus lumborum](#quadratus-lumborum) is covered by suitcase carries above.
 
+Each exercise linked above has a full description, cues, and comparisons in the reference sections below.
+
 # Weightlifting Exercises
 
 ## Push Exercises
@@ -257,6 +260,10 @@ Set a bench to 30-45 degrees and press dumbbells from shoulder level to lockout.
 #### Cable Crossovers
 
 Stand between two cable stations with pulleys set high and bring the handles together in a hugging arc in front of your chest. Targets the chest with constant tension through the full range and a deep [stretch under load](#stretch-under-load) at the bottom where pressing movements lose tension. Superior [resistance profile](#resistance-profile) to free-weight fly variations, with excellent [mind-muscle connection](#mind-muscle-connection) and low [joint stress](#joint-stress). Choose this over pressing movements when isolation, stretch, and feel are the priority; use pressing for heavy overload.
+
+#### Dumbbell Flyes
+
+Lie on a flat or incline bench holding dumbbells above your chest, then lower them in a wide arc with a slight elbow bend until you feel a deep chest stretch, and reverse. Targets the chest through a fly pattern with good [stretch under load](#stretch-under-load) at the bottom. Lower [loadability](#loadability) than [Cable Crossovers](#cable-crossovers) and higher [joint stress](#joint-stress) on the shoulder joint at the bottom of the rep, since free weights provide no tension management at end range. Choose this over [Cable Crossovers](#cable-crossovers) when cables are unavailable; choose Cable Crossovers for superior tension and lower joint risk.
 
 #### Dips (Chest Emphasis)
 
@@ -390,6 +397,8 @@ Pinch two or more weight plates together smooth-side-out and hold for time. Buil
 
 ### Explosive Pull
 
+Explosive movements are technique-driven and best learned with a coach. Only foundational movements are listed.
+
 #### Power Cleans
 
 Pull a barbell explosively from the floor to the front rack position by extending the hips, knees, and ankles in sequence and catching the bar on the shoulders. Develops posterior chain power, rate of force development, and full-body coordination — the most transferable barbell exercise to athletic performance. High [skill and technique requirements](#skill-and-technique-requirements) demand coached practice; the concentric-dominant [contraction type](#contraction-type-emphasis) builds power but provides less hypertrophy stimulus per rep than slower lifts. Choose this over [Deadlift](#deadlift) when explosive power and athleticism are the priority; choose Deadlift when maximum strength and loading are the goal.
@@ -485,6 +494,8 @@ Lie on your side with your top leg on a bench and your bottom leg hanging free, 
 Sit in the adductor machine with pads against your inner thighs and squeeze your legs together. Directly isolates the adductor muscle group with excellent [mind-muscle connection](#mind-muscle-connection). Excellent [loadability](#loadability) with fine increments, minimal [fatigue cost](#fatigue-cost), and low [stability demands](#stability-demands) for easy volume accumulation. Choose this over [Sumo Squats](#sumo-squats) when direct adductor isolation and progressive overload are the priority; choose Sumo Squats for compound inner thigh work.
 
 ### Explosive Leg
+
+Explosive movements are technique-driven and best learned with a coach. Only foundational movements are listed.
 
 #### Box Jumps
 
@@ -829,7 +840,7 @@ Muscles adapt to repeated bouts of the same exercise, and introducing novel stim
 
 ### Redundancy and Overlap
 
-Each exercise trains multiple muscles to varying degrees. When selecting exercises for a program, map out which muscles each exercise hits to avoid redundancy (too much overlap leading to excessive volume for one muscle) or gaps (a muscle receiving insufficient stimulus). Example of redundancy: [barbell rows](#barbell-rows), [chest-supported T-bar rows](#chest-supported-t-bar-rows), and [seated cable rows](#seated-cable-rows) in the same program all hit similar muscles in similar ways; replace one with a vertical pull like [weighted pull-ups](#weighted-pull-ups) or [wide-grip lat pulldowns](#wide-grip-lat-pulldowns). Example of a gap: a program with only [flat barbell bench press](#flat-barbell-bench-press) and [military press](#military-press) for pushing but no isolation for the [lateral deltoid](#lateral-deltoid), which is barely involved in either compound. Refer to the [Comprehensive Program](#comprehensive-program) tables to audit coverage.
+Each exercise trains multiple muscles to varying degrees. When selecting exercises for a program, map out which muscles each exercise hits to avoid redundancy (too much overlap leading to excessive volume for one muscle) or gaps (a muscle receiving insufficient stimulus). Example of redundancy: [barbell rows](#barbell-rows), [chest-supported T-bar rows](#chest-supported-t-bar-rows), and [seated cable rows](#seated-cable-rows) in the same program all hit similar muscles in similar ways; replace one with a vertical pull like [weighted pull-ups](#weighted-pull-ups) or [wide-grip lat pulldowns](#wide-grip-lat-pulldowns). Example of a gap: a program with only [flat barbell bench press](#flat-barbell-bench-press) and [military press](#military-press) for pushing but no isolation for the [lateral deltoid](#lateral-deltoid), which is barely involved in either compound. Refer to the [Comprehensive Exercise Guide](#comprehensive-exercise-guide) tables to audit coverage.
 
 ### Recovery Compatibility
 
