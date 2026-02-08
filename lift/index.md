@@ -12,7 +12,7 @@ Updated February 2026
 - [Upper B](#upper-b) (Vertical Push/Pull)
 - [Lower B](#lower-b) (Hinge Focus)
 
-## [2. Recommended Program](#recommended-program)
+## [2. Comprehensive Program](#comprehensive-program)
 
 - [Push](#push) (Chest, Shoulders, Triceps)
 - [Pull](#pull) (Back, Biceps, Forearms)
@@ -106,7 +106,7 @@ Hinge focus. Deadlift is the priority — do it first and fresh.
 | 4 | [Seated Calf Raises](#seated-calf-raises) | 3 x 15–20 | 90 sec |
 | 5 | [Suitcase Carries](#suitcase-carries) | 3 x 40m each side | 90 sec |
 
-# Recommended Program
+# Comprehensive Program
 
 Exercises are organized into a push/pull/legs/core split and listed in recommended training order within each muscle group. Compounds come before isolation, highest-skill and highest-fatigue exercises come first while you are freshest, and every major muscle group includes a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities. This program is tailored for a long torso / short legs [anthropometry](#anthropometry): short femurs make squatting favorable, but the long torso creates a longer lever arm in all hinged positions (rows, RDLs, deadlifts), which increases lower-back demand. Exercise selection and ordering below reflect this by favoring chest-supported and back-supported variations where possible to manage cumulative erector fatigue.
 
@@ -823,7 +823,7 @@ Muscles adapt to repeated bouts of the same exercise, and introducing novel stim
 
 ### Redundancy and Overlap
 
-Each exercise trains multiple muscles to varying degrees. When selecting exercises for a program, map out which muscles each exercise hits to avoid redundancy (too much overlap leading to excessive volume for one muscle) or gaps (a muscle receiving insufficient stimulus). Example of redundancy: [barbell rows](#barbell-rows), [chest-supported T-bar rows](#chest-supported-t-bar-rows), and [seated cable rows](#seated-cable-rows) in the same program all hit similar muscles in similar ways; replace one with a vertical pull like [weighted pull-ups](#weighted-pull-ups) or [wide-grip lat pulldowns](#wide-grip-lat-pulldowns). Example of a gap: a program with only [flat barbell bench press](#flat-barbell-bench-press) and [military press](#military-press) for pushing but no isolation for the [lateral deltoid](#lateral-deltoid), which is barely involved in either compound. Refer to the [Recommended Program](#recommended-program) tables to audit coverage.
+Each exercise trains multiple muscles to varying degrees. When selecting exercises for a program, map out which muscles each exercise hits to avoid redundancy (too much overlap leading to excessive volume for one muscle) or gaps (a muscle receiving insufficient stimulus). Example of redundancy: [barbell rows](#barbell-rows), [chest-supported T-bar rows](#chest-supported-t-bar-rows), and [seated cable rows](#seated-cable-rows) in the same program all hit similar muscles in similar ways; replace one with a vertical pull like [weighted pull-ups](#weighted-pull-ups) or [wide-grip lat pulldowns](#wide-grip-lat-pulldowns). Example of a gap: a program with only [flat barbell bench press](#flat-barbell-bench-press) and [military press](#military-press) for pushing but no isolation for the [lateral deltoid](#lateral-deltoid), which is barely involved in either compound. Refer to the [Comprehensive Program](#comprehensive-program) tables to audit coverage.
 
 ### Recovery Compatibility
 
