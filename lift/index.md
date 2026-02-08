@@ -60,6 +60,8 @@ A 4-day upper/lower split. Do exactly this. Every set, rep, and rest time is spe
 
 **Failure:** Stop 1–2 reps short of failure on compounds. Take isolation exercises closer to failure.
 
+**Bracing:** Before every rep of squats, deadlifts, and overhead press: big breath into your belly (not your chest), brace your abs like you're about to get punched, and hold it through the rep. Exhale at the top. This is a Valsalva maneuver — it creates intra-abdominal pressure that protects your spine under load.
+
 ## Upper A
 
 Horizontal push/pull focus. Bench press is the priority.
