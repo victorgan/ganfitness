@@ -116,7 +116,7 @@ When you've run this program for 12+ weeks — you're stalling on multiple exerc
 
 # Comprehensive Exercise Guide
 
-Exercises are organized into a push/pull/legs/core split and listed in recommended training order. Compounds come before isolation, highest-fatigue exercises come first, and every major muscle group includes a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities.
+Exercises are organized into a push/pull/legs/core split and listed in recommended training order. Compounds come before isolation, highest-fatigue exercises come first, and most major muscle groups include a stretch-biased movement. Not all exercises need to be done in a single session — select based on time, recovery, and priorities.
 
 **Rep Ranges:** Primary compounds: 3–6 reps, heavy, progressive overload. Moderate compounds and accessories: 6–12 reps. Isolation and volume accumulators: 10–20 reps, mind-muscle connection. Two to four working sets per exercise. This guide covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
 
@@ -129,7 +129,7 @@ Chest, shoulders, triceps, rotator cuff — sequenced from largest muscle group 
 2. [Incline Dumbbell Press](#incline-dumbbell-press) (upper chest compound)
 3. [Cable Crossovers](#cable-crossovers) (stretch isolation)
 
-Sequenced from highest to lowest [fatigue cost](#fatigue-cost), covering all three pec fiber regions (sternal, clavicular, costal) across three implements (barbell, dumbbell, cable). Crossovers provide the [stretch under load](#stretch-under-load) that pressing cannot. Dumbbell flyes removed: they duplicate the crossover's function with higher [joint stress](#joint-stress).
+Sequenced from highest to lowest [fatigue cost](#fatigue-cost), covering all three pec fiber regions (sternal, clavicular, costal) across three implements (barbell, dumbbell, cable). Crossovers provide the [stretch under load](#stretch-under-load) that pressing cannot. [Dumbbell flyes](#dumbbell-flyes) removed: they duplicate the crossover's function with higher [joint stress](#joint-stress).
 
 **Shoulders** ([Anterior Deltoid](#anterior-deltoid), [Lateral Deltoid](#lateral-deltoid), [Posterior Deltoid](#posterior-deltoid))
 1. [Military Press](#military-press) (primary compound)
@@ -206,7 +206,7 @@ Conventional deadlift opens as the heaviest posterior chain movement — see [an
 1. [Barbell Hip Thrusts](#barbell-hip-thrusts) (primary compound)
 2. [Cable Hip Abductions](#cable-hip-abductions) (medius isolation)
 
-Hip thrusts for peak glute loading at full extension; cable hip abductions isolate the [gluteus medius](#gluteus-medius) for hip stability and ACL injury prevention. [Walking lunges](#walking-lunges) and [single-leg RDLs](#single-leg-romanian-deadlift) removed: Bulgarian split squats (under quads) already provide unilateral glute stimulus, and adding more creates [redundancy](#redundancy-and-overlap).
+Hip thrusts for peak glute loading at full extension; cable hip abductions isolate the [gluteus medius](#gluteus-medius) for hip stability and ACL injury prevention. Glute max stretch comes from deep squats and RDLs programmed under Quads and Hamstrings above. [Walking lunges](#walking-lunges) and [single-leg RDLs](#single-leg-romanian-deadlift) removed: Bulgarian split squats (under quads) already provide unilateral glute stimulus, and adding more creates [redundancy](#redundancy-and-overlap).
 
 **Calves** ([Gastrocnemius](#gastrocnemius), [Soleus](#soleus))
 1. [Standing Calf Raises](#standing-calf-raises) (gastrocnemius)
@@ -500,7 +500,7 @@ Explosive movements are technique-driven and best learned with a coach. Only fou
 
 #### Box Jumps
 
-Stand facing a plyo box, dip into a quarter squat, and explode upward to land on the box with both feet, then step down. Develops lower body power, rate of force development, and the stretch-shortening cycle in the quads, glutes, and calves. Minimal [equipment availability](#equipment-availability) requirements and low [fatigue cost](#fatigue-cost) when step-downs are used; the concentric-dominant [contraction type](#contraction-type-emphasis) builds explosiveness with minimal muscle damage. Choose this over [Barbell Back Squat](#barbell-back-squat) when power output and athleticism are the priority; choose Back Squat when maximum strength and hypertrophy are the goal.
+Stand facing a plyo box, dip into a quarter squat, and explode upward to land on the box with both feet, then step down (don't jump down — stepping reduces eccentric joint stress). Develops lower body power, rate of force development, and the stretch-shortening cycle in the quads, glutes, and calves. Minimal [equipment availability](#equipment-availability) requirements and low [fatigue cost](#fatigue-cost) when stepping down; the concentric-dominant [contraction type](#contraction-type-emphasis) builds explosiveness with minimal muscle damage. Choose this over [Barbell Back Squat](#barbell-back-squat) when power output and athleticism are the priority; choose Back Squat when maximum strength and hypertrophy are the goal.
 
 ## Core Exercises
 
