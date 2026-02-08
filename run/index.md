@@ -1,9 +1,10 @@
 <meta name="robots" content="noindex, nofollow">
-<meta name="robots" content="noindex, nofollow">
 
 Updated February 2026
 
 # Contents
+
+The **Recommended Program** prescribes a complete training week. The remaining sections are reference material for workout selection.
 
 ## [1. Recommended Program](#recommended-program)
 
@@ -34,9 +35,8 @@ Updated February 2026
 - [Practical Factors](#practical-factors) (Fatigue Cost, Injury Risk, Conditions, Equipment)
 - [Programming Context](#programming-context) (Periodization, Recovery, Race Proximity)
 - [Individual Factors](#individual-factors) (Anthropometry, Injury History, Training Age, Goals)
-- [Quick Reference: Workout Selection Checklist](#quick-reference-workout-selection-checklist)
 
-[5. Change Log](#change-log)
+## [5. Change Log](#change-log)
 
 # Recommended Program
 
@@ -274,6 +274,26 @@ Ventilation (liters of air per minute) increases linearly with exercise intensit
 
 There is no universally best workout. The best workout for a given training goal depends on the stimulus it provides, how it fits into the weekly and seasonal plan, and the individual performing it. The factors below serve as evaluation criteria for choosing and modifying workouts.
 
+| Category | Factor | Key Question |
+| :--- | :--- | :--- |
+| [Stimulus Quality](#stimulus-quality) | [Specificity](#specificity) | Does this workout simulate the demands of my goal race? |
+| [Stimulus Quality](#stimulus-quality) | [Time at Target Intensity](#time-at-target-intensity) | How much time does this workout spend in the intended physiological zone? |
+| [Stimulus Quality](#stimulus-quality) | [Aerobic Contribution](#aerobic-contribution) | What percentage of the stimulus develops the aerobic system? |
+| [Workout Structure](#workout-structure) | [Continuous vs. Interval](#continuous-vs-interval) | Does the format match the goal — sustained tolerance or accumulated intensity? |
+| [Workout Structure](#workout-structure) | [Volume vs. Intensity](#volume-vs-intensity) | Am I maintaining the 80/20 balance across the week? |
+| [Workout Structure](#workout-structure) | [Terrain](#terrain) | Does the surface match my goals and manage impact appropriately? |
+| [Practical Factors](#practical-factors) | [Fatigue Cost](#fatigue-cost) | How many recovery days does this workout require? |
+| [Practical Factors](#practical-factors) | [Injury Risk](#injury-risk) | Does this workout's speed, surface, and duration match my durability? |
+| [Practical Factors](#practical-factors) | [Weather and Conditions](#weather-and-conditions) | Have I adjusted pace and expectations for conditions? |
+| [Practical Factors](#practical-factors) | [Equipment and Location](#equipment-and-location) | Can I execute this workout consistently with available resources? |
+| [Programming Context](#programming-context) | [Periodization Phase](#periodization-phase) | Does this workout match my current training phase? |
+| [Programming Context](#programming-context) | [Recovery Compatibility](#recovery-compatibility) | Does this workout fit within this week's total stress budget? |
+| [Programming Context](#programming-context) | [Race Proximity](#race-proximity) | Is this workout appropriate for how far out I am from my goal race? |
+| [Individual Factors](#individual-factors) | [Anthropometry](#anthropometry) | Does this workout account for my body weight, torso length, and calf mass? |
+| [Individual Factors](#individual-factors) | [Injury History](#injury-history) | Can I perform this workout without aggravating a previous injury? |
+| [Individual Factors](#individual-factors) | [Training Age](#training-age) | Is this workout appropriate for my years of running experience? |
+| [Individual Factors](#individual-factors) | [Goals](#goals) | Does this workout align with my primary race goal? |
+
 ## Stimulus Quality
 
 These factors determine how effectively a workout drives the intended physiological adaptation.
@@ -362,26 +382,6 @@ Years of consistent running determine how much volume and intensity the body can
 
 The goal race determines the training emphasis. **Sub-1:35 half marathon** (next target): emphasize [threshold work](#threshold-workouts) — the half marathon is a threshold race. Tempo runs and cruise intervals are the priority quality sessions, supplemented by weekly [VO2max intervals](#vo2max-intervals) to raise the ceiling. **Sub-1:30 half marathon** (stretch goal): requires both threshold improvement and VO2max development, plus improved [running economy](#running-economy) through strides, speed work, and higher overall mileage. **Marathon** (if attempted): shift to higher volume (55–65 miles/week), longer long runs (18–20 miles), and marathon-pace work; threshold and VO2max work remain but long run becomes the centerpiece. **5K/10K racing**: shift to more interval work, less threshold volume, shorter long runs; develop top-end speed. **General fitness**: maintain 30–40 miles/week with one quality session and one long run; minimize injury risk and prioritize consistency over performance.
 
-## Quick Reference: Workout Selection Checklist
-
-| Category | Factor | Key Question |
-| :--- | :--- | :--- |
-| Stimulus Quality | Specificity | Does this workout simulate the demands of my goal race? |
-| Stimulus Quality | Time at Target Intensity | How much time does this workout spend in the intended physiological zone? |
-| Stimulus Quality | Aerobic Contribution | What percentage of the stimulus develops the aerobic system? |
-| Workout Structure | Continuous vs. Interval | Does the format match the goal — sustained tolerance or accumulated intensity? |
-| Workout Structure | Volume vs. Intensity | Am I maintaining the 80/20 balance across the week? |
-| Workout Structure | Terrain | Does the surface match my goals and manage impact appropriately? |
-| Practical | Fatigue Cost | How many recovery days does this workout require? |
-| Practical | Injury Risk | Does this workout's speed, surface, and duration match my durability? |
-| Practical | Weather and Conditions | Have I adjusted pace and expectations for conditions? |
-| Practical | Equipment and Location | Can I execute this workout consistently with available resources? |
-| Programming | Periodization Phase | Does this workout match my current training phase? |
-| Programming | Recovery Compatibility | Does this workout fit within this week's total stress budget? |
-| Programming | Race Proximity | Is this workout appropriate for how far out I am from my goal race? |
-| Individual | Anthropometry | Does this workout account for my body weight, torso length, and calf mass? |
-| Individual | Injury History | Can I perform this workout without aggravating a previous injury? |
-| Individual | Training Age | Is this workout appropriate for my years of running experience? |
-| Individual | Goals | Does this workout align with my primary race goal? |
-
 # Change Log
+
+- 2026-02-07: Start
