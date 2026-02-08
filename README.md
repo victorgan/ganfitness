@@ -32,10 +32,10 @@ Updated February 2026
 
 | Priority | Body Part | **1. Primary Compound** (Heavy Load) | **2. Assistance** (Volume) | **3. Isolation** (Pump/Stretch) |
 | :--- | :--- | :--- | :--- | :--- |
-| **#1** | **[[Chest Muscles (Weightlifting)]]** | **[[Flat Barbell Bench Press (Weightlifting)]]** | **[[Incline Dumbbell Press (Weightlifting)]]** | **[[Cable Crossovers (Weightlifting)]]** |
-| **#2** | **[[Shoulder Muscles (Weightlifting)]]** | **[[Military Press (Weightlifting)]]** | **[[Seated Dumbbell Overhead Press (Weightlifting)]]** | **[[Cable Lateral Raises (Weightlifting)]]** |
-| **#3** | **[[Triceps Brachii (Weightlifting)]]** | **[[Close-Grip Bench Press (Weightlifting)]]** | **[[Skullcrushers (Weightlifting)]]** | **[[Tricep Rope Pushdowns (Weightlifting)]]** |
-| **#4** | **[[Rotator Cuff (Weightlifting)]]** | *N/A (Too fragile for heavy load)* | **[[Face Pulls (Weightlifting)]]** | **[[Cable External Rotations (Weightlifting)]]** |
+| **#1** | **[Chest Muscles](#pectoralis-major)** | **[Flat Barbell Bench Press](#flat-barbell-bench-press)** | **[Incline Dumbbell Press](#incline-dumbbell-press)** | **[Cable Crossovers](#cable-crossovers)** |
+| **#2** | **[Shoulder Muscles](#anterior-deltoid)** | **[Military Press](#military-press)** | **[Seated Dumbbell Overhead Press](#seated-dumbbell-overhead-press)** | **[Cable Lateral Raises](#cable-lateral-raises)** |
+| **#3** | **[Triceps Brachii](#triceps-brachii)** | **[Close-Grip Bench Press](#close-grip-bench-press)** | **[Skullcrushers](#skullcrushers)** | **[Tricep Rope Pushdowns](#tricep-rope-pushdowns)** |
+| **#4** | **[Rotator Cuff](#supraspinatus)** | *N/A (Too fragile for heavy load)* | **[Face Pulls](#face-pulls)** | **[Cable External Rotations](#cable-external-rotations)** |
 
 ### 2. The Pull Complex (Back, Erectors, Biceps)
 *Goal: Posterior Pulling Muscles.*
@@ -44,12 +44,12 @@ Updated February 2026
 
 | Priority | Body Part | **1. Primary Compound** (Heavy Load) | **2. Assistance** (Volume) | **3. Isolation** (Pump/Stretch) |
 | :--- | :--- | :--- | :--- | :--- |
-| **#1** | **[[Latissimus Dorsi (Weightlifting)]]** | **[[Weighted Pull-Ups (Weightlifting)]]** | **[[Wide-Grip Lat Pulldowns (Weightlifting)]]** | **[[Straight-Arm Pulldowns (Weightlifting)]]** |
-| **#2** | **[[Mid-Back (Weightlifting)]]** | **[[Barbell Rows (Weightlifting)]]** | **[[Chest-Supported T-Bar Rows (Weightlifting)]]** | **[[Seated Cable Rows (Weightlifting)]]** |
-| **#3** | **[[Erector Spinae (Weightlifting)]]** | **[[Rack Pulls (Weightlifting)]]** | **[[Good Mornings (Weightlifting)]]** | **[[Weighted Hyperextensions (Weightlifting)]]** |
-| **#4** | **[[Trapezius (Weightlifting)]]** | **[[Farmer's Walks (Weightlifting)]]** | **[[Barbell Shrugs (Weightlifting)]]** | **[[Kelso Shrugs (Weightlifting)]]** |
-| **#5** | **[[Biceps Brachii (Weightlifting)]]** | **[[Weighted Chin-Ups (Weightlifting)]]** | **[[Barbell Curls (Weightlifting)]]** | **[[Incline Dumbbell Curls (Weightlifting)]]** |
-| **#6** | **[[Forearm Muscles (Weightlifting)]]** | **[[Reverse Barbell Curls (Weightlifting)]]** | **[[Barbell Wrist Curls (Weightlifting)]]** | **[[Plate Pinches (Weightlifting)]]** |
+| **#1** | **[Latissimus Dorsi](#latissimus-dorsi)** | **[Weighted Pull-Ups](#weighted-pull-ups)** | **[Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns)** | **[Straight-Arm Pulldowns](#straight-arm-pulldowns)** |
+| **#2** | **[Mid-Back](#rhomboids)** | **[Barbell Rows](#barbell-rows)** | **[Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows)** | **[Seated Cable Rows](#seated-cable-rows)** |
+| **#3** | **[Erector Spinae](#erector-spinae)** | **[Rack Pulls](#rack-pulls)** | **[Good Mornings](#good-mornings)** | **[Weighted Hyperextensions](#weighted-hyperextensions)** |
+| **#4** | **[Trapezius](#trapezius)** | **[Farmer's Walks](#farmers-walks)** | **[Barbell Shrugs](#barbell-shrugs)** | **[Kelso Shrugs](#kelso-shrugs)** |
+| **#5** | **[Biceps Brachii](#biceps-brachii)** | **[Weighted Chin-Ups](#weighted-chin-ups)** | **[Barbell Curls](#barbell-curls)** | **[Incline Dumbbell Curls](#incline-dumbbell-curls)** |
+| **#6** | **[Forearm Muscles](#brachioradialis)** | **[Reverse Barbell Curls](#reverse-barbell-curls)** | **[Barbell Wrist Curls](#barbell-wrist-curls)** | **[Plate Pinches](#plate-pinches)** |
 
 ### 3. The Leg Complex (Quads, Hams, Glutes, Calves)
 *Goal: Lower Body Locomotion & Stability.*
@@ -58,20 +58,20 @@ Updated February 2026
 
 | Priority | Body Part                           | **1. Primary Compound** (Heavy Load)        | **2. Assistance** (Volume)                     | **3. Isolation** (Pump/Stretch)              |
 | :------- | :---------------------------------- | :------------------------------------------ | :--------------------------------------------- | :------------------------------------------- |
-| **#1**   | **[[Quadriceps (Weightlifting)]]**  | **[[Barbell Front Squat (Weightlifting)]]** | **[[Bulgarian Split Squats (Weightlifting)]]** | **[[Leg Extensions (Weightlifting)]]**       |
-| **#2**   | **[[Hamstrings (Weightlifting)]]**  | **[[Deadlift (Weightlifting)]]**            | **[[Romanian Deadlift (Weightlifting)]]**      | **[[Seated Leg Curls (Weightlifting)]]**     |
-| **#3**   | **[[Glutes (Weightlifting)]]**      | **[[Barbell Hip Thrusts (Weightlifting)]]** | **[[Walking Lunges (Weightlifting)]]**         | **[[Cable Hip Abductions (Weightlifting)]]** |
-| **#4**   | **[[Calves (Weightlifting)]]**      | **[[Donkey Calf Raises (Weightlifting)]]**  | **[[Standing Calf Raises (Weightlifting)]]**   | **[[Seated Calf Raises (Weightlifting)]]**   |
-| **#5**   | **[[Inner Thigh (Weightlifting)]]** | **[[Sumo Squats (Weightlifting)]]**         | **[[Copenhagen Plank (Weightlifting)]]**       | **[[Adductor Machine (Weightlifting)]]**     |
+| **#1**   | **[Quadriceps](#quadriceps)**  | **[Barbell Front Squat](#barbell-front-squat)** | **[Bulgarian Split Squats](#bulgarian-split-squats)** | **[Leg Extensions](#leg-extensions)**       |
+| **#2**   | **[Hamstrings](#hamstrings)**  | **[Deadlift](#deadlift)**            | **[Romanian Deadlift](#romanian-deadlift)**      | **[Seated Leg Curls](#seated-leg-curls)**     |
+| **#3**   | **[Glutes](#gluteus-maximus)**      | **[Barbell Hip Thrusts](#barbell-hip-thrusts)** | **[Walking Lunges](#walking-lunges)**         | **[Cable Hip Abductions](#cable-hip-abductions)** |
+| **#4**   | **[Calves](#gastrocnemius)**      | **[Donkey Calf Raises](#donkey-calf-raises)**  | **[Standing Calf Raises](#standing-calf-raises)**   | **[Seated Calf Raises](#seated-calf-raises)**   |
+| **#5**   | **[Inner Thigh](#adductors)**| **[Sumo Squats](#sumo-squats)**         | **[Copenhagen Plank](#copenhagen-plank)**       | **[Adductor Machine](#adductor-machine)**     |
 
 ### 4. The Core Complex (Abs & Stability)
 *Goal: Trunk Rigidity and Rotation.*
 
 | Priority | Body Part                                | **1. Weighted Strength** (Loadable)        | **2. Dynamic Rotation** (Function)              | **3. Static Stability** (Endurance) |
 | :------- | :--------------------------------------- | :----------------------------------------- | :---------------------------------------------- | :---------------------------------- |
-| **#1**   | **[[Rectus Abdominis (Weightlifting)]]** | **[[Hanging Leg Raises (Weightlifting)]]** | **[[Weighted Cable Crunches (Weightlifting)]]** | **[[Dead Bugs (Weightlifting)]]**   |
-| **#2**   | **[[Obliques (Weightlifting)]]**         | **[[Suitcase Carries (Weightlifting)]]**   | **[[Cable Woodchoppers (Weightlifting)]]**      | **[[Side Planks (Weightlifting)]]** |
-| **#3**   | **[[Deep Core (Weightlifting)]]**        | **[[Ab Wheel Rollouts (Weightlifting)]]**  | **[[Stomach Vacuums (Weightlifting)]]**         | **[[Planks (Weightlifting)]]**      |
+| **#1**   | **[Rectus Abdominis](#rectus-abdominis)** | **[Hanging Leg Raises](#hanging-leg-raises)** | **[Weighted Cable Crunches](#weighted-cable-crunches)** | **[Dead Bugs](#dead-bugs)**   |
+| **#2**   | **[Obliques](#external-obliques)**         | **[Suitcase Carries](#suitcase-carries)**   | **[Cable Woodchoppers](#cable-woodchoppers)**      | **[Side Planks](#side-planks)** |
+| **#3**   | **[Deep Core](#transversus-abdominis)**        | **[Ab Wheel Rollouts](#ab-wheel-rollouts)**  | **[Stomach Vacuums](#stomach-vacuums)**         | **[Planks](#planks)**      |
 # Weightlifting Exercises
 
 ## Push Exercises
