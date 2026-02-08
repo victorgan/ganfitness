@@ -23,8 +23,8 @@ Updated February 2026
 
 - [Torso](#torso) (Chest, Back, Shoulder)
 - [Arms](#arms) (Upper Arm, Forearm)
-- [Core](#core) (Abs, Obliques, Transverse)
 - [Legs](#legs) (Glutes, Upper Leg, Lower Leg)
+- [Core](#core) (Abs, Obliques, Transverse)
 
 ## [Factors for Exercise Selection](#factors-for-exercise-selection)
 
@@ -488,42 +488,6 @@ The flexor digitorum superficialis (closer to the surface) and flexor digitorum 
 
 The extensor digitorum on the back of the forearm extends all four fingers. Important for hand balance and preventing overuse injuries from gripping. Trained by rubber band extensions or reverse grip exercises. Often neglected relative to the flexors.
 
-## Core
-
-### Abs
-
-#### Rectus Abdominis
-
-The "six-pack" muscle running vertically from the pubic bone to the ribcage, divided by tendinous intersections. Flexes the spine (crunching motion) and resists extension. The upper portion is hit more by crunches; the lower portion is hit more by leg raises. One continuous muscle, not truly separate upper and lower sections, but different exercises shift the bias.
-
-### Obliques
-
-#### External Obliques
-
-The outermost oblique muscles, running diagonally downward from the lower ribs to the pelvis and linea alba. Rotate the torso to the opposite side (left external oblique rotates torso to the right), laterally flex the trunk, and assist in trunk flexion. Trained by woodchoppers, side bends, and rotational movements.
-
-#### Internal Obliques
-
-Lie deep to the external obliques, with fibers running perpendicular (diagonally upward). Rotate the torso to the same side (left internal oblique rotates torso to the left) and laterally flex the trunk. Work together with the opposite external oblique during rotation. Also assist in forced expiration and intra-abdominal pressure.
-
-### Transverse
-
-#### Transversus Abdominis
-
-The deepest abdominal muscle, wrapping horizontally around the torso like a corset. Does not produce movement but compresses the abdomen to increase intra-abdominal pressure, which stabilizes the spine. Activated by bracing, stomach vacuums, and heavy compound lifts. Foundational for core stability and safe lifting.
-
-#### Diaphragm
-
-The dome-shaped muscle separating the chest cavity from the abdominal cavity. The primary muscle of breathing. Descends during inhalation to expand the lungs and rises during exhalation. Plays a critical role in bracing for heavy lifts: a deep breath combined with core bracing creates a rigid trunk. Trained through diaphragmatic breathing practice.
-
-#### Pelvic Floor Muscles
-
-A hammock of muscles spanning the base of the pelvis, including the levator ani and coccygeus. Support the pelvic organs, assist in continence, and contribute to intra-abdominal pressure during bracing. Co-contract with the transversus abdominis during heavy lifting. Strengthened through Kegel exercises and proper bracing technique.
-
-#### Multifidus
-
-Small, deep muscles spanning 2-4 vertebrae along the entire length of the spine. Stabilize individual vertebral segments during all movement. Work constantly during standing, walking, and lifting. Weakness or atrophy is strongly associated with chronic lower back pain. Trained by bird dogs, dead bugs, and any exercise requiring spinal stability under load.
-
 ## Legs
 
 ### Glutes
@@ -583,6 +547,42 @@ A deep muscle on the back of the lower leg, lying behind the tibia. Plantarflexe
 #### Peroneals
 
 Two muscles on the outer lower leg: the peroneus longus and peroneus brevis. Evert the foot (tilt the sole outward) and assist in plantarflexion. Stabilize the ankle against inversion sprains. The longus also supports the transverse arch of the foot. Trained by eversion exercises against a band and single-leg balance work.
+
+## Core
+
+### Abs
+
+#### Rectus Abdominis
+
+The "six-pack" muscle running vertically from the pubic bone to the ribcage, divided by tendinous intersections. Flexes the spine (crunching motion) and resists extension. The upper portion is hit more by crunches; the lower portion is hit more by leg raises. One continuous muscle, not truly separate upper and lower sections, but different exercises shift the bias.
+
+### Obliques
+
+#### External Obliques
+
+The outermost oblique muscles, running diagonally downward from the lower ribs to the pelvis and linea alba. Rotate the torso to the opposite side (left external oblique rotates torso to the right), laterally flex the trunk, and assist in trunk flexion. Trained by woodchoppers, side bends, and rotational movements.
+
+#### Internal Obliques
+
+Lie deep to the external obliques, with fibers running perpendicular (diagonally upward). Rotate the torso to the same side (left internal oblique rotates torso to the left) and laterally flex the trunk. Work together with the opposite external oblique during rotation. Also assist in forced expiration and intra-abdominal pressure.
+
+### Transverse
+
+#### Transversus Abdominis
+
+The deepest abdominal muscle, wrapping horizontally around the torso like a corset. Does not produce movement but compresses the abdomen to increase intra-abdominal pressure, which stabilizes the spine. Activated by bracing, stomach vacuums, and heavy compound lifts. Foundational for core stability and safe lifting.
+
+#### Diaphragm
+
+The dome-shaped muscle separating the chest cavity from the abdominal cavity. The primary muscle of breathing. Descends during inhalation to expand the lungs and rises during exhalation. Plays a critical role in bracing for heavy lifts: a deep breath combined with core bracing creates a rigid trunk. Trained through diaphragmatic breathing practice.
+
+#### Pelvic Floor Muscles
+
+A hammock of muscles spanning the base of the pelvis, including the levator ani and coccygeus. Support the pelvic organs, assist in continence, and contribute to intra-abdominal pressure during bracing. Co-contract with the transversus abdominis during heavy lifting. Strengthened through Kegel exercises and proper bracing technique.
+
+#### Multifidus
+
+Small, deep muscles spanning 2-4 vertebrae along the entire length of the spine. Stabilize individual vertebral segments during all movement. Work constantly during standing, walking, and lifting. Weakness or atrophy is strongly associated with chronic lower back pain. Trained by bird dogs, dead bugs, and any exercise requiring spinal stability under load.
 
 
 # Factors for Exercise Selection
