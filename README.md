@@ -5,28 +5,28 @@ Updated February 2026
 
 # Contents
 
-## [Exercise by Muscle](#exercise-by-muscle)
+## [1. Exercise by Muscle](#exercise-by-muscle)
 
 - [Push](#push) (Chest, Shoulders, Triceps)
 - [Pull](#pull) (Back, Biceps, Forearms)
 - [Legs](#legs) (Quads, Hamstrings, Glutes, Calves)
 - [Core](#core) (Abs, Obliques, Deep Core)
 
-## [Weightlifting Exercises](#weightlifting-exercises)
+## [2. Weightlifting Exercises](#weightlifting-exercises)
 
 - [Push Exercises](#push-exercises) (Chest, Shoulder, Triceps)
 - [Pull Exercises](#pull-exercises) (Back, Biceps, Forearms, Explosive)
 - [Leg Exercises](#leg-exercises) (Quads, Hamstrings, Glutes, Calves, Explosive)
 - [Core Exercises](#core-exercises) (Abs, Obliques, Deep Core)
 
-## [Muscle Anatomy](#muscle-anatomy)
+## [3. Muscle Anatomy](#muscle-anatomy)
 
 - [Torso](#torso) (Chest, Back, Shoulder)
 - [Arms](#arms) (Upper Arm, Forearm)
 - [Leg Muscles](#leg-muscles) (Glutes, Upper Leg, Lower Leg)
 - [Core Muscles](#core-muscles) (Abs, Obliques, Deep Core)
 
-## [Factors for Exercise Selection](#factors-for-exercise-selection)
+## [4. Factors for Exercise Selection](#factors-for-exercise-selection)
 
 - [Stimulus Quality](#stimulus-quality)
 - [Exercise Structure](#exercise-structure)
@@ -35,7 +35,7 @@ Updated February 2026
 - [Individual Factors](#individual-factors)
 - [Quick Reference: Exercise Selection Checklist](#quick-reference-exercise-selection-checklist)
 
-[Change Log](#change-log)
+[5. Change Log](#change-log)
 
 # Exercise by Muscle
 
