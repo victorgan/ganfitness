@@ -41,48 +41,107 @@ Updated February 2026
 
 *Rationale: The Chest is the largest muscle group here. Triceps get hit hard during chest/shoulder pressing, so they go last.*
 
-| Priority | Body Part | **1. Primary Compound** (Heavy Load) | **2. Assistance** (Volume) | **3. Isolation** (Pump/Stretch) |
-| :--- | :--- | :--- | :--- | :--- |
-| **#1** | **[Chest Muscles](#pectoralis-major)** | **[Flat Barbell Bench Press](#flat-barbell-bench-press)** | **[Incline Dumbbell Press](#incline-dumbbell-press)** | **[Cable Crossovers](#cable-crossovers)** |
-| **#2** | **[Shoulder Muscles](#anterior-deltoid)** | **[Military Press](#military-press)** | **[Seated Dumbbell Overhead Press](#seated-dumbbell-overhead-press)** | **[Cable Lateral Raises](#cable-lateral-raises)** |
-| **#3** | **[Triceps Brachii](#triceps-brachii)** | **[Close-Grip Bench Press](#close-grip-bench-press)** | **[Skullcrushers](#skullcrushers)** | **[Tricep Rope Pushdowns](#tricep-rope-pushdowns)** |
-| **#4** | **[Rotator Cuff](#supraspinatus)** | *N/A (Too fragile for heavy load)* | **[Face Pulls](#face-pulls)** | **[Cable External Rotations](#cable-external-rotations)** |
+**[Chest Muscles](#pectoralis-major)**
+1. [Flat Barbell Bench Press](#flat-barbell-bench-press)
+2. [Incline Dumbbell Press](#incline-dumbbell-press)
+3. [Cable Crossovers](#cable-crossovers)
+
+**[Shoulder Muscles](#anterior-deltoid)**
+1. [Military Press](#military-press)
+2. [Seated Dumbbell Overhead Press](#seated-dumbbell-overhead-press)
+3. [Cable Lateral Raises](#cable-lateral-raises)
+
+**[Triceps Brachii](#triceps-brachii)**
+1. [Close-Grip Bench Press](#close-grip-bench-press)
+2. [Skullcrushers](#skullcrushers)
+3. [Tricep Rope Pushdowns](#tricep-rope-pushdowns)
+
+**[Rotator Cuff](#supraspinatus)**
+1. [Face Pulls](#face-pulls)
+2. [Cable External Rotations](#cable-external-rotations)
 
 ### 2. The Pull Complex (Back, Erectors, Biceps)
 *Goal: Posterior Pulling Muscles.*
 
 *Rationale: Vertical pulling (Lats) usually requires the most energy. Mid-back is second. Biceps are small and get hit by everything else, so they are third.*
 
-| Priority | Body Part | **1. Primary Compound** (Heavy Load) | **2. Assistance** (Volume) | **3. Isolation** (Pump/Stretch) |
-| :--- | :--- | :--- | :--- | :--- |
-| **#1** | **[Latissimus Dorsi](#latissimus-dorsi)** | **[Weighted Pull-Ups](#weighted-pull-ups)** | **[Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns)** | **[Straight-Arm Pulldowns](#straight-arm-pulldowns)** |
-| **#2** | **[Mid-Back](#rhomboids)** | **[Barbell Rows](#barbell-rows)** | **[Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows)** | **[Seated Cable Rows](#seated-cable-rows)** |
-| **#3** | **[Erector Spinae](#erector-spinae)** | **[Rack Pulls](#rack-pulls)** | **[Good Mornings](#good-mornings)** | **[Weighted Hyperextensions](#weighted-hyperextensions)** |
-| **#4** | **[Trapezius](#trapezius)** | **[Farmer's Walks](#farmers-walks)** | **[Barbell Shrugs](#barbell-shrugs)** | **[Kelso Shrugs](#kelso-shrugs)** |
-| **#5** | **[Biceps Brachii](#biceps-brachii)** | **[Weighted Chin-Ups](#weighted-chin-ups)** | **[Barbell Curls](#barbell-curls)** | **[Incline Dumbbell Curls](#incline-dumbbell-curls)** |
-| **#6** | **[Forearm Muscles](#brachioradialis)** | **[Reverse Barbell Curls](#reverse-barbell-curls)** | **[Barbell Wrist Curls](#barbell-wrist-curls)** | **[Plate Pinches](#plate-pinches)** |
+**[Latissimus Dorsi](#latissimus-dorsi)**
+1. [Weighted Pull-Ups](#weighted-pull-ups)
+2. [Wide-Grip Lat Pulldowns](#wide-grip-lat-pulldowns)
+3. [Straight-Arm Pulldowns](#straight-arm-pulldowns)
+
+**[Mid-Back](#rhomboids)**
+1. [Barbell Rows](#barbell-rows)
+2. [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows)
+3. [Seated Cable Rows](#seated-cable-rows)
+
+**[Erector Spinae](#erector-spinae)**
+1. [Rack Pulls](#rack-pulls)
+2. [Good Mornings](#good-mornings)
+3. [Weighted Hyperextensions](#weighted-hyperextensions)
+
+**[Trapezius](#trapezius)**
+1. [Farmer's Walks](#farmers-walks)
+2. [Barbell Shrugs](#barbell-shrugs)
+3. [Kelso Shrugs](#kelso-shrugs)
+
+**[Biceps Brachii](#biceps-brachii)**
+1. [Weighted Chin-Ups](#weighted-chin-ups)
+2. [Barbell Curls](#barbell-curls)
+3. [Incline Dumbbell Curls](#incline-dumbbell-curls)
+
+**[Forearm Muscles](#brachioradialis)**
+1. [Reverse Barbell Curls](#reverse-barbell-curls)
+2. [Barbell Wrist Curls](#barbell-wrist-curls)
+3. [Plate Pinches](#plate-pinches)
 
 ### 3. The Leg Complex (Quads, Hams, Glutes, Calves)
 *Goal: Lower Body Locomotion & Stability.*
 
 *Rationale: Squats (Quads) are the most taxing movement in the gym. They must come first. Hamstrings/Hinges are second. Calves and details are last.*
 
-| Priority | Body Part                           | **1. Primary Compound** (Heavy Load)        | **2. Assistance** (Volume)                     | **3. Isolation** (Pump/Stretch)              |
-| :------- | :---------------------------------- | :------------------------------------------ | :--------------------------------------------- | :------------------------------------------- |
-| **#1**   | **[Quadriceps](#quadriceps)**  | **[Barbell Front Squat](#barbell-front-squat)** | **[Bulgarian Split Squats](#bulgarian-split-squats)** | **[Leg Extensions](#leg-extensions)**       |
-| **#2**   | **[Hamstrings](#hamstrings)**  | **[Deadlift](#deadlift)**            | **[Romanian Deadlift](#romanian-deadlift)**      | **[Seated Leg Curls](#seated-leg-curls)**     |
-| **#3**   | **[Glutes](#gluteus-maximus)**      | **[Barbell Hip Thrusts](#barbell-hip-thrusts)** | **[Walking Lunges](#walking-lunges)**         | **[Cable Hip Abductions](#cable-hip-abductions)** |
-| **#4**   | **[Calves](#gastrocnemius)**      | **[Donkey Calf Raises](#donkey-calf-raises)**  | **[Standing Calf Raises](#standing-calf-raises)**   | **[Seated Calf Raises](#seated-calf-raises)**   |
-| **#5**   | **[Inner Thigh](#adductors)**| **[Sumo Squats](#sumo-squats)**         | **[Copenhagen Plank](#copenhagen-plank)**       | **[Adductor Machine](#adductor-machine)**     |
+**[Quadriceps](#quadriceps)**
+1. [Barbell Front Squat](#barbell-front-squat)
+2. [Bulgarian Split Squats](#bulgarian-split-squats)
+3. [Leg Extensions](#leg-extensions)
+
+**[Hamstrings](#hamstrings)**
+1. [Deadlift](#deadlift)
+2. [Romanian Deadlift](#romanian-deadlift)
+3. [Seated Leg Curls](#seated-leg-curls)
+
+**[Glutes](#gluteus-maximus)**
+1. [Barbell Hip Thrusts](#barbell-hip-thrusts)
+2. [Walking Lunges](#walking-lunges)
+3. [Cable Hip Abductions](#cable-hip-abductions)
+
+**[Calves](#gastrocnemius)**
+1. [Donkey Calf Raises](#donkey-calf-raises)
+2. [Standing Calf Raises](#standing-calf-raises)
+3. [Seated Calf Raises](#seated-calf-raises)
+
+**[Inner Thigh](#adductors)**
+1. [Sumo Squats](#sumo-squats)
+2. [Copenhagen Plank](#copenhagen-plank)
+3. [Adductor Machine](#adductor-machine)
 
 ### 4. The Core Complex (Abs & Stability)
 *Goal: Trunk Rigidity and Rotation.*
 
-| Priority | Body Part | **1. Weighted Strength** (Loadable) | **2. Dynamic Rotation** (Function) | **3. Static Stability** (Endurance) |
-| :--- | :--- | :--- | :--- | :--- |
-| **#1** | **[Rectus Abdominis](#rectus-abdominis)** | **[Hanging Leg Raises](#hanging-leg-raises)** | **[Weighted Cable Crunches](#weighted-cable-crunches)** | **[Dead Bugs](#dead-bugs)** |
-| **#2** | **[Obliques](#external-obliques)** | **[Suitcase Carries](#suitcase-carries)** | **[Cable Woodchoppers](#cable-woodchoppers)** | **[Side Planks](#side-planks)** |
-| **#3** | **[Deep Core](#transversus-abdominis)** | **[Ab Wheel Rollouts](#ab-wheel-rollouts)** | **[Stomach Vacuums](#stomach-vacuums)** | **[Planks](#planks)** |
+**[Rectus Abdominis](#rectus-abdominis)**
+1. [Hanging Leg Raises](#hanging-leg-raises)
+2. [Weighted Cable Crunches](#weighted-cable-crunches)
+3. [Dead Bugs](#dead-bugs)
+
+**[Obliques](#external-obliques)**
+1. [Suitcase Carries](#suitcase-carries)
+2. [Cable Woodchoppers](#cable-woodchoppers)
+3. [Side Planks](#side-planks)
+
+**[Deep Core](#transversus-abdominis)**
+1. [Ab Wheel Rollouts](#ab-wheel-rollouts)
+2. [Stomach Vacuums](#stomach-vacuums)
+3. [Planks](#planks)
 
 # Weightlifting Exercises
 
