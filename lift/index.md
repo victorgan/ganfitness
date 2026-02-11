@@ -95,7 +95,7 @@ Squat focus. Back squat is the priority.
 
 ## Upper B
 
-Vertical push/pull focus. Military press is the priority.
+Vertical push/pull focus. Military press is the priority. Lateral raises added for side delt frequency — shoulder width is trained twice per week.
 
 | # | Exercise | Sets x Reps | Rest |
 | :--- | :--- | :--- | :--- |
@@ -104,8 +104,9 @@ Vertical push/pull focus. Military press is the priority.
 | 2 | [Weighted Pull-Ups](#weighted-pull-ups) | 4 x 5–8 | 3 min |
 | 3 | [Incline Dumbbell Press](#incline-dumbbell-press) | 3 x 8–10 | 2 min |
 | 4 | [Barbell Curls](#barbell-curls) | 3 x 10–12 | 90 sec |
-| 5 | [Cable External Rotations](#cable-external-rotations) | 2 x 15–20 | 60 sec |
-| 6 | [Ab Wheel Rollouts](#ab-wheel-rollouts) | 2 x 8–12 | 60 sec |
+| 5 | [Cable Lateral Raises](#cable-lateral-raises) | 3 x 12–15 | 90 sec |
+| 6 | [Cable External Rotations](#cable-external-rotations) | 2 x 15–20 | 60 sec |
+| 7 | [Ab Wheel Rollouts](#ab-wheel-rollouts) | 2 x 8–12 | 60 sec |
 
 ## Lower B
 
@@ -150,6 +151,8 @@ Exercises are organized into a push/pull/legs/core split and listed in recommend
 
 **Rep Ranges:** Primary compounds: 3–6 reps, heavy, progressive overload. Moderate compounds and accessories: 6–12 reps. Isolation and volume accumulators: 10–20 reps, mind-muscle connection. Two to four working sets per exercise. This guide covers exercise selection — sets, frequency, and periodization depend on [training experience](#training-experience) and [training goals](#training-goals).
 
+**Aesthetic priority:** Shoulder-to-waist ratio is the most visually impactful metric in a physique. Exercises that build shoulder width (lateral raises, pull-ups) and maintain a tight waist (anti-movement core, avoiding heavy oblique loading) receive priority. Posture supports the frame: retracted shoulders open the chest and widen the visual shoulder line; an anterior pelvic tilt pushes the stomach out and flattens the V-taper.
+
 ## Push
 
 Chest, shoulders, triceps, rotator cuff — sequenced from largest muscle group to prehab.
@@ -161,12 +164,16 @@ Chest, shoulders, triceps, rotator cuff — sequenced from largest muscle group 
 
 Sequenced from highest to lowest [fatigue cost](#fatigue-cost), covering all three pec fiber regions (sternal, clavicular, costal) across three implements (barbell, dumbbell, cable). Crossovers provide the [stretch under load](#stretch-under-load) that pressing cannot. [Dumbbell flyes](#dumbbell-flyes) removed: they duplicate the crossover's function with higher [joint stress](#joint-stress).
 
+For a V-taper physique, chest volume should stay moderate. Overdeveloped lower pecs create a droopy look that works against clean lines. The upper chest (incline pressing) matters more visually than lower chest — a full upper chest creates a square chest-to-collarbone line rather than saggy pecs.
+
 **Shoulders** ([Anterior Deltoid](#anterior-deltoid), [Lateral Deltoid](#lateral-deltoid), [Posterior Deltoid](#posterior-deltoid))
 1. [Military Press](#military-press) (primary compound)
 2. [Cable Lateral Raises](#cable-lateral-raises) (lateral delt isolation)
 3. [Face Pulls](#face-pulls) (rear delt + prehab)
 
 One compound press is sufficient — the anterior deltoid already gets heavy work from bench pressing. Lateral raises isolate the [lateral deltoid](#lateral-deltoid), which no compound press develops adequately. Face pulls cover the [posterior deltoid](#posterior-deltoid) and external rotators simultaneously. [Seated dumbbell overhead press](#seated-dumbbell-overhead-press) removed: overlaps with military press without sufficient benefit.
+
+For a V-taper physique, lateral raise volume should meet or exceed overhead press volume across the week. The [anterior deltoid](#anterior-deltoid) gets heavy indirect work from all bench and incline pressing — the [lateral deltoid](#lateral-deltoid) gets none, making direct lateral raise work the highest-impact shoulder exercise for shoulder width.
 
 **Triceps** ([Triceps Brachii](#triceps-brachii))
 1. [Overhead Tricep Extensions](#overhead-tricep-extensions) (long head stretch)
@@ -189,6 +196,8 @@ Lats, mid-back, erectors/traps, biceps, forearms — vertical pulls first while 
 
 Pull-ups provide the heaviest vertical pull; straight-arm pulldowns isolate the lats by removing bicep involvement. Two distinct movement patterns (compound pull, cable isolation) cover lat development efficiently. [Wide-grip lat pulldowns](#wide-grip-lat-pulldowns) removed: duplicates the pull-up pattern with less loading potential.
 
+Lat width is the other half of the V-taper equation — wide lats taper the torso from shoulders to waist. Prioritize vertical pulls (pull-ups, pulldowns) over horizontal rows for width development.
+
 **Mid-Back** ([Rhomboids](#rhomboids), [Trapezius](#trapezius))
 1. [Chest-Supported T-Bar Rows](#chest-supported-t-bar-rows) (primary compound)
 2. [Barbell Rows](#barbell-rows) (volume / secondary)
@@ -200,6 +209,8 @@ Both are upper-back rows (elbows flared, pulling to chest) emphasizing rhomboids
 2. [Farmer's Walks](#farmers-walks) (loaded carry finisher)
 
 Hyperextensions build the erectors with minimal spinal compression and the best [stimulus-to-fatigue ratio](#fatigue-cost) of any erector exercise. Farmer's walks follow as a multi-function finisher covering upper traps, grip, [core](#transversus-abdominis), and [erectors](#erector-spinae) simultaneously. [Barbell shrugs](#barbell-shrugs) and [Kelso shrugs](#kelso-shrugs) removed: farmer's walks cover all three trap regions. [Good mornings](#good-mornings) removed: adds lower-back [joint stress](#joint-stress) on top of deadlifts and rows.
+
+For aesthetics, upper trap hypertrophy shortens the neck and narrows the visual shoulder line — counterproductive for a V-taper. Farmer's walks provide sufficient upper trap stimulus without chasing shrug-specific hypertrophy. Mid and lower trap work (face pulls, rows) is actively beneficial — it pulls the shoulder blades back and makes the frame look broader.
 
 **Biceps** ([Biceps Brachii](#biceps-brachii), [Brachialis](#brachialis))
 1. [Barbell Curls](#barbell-curls) (primary lift)
@@ -262,11 +273,15 @@ Abs, obliques, deep core — anti-movement exercises prioritized over concentric
 
 Hanging leg raises for longest [range of motion](#full-range-of-motion) and spinal decompression, ab wheel rollouts for anti-extension, weighted cable crunches for [loadable](#loadability) progressive overload. [Dead bugs](#dead-bugs) removed: a regression of the anti-extension pattern that ab wheel rollouts cover more effectively.
 
+For a flat, defined midsection, train abs for definition rather than thickness. Higher rep ranges (10–20) with controlled tempos produce visible definition without the blocky, protruding look that heavy loaded crunches can create.
+
 **Obliques** ([External Obliques](#external-obliques), [Internal Obliques](#internal-obliques))
 1. [Suitcase Carries](#suitcase-carries) (anti-lateral-flexion)
 2. [Cable Woodchoppers](#cable-woodchoppers) (rotational power)
 
 Suitcase carries for anti-lateral-flexion under heavy load; cable woodchoppers for rotational power in the transverse [movement plane](#movement-plane-coverage) that most exercises miss. [Side planks](#side-planks) removed: suitcase carries train anti-lateral-flexion more effectively under progressive loading.
+
+Keep woodchopper loads moderate — heavy progressive overload on oblique exercises thickens the waist and works against the V-taper. Anti-rotation and anti-lateral-flexion patterns (suitcase carries, Pallof press) develop oblique strength without adding visual width.
 
 **Deep Core** ([Transversus Abdominis](#transversus-abdominis), [Quadratus Lumborum](#quadratus-lumborum))
 1. [Turkish Get-Ups](#turkish-get-ups) (full-body coordination / functional movement)
@@ -603,6 +618,8 @@ Lie on your back holding a kettlebell or dumbbell pressed overhead in one hand, 
 ## Torso
 
 [Chest](#chest-muscles) and [anterior deltoid](#anterior-deltoid) are almost always overtrained relative to [back](#back-muscles) and [posterior deltoid](#posterior-deltoid), which leads to rounded shoulders and shoulder injury risk. Pulling volume should match or exceed pushing volume. For physique, back width drives V-taper more than chest size — prioritize [lats](#latissimus-dorsi) and mid/lower [traps](#trapezius). The most neglected muscles are the [posterior deltoid](#posterior-deltoid), lower [traps](#trapezius), [serratus anterior](#serratus-anterior), and rotator cuff external rotators ([infraspinatus](#infraspinatus), [teres minor](#teres-minor)). The rotator cuff is the weakest link in the shoulder; light prehab work prevents the injuries that derail pressing progress.
+
+Posture is the frame the physique hangs on. Forward-rounded shoulders compress the V-taper visually even with well-developed delts; an anterior pelvic tilt pushes the lower belly forward even at low body fat. [Face pulls](#face-pulls), rear delt work, and hip flexor stretching directly support the visual goals.
 
 ### Chest Muscles
 
@@ -949,7 +966,7 @@ Beginners benefit most from simple, compound, bilateral exercises with low skill
 
 ### Training Goals
 
-Exercise selection differs by goal. **Strength-focused** trainees prioritize heavy compounds with competition specificity; accessories are selected to support the primary lifts. **Hypertrophy-focused** trainees prioritize stretch under load, mind-muscle connection, and stimulus-to-fatigue ratio; the best exercise is whichever produces the most growth for that individual. **Athletic performance** trainees prioritize movement pattern transfer, velocity, and multi-planar work. **General fitness** trainees benefit from a balanced selection across movement patterns and planes, favoring exercises with good long-term joint health profiles.
+Exercise selection differs by goal. **Strength-focused** trainees prioritize heavy compounds with competition specificity; accessories are selected to support the primary lifts. **Hypertrophy-focused** trainees prioritize stretch under load, mind-muscle connection, and stimulus-to-fatigue ratio; the best exercise is whichever produces the most growth for that individual. For a V-taper aesthetic, shoulder-to-waist ratio is the primary visual metric — prioritize lateral delts, lats, and upper chest; keep oblique and lower chest volume moderate to avoid widening the waist or creating a droopy chest. Body fat in the 10–15% range is necessary for muscle definition to read visually. **Athletic performance** trainees prioritize movement pattern transfer, velocity, and multi-planar work. **General fitness** trainees benefit from a balanced selection across movement patterns and planes, favoring exercises with good long-term joint health profiles.
 
 # Change Log
 - 2026-02-08: Add athletic/conditioning layer: power primers (med ball chest pass, med ball slam, box jumps, broad jumps), two conditioning days (steady state + intervals), Turkish get-ups. Swap hip thrusts → single-leg RDLs (Lower A), leg extensions → walking lunges (Lower B), cable crunches → Turkish get-ups (Upper A). Move med ball slam to Explosive Pull. Add exercise reference entries for new movements.
